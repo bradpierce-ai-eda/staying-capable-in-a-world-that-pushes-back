@@ -26,9 +26,10 @@ DOI_URL = f"https://doi.org/{DOI}"
 ZENODO_URL = "https://zenodo.org/records/23292386"
 REPO_NAME = "staying-capable-in-a-world-that-pushes-back"
 REPO_URL = f"https://github.com/bradpierce-ai-eda/{REPO_NAME}"
-PAGES_URL = f"https://bradpierce-ai-eda.github.io/{REPO_NAME}/"
+PAGES_URL = f"https://bradpierce.ai/{REPO_NAME}/"
 PUBLIC_PDF = "staying-capable-in-a-world-that-pushes-back.pdf"
 PUBLICATION_DATE = "2026-10-11"
+SCHOLAR_PUBLICATION_DATE = PUBLICATION_DATE.replace("-", "/")
 VERSION = "1.0"
 LICENSE_NAME = "Creative Commons Attribution-NonCommercial 4.0 International"
 LICENSE_URL = "https://creativecommons.org/licenses/by-nc/4.0/"
@@ -391,6 +392,19 @@ def relevance_html() -> str:
 </aside>"""
 
 
+def scholarly_front_matter_html(abstract: str) -> str:
+    return f"""<header id="scholarly-front-matter">
+<h1>{html_std.escape(TITLE)}</h1>
+<p class="subtitle">{html_std.escape(SUBTITLE)}</p>
+<p class="authors">{html_std.escape(AUTHOR)}</p>
+<p>Published {html_std.escape(PUBLICATION_DATE)} · DOI: <a href="{DOI_URL}">{DOI}</a></p>
+<section aria-labelledby="scholarly-abstract-heading">
+<h2 id="scholarly-abstract-heading">Abstract</h2>
+<p>{html_std.escape(abstract)}</p>
+</section>
+</header>"""
+
+
 def add_meta(head, name: str, content: str) -> None:
     element = etree.Element("meta")
     element.set("name", name)
@@ -406,14 +420,15 @@ def build_index(source_html: Path, repo: Path, abstract: str, keywords: list[str
     main.set("id", "canonical-paper")
     for image in main.xpath(".//img[@src]"):
         image.set("src", image.get("src").replace("assets/", "figures/"))
-    canonical = etree.Element("link", rel="canonical", href=DOI_URL)
+    canonical = etree.Element("link", rel="canonical", href=PAGES_URL)
     head.append(canonical)
-    add_meta(head, "citation_title", FULL_TITLE)
+    add_meta(head, "citation_title", TITLE)
     add_meta(head, "citation_author", AUTHOR)
-    add_meta(head, "citation_publication_date", PUBLICATION_DATE)
+    add_meta(head, "citation_publication_date", SCHOLAR_PUBLICATION_DATE)
     add_meta(head, "citation_doi", DOI)
     add_meta(head, "citation_pdf_url", PAGES_URL + PUBLIC_PDF)
     add_meta(head, "citation_fulltext_html_url", PAGES_URL)
+    add_meta(head, "robots", "index, follow")
     add_meta(head, "description", abstract)
     add_meta(head, "keywords", ", ".join(keywords))
     schema = etree.Element("script", type="application/ld+json")
@@ -425,16 +440,27 @@ def build_index(source_html: Path, repo: Path, abstract: str, keywords: list[str
         "author": {"@type": "Person", "name": AUTHOR, "@id": ORCID},
         "datePublished": PUBLICATION_DATE,
         "identifier": DOI_URL,
+        "url": PAGES_URL,
         "sameAs": [DOI_URL, ZENODO_URL],
         "license": LICENSE_URL,
         "inLanguage": "en",
         "keywords": keywords,
         "abstract": abstract,
         "isBasedOn": DOI_URL,
+        "encoding": {"@type": "MediaObject", "contentUrl": PAGES_URL + PUBLIC_PDF, "encodingFormat": "application/pdf"},
     }, ensure_ascii=False)
     head.append(schema)
+    style_nodes = head.xpath("./style")
+    if style_nodes:
+        style_nodes[0].text = (style_nodes[0].text or "") + (
+            "#scholarly-front-matter,#relevance-and-citation-scope{max-width:1080px;margin:0 auto;"
+            "background:white;padding:36px 7vw}#scholarly-front-matter h1{margin-top:0}"
+            "#relevance-and-citation-scope{border-top:1px solid #dbe6e6}"
+        )
     body = document.xpath("//body")[0]
-    body.insert(body.index(main), html.fragment_fromstring(relevance_html()))
+    insertion = body.index(main)
+    body.insert(insertion, html.fragment_fromstring(scholarly_front_matter_html(abstract)))
+    body.insert(insertion + 1, html.fragment_fromstring(relevance_html()))
     rendered = "<!doctype html>\n" + etree.tostring(document, encoding="unicode", method="html", pretty_print=True)
     output_main = html.fromstring(rendered.encode("utf-8")).xpath('//main[@id="canonical-paper"]')[0]
     if text_hash(output_main) != source_signature:
