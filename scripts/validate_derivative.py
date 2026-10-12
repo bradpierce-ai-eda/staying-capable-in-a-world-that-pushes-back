@@ -188,10 +188,12 @@ def main() -> None:
     checksum_map = {}
     for line in checksum_lines:
         digest, name = line.split("  ", 1)
+        require(name not in checksum_map, f"Duplicate checksum target: {name}")
+        require("__pycache__" not in Path(name).parts and Path(name).suffix not in {".pyc", ".pyo"}, f"Ignored cache artifact in checksum manifest: {name}")
         checksum_map[name] = digest
     targets = sorted(
         path for path in root.rglob("*")
-        if path.is_file() and path.name != "checksums.sha256" and ".git" not in path.parts
+        if path.is_file() and path.name != "checksums.sha256" and ".git" not in path.parts and "__pycache__" not in path.parts and path.suffix not in {".pyc", ".pyo"}
     )
     require(set(checksum_map) == {path.relative_to(root).as_posix() for path in targets}, "Checksum target set mismatch")
     for path in targets:

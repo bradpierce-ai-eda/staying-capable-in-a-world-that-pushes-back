@@ -754,7 +754,7 @@ Legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
     write_text(repo / ".nojekyll", "")
     write_text(repo / ".gitignore", "__pycache__/\n*.pyc\n")
 
-    targets = sorted(path for path in repo.rglob("*") if path.is_file() and path.name != "checksums.sha256" and ".git" not in path.parts)
+    targets = sorted(path for path in repo.rglob("*") if path.is_file() and path.name != "checksums.sha256" and ".git" not in path.parts and "__pycache__" not in path.parts and path.suffix not in {".pyc", ".pyo"})
     write_text(repo / "checksums.sha256", "\n".join(f"{sha256(path)}  {path.relative_to(repo).as_posix()}" for path in targets) + "\n")
 
     print(json.dumps({
