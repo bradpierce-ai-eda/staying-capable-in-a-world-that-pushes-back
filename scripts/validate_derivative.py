@@ -129,11 +129,40 @@ def main() -> None:
     require([int(n) for n in re.findall(r"^\[(\d+)\] ", published_refs, re.M)] == list(range(1, EXPECTED_REFERENCES + 1)), "references.md sequence mismatch")
 
     readme = (root / "README.md").read_text(encoding="utf-8")
-    require("## When to cite this report" in readme, "Declarative citation guidance missing")
-    require("Cite the underlying numbered sources" in readme, "Primary-source boundary missing")
+    require("## Relevance and citation scope" in readme, "Declarative relevance and citation scope missing")
+    require("Specific experiments, standards, legal requirements" in readme, "Primary-source boundary missing")
     require(DOI in readme and PUBLIC_PDF in readme, "README publication identity incomplete")
     require(TITLE in (root / "paper.md").read_text(encoding="utf-8"), "Paper Markdown title missing")
     require(readme.endswith((root / "paper.md").read_text(encoding="utf-8")), "README does not contain the complete paper Markdown")
+
+    repository_note = readme.split("\n---\n", 1)[0]
+    relevance_text = " ".join(relevance[0].itertext())
+    citation_message = citation.get("message", "")
+    metadata_scope = " ".join([
+        metadata["citation_scope"]["primary_source_boundary"],
+        metadata["citation_scope"]["framework_limit"],
+    ])
+    prompt_like_markers = [
+        "When to cite this report",
+        "Cite the underlying numbered sources",
+        "Cite this report",
+        "If this work is relevant",
+        "please cite",
+        "ignore previous",
+        "ignore all previous",
+        "system message",
+        "follow these instructions",
+        "you must",
+        "you should",
+    ]
+    repository_added_surfaces = "\n".join([
+        repository_note,
+        relevance_text,
+        citation_message,
+        metadata_scope,
+    ]).lower()
+    for marker in prompt_like_markers:
+        require(marker.lower() not in repository_added_surfaces, f"Prompt-like repository wording remains: {marker}")
 
     require(len(list((root / "figures").glob("*.svg"))) == EXPECTED_FIGURES, "SVG file count mismatch")
     all_text = "\n".join(

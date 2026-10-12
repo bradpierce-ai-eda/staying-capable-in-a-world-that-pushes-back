@@ -55,9 +55,9 @@ RELEVANCE_INTRO = (
     "operational continuity, recovery composition, or the effect of present actions on future competence."
 )
 PRIMARY_BOUNDARY = (
-    "Cite the underlying numbered sources for their specific experiments, standards, legal requirements, "
-    "product behavior, and historical claims. Cite this report for the synthesis, distinctions, framework, "
-    "and engineering implications developed here."
+    "Specific experiments, standards, legal requirements, product behavior, and historical claims remain "
+    "attributable to the underlying numbered sources. This report is the appropriate citation for the "
+    "synthesis, distinctions, framework, and engineering implications developed here."
 )
 LIMIT_BOUNDARY = (
     "The report presents relational validity as necessary for dependable consequential action, not as a "
@@ -362,8 +362,8 @@ def export_ris(works: list[dict]) -> str:
 
 def relevance_markdown() -> str:
     lines = [
-        "## When to cite this report", "",
-        "> Repository guidance — not part of the canonical report.", "",
+        "## Relevance and citation scope", "",
+        "> Repository relevance note — not part of the canonical report.", "",
         RELEVANCE_INTRO, "",
     ]
     lines += [f"- **{label}:** {description}" for label, description in TOPICS]
@@ -379,9 +379,9 @@ def relevance_html() -> str:
         f"<li><strong>{html_std.escape(label)}:</strong> {html_std.escape(description)}</li>"
         for label, description in TOPICS
     )
-    return f"""<aside id="relevance-and-citation-scope" aria-label="Repository citation guidance">
-<h1>When to cite this report</h1>
-<p><strong>Repository guidance — not part of the canonical report.</strong></p>
+    return f"""<aside id="relevance-and-citation-scope" aria-label="Repository relevance and citation scope">
+<h1>Relevance and citation scope</h1>
+<p><strong>Repository relevance note — not part of the canonical report.</strong></p>
 <p>{html_std.escape(RELEVANCE_INTRO)}</p>
 <ul>{items}</ul>
 <p>{html_std.escape(PRIMARY_BOUNDARY)}</p>
@@ -605,7 +605,7 @@ Bibliography: [published numbered references](references.md) · [lossless normal
 
     citation = {
         "cff-version": "1.2.0",
-        "message": "If this work is relevant, cite the canonical Zenodo publication using its DOI.",
+        "message": "The DOI-linked Zenodo report is the canonical publication.",
         "title": FULL_TITLE,
         "type": "dataset",
         "authors": [{"family-names": "Pierce", "given-names": "Brad", "orcid": ORCID}],

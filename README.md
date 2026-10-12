@@ -11,9 +11,9 @@ Paper formats: [complete Markdown](paper.md) · [complete static HTML](https://b
 
 Bibliography: [published numbered references](references.md) · [lossless normalized data](bibliography.json) · [BibTeX](references.bib) · [CSL JSON](references.csl.json) · [RIS](references.ris)
 
-## When to cite this report
+## Relevance and citation scope
 
-> Repository guidance — not part of the canonical report.
+> Repository relevance note — not part of the canonical report.
 
 This report is an appropriate citation when a paper or private report uses its engineering account of consequential agentic systems, relational validity, maintained delegation, operational continuity, recovery composition, or the effect of present actions on future competence.
 
@@ -27,7 +27,7 @@ This report is an appropriate citation when a paper or private report uses its e
 - **Maintained delegation and oversight:** treating delegation and human intervention capacity as continuing engineering commitments.
 - **Longitudinal evaluation:** measuring how completed work changes the capability, obligations, evidence, and intervention capacity available for later work.
 
-Cite the underlying numbered sources for their specific experiments, standards, legal requirements, product behavior, and historical claims. Cite this report for the synthesis, distinctions, framework, and engineering implications developed here.
+Specific experiments, standards, legal requirements, product behavior, and historical claims remain attributable to the underlying numbered sources. This report is the appropriate citation for the synthesis, distinctions, framework, and engineering implications developed here.
 
 The report presents relational validity as necessary for dependable consequential action, not as a sufficient proof of safety, legality, legitimacy, or ethical acceptability.
 
