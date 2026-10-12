@@ -1,0 +1,44 @@
+{
+  "derivative_purpose": "AI discovery, comprehension, relevance matching, bibliographic reuse, and citation of the canonical DOI",
+  "canonical_publication": {
+    "doi": "10.5281/zenodo.23292386",
+    "url": "https://doi.org/10.5281/zenodo.23292386",
+    "zenodo_record": "https://zenodo.org/records/23292386"
+  },
+  "sources": {
+    "final_html": {
+      "archive_path": "work/figure-production-execution/illustrated-paper/index.html",
+      "sha256": "53e4770fe7140f784e5522706dee4619219ce4d5018b577d7809ba6fbf41e206"
+    },
+    "production_output": {
+      "archive_path": "work/pdf-html-style/output/staying-capable-html-style.pdf",
+      "sha256": "2ddc5af6b5251382d025e4dadfeb02c56198035e9b988919a5350613e62fcb0e"
+    },
+    "published_pdf": {
+      "filename": "staying-capable-in-a-world-that-pushes-back.pdf",
+      "sha256": "2ddc5af6b5251382d025e4dadfeb02c56198035e9b988919a5350613e62fcb0e",
+      "md5": "dbe41df8525140de9db747d013498dbd"
+    },
+    "title_translation_report": {
+      "sha256": "62895d665fee191843b15dbd336684432ec7ad243485a23239a89a490fadf399"
+    }
+  },
+  "identity_rule": {
+    "production_output_path": "work/pdf-html-style/output/staying-capable-html-style.pdf",
+    "release_filename": "staying-capable-in-a-world-that-pushes-back.pdf",
+    "byte_identity": true
+  },
+  "transform": {
+    "script": "scripts/build_derivative.py",
+    "text_source": "checksum-verified recovered final HTML",
+    "figure_source": "39 SVG assets referenced by the final HTML",
+    "table_representation": "semantic HTML tables retained from the final HTML",
+    "reference_representation": "332 verbatim numbered slots plus conservative work-level records and BibTeX, CSL JSON, and RIS exports"
+  },
+  "canonical_paper_text": {
+    "source_sha256": "db3cd49d8f0f640a8a49ad2b7a35eed9c1261087e371e89e12c1c2a12b9d66a8",
+    "published_index_sha256": "db3cd49d8f0f640a8a49ad2b7a35eed9c1261087e371e89e12c1c2a12b9d66a8",
+    "paper_markdown_sha256": "db3cd49d8f0f640a8a49ad2b7a35eed9c1261087e371e89e12c1c2a12b9d66a8"
+  },
+  "authority": "The Zenodo record and DOI are canonical. Repository files are discovery derivatives."
+}

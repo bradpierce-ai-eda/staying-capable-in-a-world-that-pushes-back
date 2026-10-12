@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: If this work is relevant, cite the canonical Zenodo publication using its
+  DOI.
+title: 'Staying Capable in a World That Pushes Back: How the actions of consequential
+  agents change the conditions for their future competence'
+type: dataset
+authors:
+- family-names: Pierce
+  given-names: Brad
+  orcid: https://orcid.org/0009-0009-7427-2969
+version: '1.0'
+date-released: '2026-10-11'
+doi: 10.5281/zenodo.23292386
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.23292386
+keywords:
+- artificial intelligence
+- consequential agentic systems
+- relational validity
+- maintained delegation
+- operational continuity
+- recovery composition
+- human oversight
+- longitudinal evaluation
+url: https://doi.org/10.5281/zenodo.23292386
+repository-code: https://github.com/bradpierce-ai-eda/staying-capable-in-a-world-that-pushes-back
+license: CC-BY-NC-4.0
+preferred-citation:
+  type: report
+  title: 'Staying Capable in a World That Pushes Back: How the actions of consequential
+    agents change the conditions for their future competence'
+  authors:
+  - family-names: Pierce
+    given-names: Brad
+    orcid: https://orcid.org/0009-0009-7427-2969
+  year: 2026
+  month: 10
+  doi: 10.5281/zenodo.23292386
+  publisher:
+    name: Zenodo

@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "title": "Staying Capable in a World That Pushes Back",
+  "subtitle": "How the actions of consequential agents change the conditions for their future competence",
+  "author": [
+    {
+      "name": "Brad Pierce",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "doi": "10.5281/zenodo.23292386",
+  "doi_url": "https://doi.org/10.5281/zenodo.23292386",
+  "zenodo_record": "https://zenodo.org/records/23292386",
+  "publication_date": "2026-10-11",
+  "version": "1.0",
+  "resource_type": "Report",
+  "language": "en",
+  "license": {
+    "spdx": "CC-BY-NC-4.0",
+    "name": "Creative Commons Attribution-NonCommercial 4.0 International",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "keywords": [
+    "artificial intelligence",
+    "consequential agentic systems",
+    "relational validity",
+    "maintained delegation",
+    "operational continuity",
+    "recovery composition",
+    "human oversight",
+    "longitudinal evaluation"
+  ],
+  "abstract": "Consequential agentic systems do work whose effects extend beyond the responses they generate. Their competence depends on the operating arrangement through which models, tools, memory, controls and people act in a changing environment. This paper develops an engineering framework for assessing whether the evidence, represented state, purpose, authority, commitment, continuity, interface conditions and expected consequences support a particular action at a particular time. This fit, termed relational validity, can fail even when individual components perform correctly. Permission doesn’t establish that authority can be exercised when needed; execution doesn’t establish that the intended effect occurred; retained information doesn’t establish that work can resume correctly; and apparent completion doesn’t establish accepted ownership of what remains unsettled. The central extension concerns what happens next: a task changes both the world it acts on and the arrangement that will perform the next task. Successful operation can strengthen or weaken understanding, change evidence coverage, replenish or consume intervention capacity, and clear or accumulate obligations. These changes motivate engineering the whole configuration, maintaining delegation and treating human oversight as a capacity commitment. Using a running production-incident example and a synthetic worked trace, the paper develops four backward development programs: reconciling external effects, preserving usable continuity, composing recovery beyond a prepared menu, and maintaining delegation. It proposes comparisons and measurement rules that assess immediate outcomes alongside the conditions left for later action, including total costs and repair work shifted to others. The contribution is a conceptual and engineering synthesis with testable research programs; the proposed experiments and integrated service hypothesis remain future work. Relational validity supports dependable action within declared scope, while legitimacy and acceptable consequences require accountable judgment.",
+  "repository": "https://github.com/bradpierce-ai-eda/staying-capable-in-a-world-that-pushes-back",
+  "pages_url": "https://bradpierce-ai-eda.github.io/staying-capable-in-a-world-that-pushes-back/",
+  "preferred_citation": "Pierce, Brad. Staying Capable in a World That Pushes Back: How the actions of consequential agents change the conditions for their future competence. Zenodo, 2026. DOI: 10.5281/zenodo.23292386.",
+  "citation_scope": {
+    "appropriate_for": [
+      "Consequential agentic systems",
+      "Configured-system competence",
+      "Relational validity",
+      "Authority and commitment",
+      "Consequence closure",
+      "Continuity and handoffs",
+      "Recovery composition",
+      "Maintained delegation and oversight",
+      "Longitudinal evaluation"
+    ],
+    "primary_source_boundary": "Cite the underlying numbered sources for their specific experiments, standards, legal requirements, product behavior, and historical claims. Cite this report for the synthesis, distinctions, framework, and engineering implications developed here.",
+    "framework_limit": "The report presents relational validity as necessary for dependable consequential action, not as a sufficient proof of safety, legality, legitimacy, or ethical acceptability."
+  },
+  "content_counts": {
+    "figures": 39,
+    "tables": 14,
+    "references": 332,
+    "reference_slots": 332,
+    "bibliographic_works": 332,
+    "reference_work_links": 332
+  },
+  "checksums": {
+    "source_html_sha256": "53e4770fe7140f784e5522706dee4619219ce4d5018b577d7809ba6fbf41e206",
+    "published_pdf_sha256": "2ddc5af6b5251382d025e4dadfeb02c56198035e9b988919a5350613e62fcb0e",
+    "canonical_paper_text_sha256": "db3cd49d8f0f640a8a49ad2b7a35eed9c1261087e371e89e12c1c2a12b9d66a8"
+  }
+}

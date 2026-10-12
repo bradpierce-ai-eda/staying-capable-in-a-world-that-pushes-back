@@ -1,0 +1,3561 @@
+TY  - BOOK
+ID  - f151_ref_001
+TI  - Cognition in the Wild
+AU  - Edwin Hutchins
+PY  - 1995
+UR  - https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/
+N1  - Published reference: Edwin Hutchins. Cognition in the Wild. MIT Press, 1995.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_002
+TI  - Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research.
+AU  - James Hollan
+AU  - Edwin Hutchins
+AU  - David Kirsh
+PY  - 2000
+UR  - https://escholarship.org/uc/item/8sb9s5rm
+N1  - Published reference: James Hollan, Edwin Hutchins, and David Kirsh. “Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research.” ACM Transactions on Computer-Human Interaction 7(2), 2000, 174–196.
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_003
+TI  - Plans and Situated Actions: The Problem of Human-Machine Communication
+AU  - Lucy A. Suchman
+PY  - 1987
+UR  - https://ics.uci.edu/~dfredmil/inf233-FQ07/oldpapers/Suchman1987ch3.pdf
+N1  - Published reference: Lucy A. Suchman. Plans and Situated Actions: The Problem of Human-Machine Communication. Cambridge University Press, 1987.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_004
+TI  - Experiences with an Architecture for Intelligent, Reactive Agents.
+AU  - R. Peter Bonasso
+AU  - R. James Firby
+AU  - Erann Gat
+AU  - David Kortenkamp
+AU  - David P. Miller
+AU  - Mark G. Slack
+PY  - 1997
+UR  - https://www.researchgate.net/profile/David-Miller-121/publication/227293587_Experiences_with_an_architecture_for_intelligent_reactive_agents/links/53ee5bcd0cf23733e80dad8c/Experiences-with-an-architecture-for-intelligent-reactive-agents.pdf
+N1  - Published reference: R. Peter Bonasso, R. James Firby, Erann Gat, David Kortenkamp, David P. Miller, and Mark G. Slack. “Experiences with an Architecture for Intelligent, Reactive Agents.” Journal of Experimental & Theoretical Artificial Intelligence 9(2–3), 1997, 237–256.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_005
+TI  - Road vehicles — Safety for automated driving systems — Design, verification and validation.
+AU  - ISO/TS 5083:2025
+PY  - 2025
+UR  - https://www.iso.org/standard/81920.html
+N1  - Published reference: ISO/TS 5083:2025. Road vehicles — Safety for automated driving systems — Design, verification and validation.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_006
+TI  - Waymo’s Safety Methodologies and Safety Readiness Determinations.
+AU  - Nick Webb et al
+UR  - https://arxiv.org/abs/2011.00054
+N1  - Published reference: Nick Webb et al. “Waymo’s Safety Methodologies and Safety Readiness Determinations.” arXiv:2011.00054, 2020.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_007
+TI  - Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments.
+AU  - Quentin de Chezelles et al
+PY  - 2026
+UR  - https://arxiv.org/abs/2602.11964
+N1  - Published reference: Quentin de Chezelles et al. “Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments.” arXiv:2602.11964, 2026.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_008
+TI  - MemGPT: Towards LLMs as Operating Systems.
+AU  - Charles Packer et al
+PY  - 2023
+UR  - https://arxiv.org/abs/2310.08560
+N1  - Published reference: Charles Packer et al. “MemGPT: Towards LLMs as Operating Systems.” arXiv:2310.08560, 2023.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_009
+TI  - Cybernetics: Or Control and Communication in the Animal and the Machine
+AU  - Norbert Wiener
+UR  - https://electronicliteraturereview.org/downloads/PDF/Wiener_1948.pdf
+N1  - Published reference: Norbert Wiener. Cybernetics: Or Control and Communication in the Animal and the Machine. 1948; 2nd ed. 1961.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_010
+TI  - An Introduction to Cybernetics
+AU  - W. Ross Ashby
+PY  - 1956
+UR  - https://ashby.info/intro.html
+N1  - Published reference: W. Ross Ashby. An Introduction to Cybernetics. Chapman & Hall, 1956.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_011
+TI  - Active Perception.
+AU  - Ruzena Bajcsy
+PY  - 1988
+UR  - https://doi.org/10.1109/5.5968
+N1  - Published reference: Ruzena Bajcsy. “Active Perception.” Proceedings of the IEEE 76(8), 1988, 996–1005.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_012
+TI  - On Distinguishing Epistemic from Pragmatic Action.
+AU  - David Kirsh
+AU  - Paul Maglio
+PY  - 1994
+UR  - https://doi.org/10.1207/s15516709cog1804_1
+N1  - Published reference: David Kirsh and Paul Maglio. “On Distinguishing Epistemic from Pragmatic Action.” Cognitive Science 18(4), 1994, 513–549.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_013
+TI  - ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities.
+AU  - Jiarui Lu et al
+PY  - 2025
+UR  - https://aclanthology.org/2025.findings-naacl.65/
+N1  - Published reference: Jiarui Lu et al. “ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities.” Findings of NAACL 2025.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_014
+TI  - Road vehicles — Test scenarios for automated driving systems — Specification for operational design domain.
+AU  - ISO 34503:2023
+PY  - 2023
+UR  - https://www.iso.org/standard/78952.html
+N1  - Published reference: ISO 34503:2023. Road vehicles — Test scenarios for automated driving systems — Specification for operational design domain.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_015
+TI  - Every Good Regulator of a System Must Be a Model of That System.
+AU  - Roger C. Conant
+AU  - W. Ross Ashby
+PY  - 1970
+UR  - https://doi.org/10.1080/00207727008920220
+N1  - Published reference: Roger C. Conant and W. Ross Ashby. “Every Good Regulator of a System Must Be a Model of That System.” International Journal of Systems Science 1(2), 1970, 89–97.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_016
+TI  - Risk Management in a Dynamic Society: A Modelling Problem.
+AU  - Jens Rasmussen
+PY  - 1997
+UR  - https://doi.org/10.1016/S0925-7535(97)00052-0
+N1  - Published reference: Jens Rasmussen. “Risk Management in a Dynamic Society: A Modelling Problem.” Safety Science 27(2–3), 1997, 183–213.
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_017
+TI  - Engineering a Safer World: Systems Thinking Applied to Safety
+AU  - Nancy G. Leveson
+PY  - 2012
+UR  - https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/92/47/2020719247/2020719247.pdf
+N1  - Published reference: Nancy G. Leveson. Engineering a Safer World: Systems Thinking Applied to Safety. MIT Press, 2012.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_018
+TI  - Monitoring ROS2: from Requirements to Autonomous Robots.
+AU  - Ivan Perez
+AU  - Anastasia Mavridou
+AU  - Tom Pressburger
+AU  - Alexander Will
+AU  - Patrick J. Martin
+PY  - 2022
+UR  - https://arxiv.org/abs/2209.14030
+N1  - Published reference: Ivan Perez, Anastasia Mavridou, Tom Pressburger, Alexander Will, and Patrick J. Martin. “Monitoring ROS2: from Requirements to Autonomous Robots.” arXiv:2209.14030, 2022.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_019
+TI  - A Verification Framework for Runtime Assurance of Autonomous UAS.
+AU  - J. Tanner Slagel et al
+PY  - 2024
+UR  - https://ntrs.nasa.gov/citations/20240007986
+N1  - Published reference: J. Tanner Slagel et al. “A Verification Framework for Runtime Assurance of Autonomous UAS.” 43rd Digital Avionics Systems Conference, 2024.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_020
+TI  - The Out-of-the-Loop Performance Problem and Level of Control in Automation.
+AU  - Mica R. Endsley
+AU  - Esin O. Kiris
+PY  - 1995
+UR  - https://doi.org/10.1518/001872095779064555
+N1  - Published reference: Mica R. Endsley and Esin O. Kiris. “The Out-of-the-Loop Performance Problem and Level of Control in Automation.” Human Factors 37(2), 1995, 381–394.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_021
+TI  - A Model for Types and Levels of Human Interaction with Automation.
+AU  - Raja Parasuraman
+AU  - Thomas B. Sheridan
+AU  - Christopher D. Wickens
+PY  - 2000
+UR  - https://www.cs.uml.edu/~holly/91.550/papers/sheridan-autonomy.pdf
+N1  - Published reference: Raja Parasuraman, Thomas B. Sheridan, and Christopher D. Wickens. “A Model for Types and Levels of Human Interaction with Automation.” IEEE Transactions on Systems, Man, and Cybernetics Part A 30(3), 2000, 286–297.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_022
+TI  - Human-Robot Mutual Adaptation in Shared Autonomy.
+AU  - Stefanos Nikolaidis
+AU  - Yu Xiang Zhu
+AU  - David Hsu
+AU  - Siddhartha Srinivasa
+PY  - 2017
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC6563347/
+N1  - Published reference: Stefanos Nikolaidis, Yu Xiang Zhu, David Hsu, and Siddhartha Srinivasa. “Human-Robot Mutual Adaptation in Shared Autonomy.” HRI 2017, 294–302.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_023
+TI  - A Hierarchical Variable Autonomy Mixed-Initiative Framework for Human-Robot Teaming in Mobile Robotics.
+AU  - Dimitris Panagopoulos et al
+PY  - 2022
+UR  - https://arxiv.org/abs/2211.14095
+N1  - Published reference: Dimitris Panagopoulos et al. “A Hierarchical Variable Autonomy Mixed-Initiative Framework for Human-Robot Teaming in Mobile Robotics.” arXiv:2211.14095, 2022.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_024
+TI  - Towards Safe and Comfortable Vehicle Control Transitions: A Systematic Review of Takeover Time, Time Budget, and Takeover Outcomes.
+AU  - Kexin Liang
+AU  - Simeon C. Calvert
+AU  - J. W. C. van Lint
+PY  - 2026
+UR  - https://journals.sagepub.com/doi/10.1177/00187208261456057
+N1  - Published reference: Kexin Liang, Simeon C. Calvert, and J. W. C. van Lint. “Towards Safe and Comfortable Vehicle Control Transitions: A Systematic Review of Takeover Time, Time Budget, and Takeover Outcomes.” Human Factors, 2026.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_025
+TI  - 継続的認可による多段階アクセス制御モデルの提案.
+TT  - Proposal of a Multi-Stage Access-Control Model Based on Continuous Authorization
+AU  - 丸居怜央
+AU  - 柳川小次郎
+AU  - 向殿政男
+PY  - 2006
+DO  - 10.14864/fss.22.0.71.0
+UR  - https://doi.org/10.14864/fss.22.0.71.0
+N1  - Published reference: 丸居怜央; 柳川小次郎; 向殿政男. “継続的認可による多段階アクセス制御モデルの提案.” 第22回ファジィシステムシンポジウム, 2006. DOI 10.14864/fss.22.0.71.0. [Proposal of a Multi-Stage Access-Control Model Based on Continuous Authorization]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_026
+TI  - Динамическая авторизация на основе истории новостных сообщений.
+TT  - Dynamic Authorization Based on the History of Events
+AU  - М. В. Баклановский
+AU  - А. Р. Ханов
+PY  - 2016
+DO  - 10.17586/2226-1494-2016-16-6-1091-1095
+UR  - https://doi.org/10.17586/2226-1494-2016-16-6-1091-1095
+N1  - Published reference: М. В. Баклановский; А. Р. Ханов. “Динамическая авторизация на основе истории новостных сообщений.” Научно-технический вестник информационных технологий, механики и оптики 16(6), 2016, 1091–1095. DOI 10.17586/2226-1494-2016-16-6-1091-1095. [Dynamic Authorization Based on the History of Events]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_027
+TI  - Code de la route, Article R311-1-1
+TT  - French Road Code: Operational Definitions for Automated Driving
+AU  - France
+UR  - https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043734839/2024-03-24
+N1  - Published reference: France. Code de la route, Article R311-1-1. Dated 2024-03-24 text; operational definitions effective 2021-07-02. [French Road Code: Operational Definitions for Automated Driving]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_028
+TI  - Safe Exploration in Continuous Action Spaces.
+AU  - Gal Dalal et al
+UR  - https://arxiv.org/abs/1801.08757
+N1  - Published reference: Gal Dalal et al. “Safe Exploration in Continuous Action Spaces.” arXiv:1801.08757, 2018.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_029
+TI  - Automated Driving Systems 2.0: A Vision for Safety
+AU  - U.S. Department of Transportation / NHTSA
+PY  - 2017
+UR  - https://www.nhtsa.gov/document/automated-driving-systems-20-voluntary-guidance
+N1  - Published reference: U.S. Department of Transportation / NHTSA. Automated Driving Systems 2.0: A Vision for Safety. 2017.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_030
+TI  - On a Formal Model of Safe and Scalable Self-driving Cars.
+AU  - Shai Shalev-Shwartz
+AU  - Shaked Shammah
+AU  - Amnon Shashua
+PY  - 2017
+UR  - https://arxiv.org/abs/1708.06374
+N1  - Published reference: Shai Shalev-Shwartz, Shaked Shammah, and Amnon Shashua. “On a Formal Model of Safe and Scalable Self-driving Cars.” arXiv:1708.06374, 2017.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_031
+TI  - Standard for Evaluation of Autonomous Products.
+AU  - UL 4600, Edition 3 (2023)
+PY  - 2023
+UR  - https://www.shopulstandards.com/ProductDetail.aspx?productId=UL4600_3_S_20230317
+N1  - Published reference: UL 4600, Edition 3 (2023). Standard for Evaluation of Autonomous Products.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_032
+TI  - AgentRewind: Recoverable Execution for Long-Horizon LLM Agents.
+AU  - Yixin Wang / AgentRewind authors
+PY  - 2026
+UR  - https://arxiv.org/abs/2608.14380
+N1  - Published reference: Yixin Wang / AgentRewind authors. “AgentRewind: Recoverable Execution for Long-Horizon LLM Agents.” arXiv:2608.14380, 2026.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_033
+TI  - Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States.
+AU  - Tianyu Luo et al
+PY  - 2026
+UR  - https://arxiv.org/abs/2610.01415
+N1  - Published reference: Tianyu Luo et al. “Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States.” arXiv:2610.01415, 2026.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_034
+TI  - AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks.
+AU  - Haoran Jiang et al
+PY  - 2026
+UR  - https://proceedings.mlr.press/v306/jiang26as.html
+N1  - Published reference: Haoran Jiang et al. “AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks.” ICML 2026.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_035
+TI  - AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications.
+AU  - Yuan Zhao et al
+PY  - 2026
+UR  - https://proceedings.mlr.press/v306/zhao26bs.html
+N1  - Published reference: Yuan Zhao et al. “AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications.” ICML 2026.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_036
+TI  - Using a Robot Control Architecture to Automate Space Shuttle Operations.
+AU  - R. Peter Bonasso
+AU  - David Kortenkamp
+AU  - Troy Whitney
+PY  - 1997
+UR  - https://cdn.aaai.org/IAAI/1997/IAAI97-193.pdf
+N1  - Published reference: R. Peter Bonasso, David Kortenkamp, and Troy Whitney. “Using a Robot Control Architecture to Automate Space Shuttle Operations.” IAAI 1997.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_037
+TI  - Execution Monitoring in Robotics: A Survey.
+AU  - Ola Pettersson
+PY  - 2005
+UR  - https://www.researchgate.net/publication/222694992_Execution_monitoring_in_robotics_A_survey
+N1  - Published reference: Ola Pettersson. “Execution Monitoring in Robotics: A Survey.” Robotics and Autonomous Systems 53(2), 2005, 73–88.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_038
+TI  - 動的環境におけるBDIベースのロボットの再プランニングによる再行動決定法.
+TT  - Re-Action Decision by Replanning for a BDI-Based Robot in a Dynamic Environment
+AU  - 藤田恵
+AU  - 片山寛子
+AU  - 小島侑子
+AU  - 新出尚之
+PY  - 2010
+DO  - 10.11517/pjsai.JSAI2010.0_2E44
+UR  - https://doi.org/10.11517/pjsai.JSAI2010.0_2E44
+N1  - Published reference: 藤田恵; 片山寛子; 小島侑子; 新出尚之. “動的環境におけるBDIベースのロボットの再プランニングによる再行動決定法.” 2010年度人工知能学会全国大会. DOI 10.11517/pjsai.JSAI2010.0_2E44. [Re-Action Decision by Replanning for a BDI-Based Robot in a Dynamic Environment]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_039
+TI  - When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents.
+AU  - Dongsheng Zhu et al
+PY  - 2026
+UR  - https://arxiv.org/abs/2606.05806
+N1  - Published reference: Dongsheng Zhu et al. “When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents.” arXiv:2606.05806, 2026.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_040
+TI  - Cooperative Inverse Reinforcement Learning.
+AU  - Dylan Hadfield-Menell
+AU  - Anca Dragan
+AU  - Pieter Abbeel
+AU  - Stuart Russell
+PY  - 2016
+UR  - https://proceedings.neurips.cc/paper_files/paper/2016/hash/c3395dd46c34fa7fd8d729d8cf88b7a8-Abstract.html
+N1  - Published reference: Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, and Stuart Russell. “Cooperative Inverse Reinforcement Learning.” NeurIPS 2016.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_041
+TI  - Intuitive Programming, Adaptive Task Planning, and Dynamic Role Allocation in Human–Robot Collaboration.
+AU  - Marta Lagomarsino et al
+PY  - 2026
+UR  - https://www.annualreviews.org/content/journals/10.1146/annurev-control-022624-013624
+N1  - Published reference: Marta Lagomarsino et al. “Intuitive Programming, Adaptive Task Planning, and Dynamic Role Allocation in Human–Robot Collaboration.” Annual Review of Control, Robotics, and Autonomous Systems 9, 2026, 47–74.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_042
+TI  - Four Concepts for Resilience and the Implications for the Future of Resilience Engineering.
+AU  - David D. Woods
+PY  - 2015
+UR  - https://doi.org/10.1016/j.ress.2015.03.018
+N1  - Published reference: David D. Woods. “Four Concepts for Resilience and the Implications for the Future of Resilience Engineering.” Reliability Engineering & System Safety 141, 2015, 5–9.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_043
+TI  - Реконфигурация систем управления летательными аппаратами при отказах.
+TT  - Reconfiguration of Aircraft Control Systems under Failures
+AU  - С. Д. Земляков
+AU  - В. Ю. Рутковский
+AU  - А. В. Силаев
+PY  - 1996
+UR  - https://www.mathnet.ru/at3114
+N1  - Published reference: С. Д. Земляков; В. Ю. Рутковский; А. В. Силаев. “Реконфигурация систем управления летательными аппаратами при отказах.” Автоматика и телемеханика, 1996, № 1, 3–20. [Reconfiguration of Aircraft Control Systems under Failures]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_044
+TI  - Caractérisation des systèmes autoguérissants : diagnostiquer ce que l’on peut réparer.
+TT  - Characterizing Self-Healing Systems: Diagnose What You Can Repair
+AU  - Marie-Odile Cordier
+AU  - Yannick Pencolé
+AU  - Louise Travé-Massuyès
+AU  - Thierry Vidal
+PY  - 2009
+UR  - https://homepages.laas.fr/ypencole/papers/cordier_2008_refid6.pdf
+N1  - Published reference: Marie-Odile Cordier; Yannick Pencolé; Louise Travé-Massuyès; Thierry Vidal. “Caractérisation des systèmes autoguérissants : diagnostiquer ce que l’on peut réparer.” Revue I3 – Information Interaction Intelligence 8(2), 2009. [Characterizing Self-Healing Systems: Diagnose What You Can Repair]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_045
+TI  - Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation.
+AU  - Isabella Liu et al
+PY  - 2026
+UR  - https://arxiv.org/abs/2610.01178
+N1  - Published reference: Isabella Liu et al. “Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation.” arXiv:2610.01178, 2026.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_046
+TI  - Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V.
+AU  - Peiyuan Zhi
+AU  - Zhiyuan Zhang
+AU  - Yu Zhao
+AU  - Muzhi Han
+AU  - Zeyu Zhang
+AU  - Zhitian Li
+AU  - Ziyuan Jiao
+AU  - Baoxiong Jia
+AU  - Siyuan Huang
+PY  - 2025
+UR  - https://ieeexplore.ieee.org/document/11127975/
+N1  - Published reference: Peiyuan Zhi; Zhiyuan Zhang; Yu Zhao; Muzhi Han; Zeyu Zhang; Zhitian Li; Ziyuan Jiao; Baoxiong Jia; Siyuan Huang. “Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V.” ICRA 2025. Author version arXiv:2404.10220v2.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_047
+TI  - Coordination d'actions par planification multi-agent.
+TT  - Coordination of Actions through Multi-Agent Planning
+AU  - Flavien Balbo
+AU  - Amal El Fallah-Seghrouchni
+AU  - Suzanne Pinson
+PY  - 2002
+UR  - https://hal.science/hal-03689053
+N1  - Published reference: Flavien Balbo; Amal El Fallah-Seghrouchni; Suzanne Pinson. “Coordination d'actions par planification multi-agent.” In Organisation et Applications des Systèmes Multi-Agents, Hermès, 2002, 93–108. [Coordination of Actions through Multi-Agent Planning]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_048
+TI  - Koordination von Übernahmemanövern beim hochautomatisierten Fahren unter Berücksichtigung der Fahrerverfügbarkeit.
+TT  - Coordination of Takeover Maneuvers in Highly Automated Driving Considering Driver Availability
+AU  - Franz Albers
+AU  - Khazar Dargahi Nobari
+AU  - Jan Braun
+AU  - Katharina Bartsch
+AU  - Torsten Bertram
+PY  - 2022
+UR  - https://doi.org/10.1007/s10010-021-00547-x
+N1  - Published reference: Franz Albers; Khazar Dargahi Nobari; Jan Braun; Katharina Bartsch; Torsten Bertram. “Koordination von Übernahmemanövern beim hochautomatisierten Fahren unter Berücksichtigung der Fahrerverfügbarkeit.” Forschung im Ingenieurwesen 86 (2022): 35–48. [Coordination of Takeover Maneuvers in Highly Automated Driving Considering Driver Availability]
+ER  -
+
+TY  - STAND
+ID  - f151_ref_049
+TI  - Road vehicles — Test scenarios for automated driving systems — Scenario evaluation and test case generation.
+AU  - ISO 34505:2025
+PY  - 2025
+UR  - https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/standard/07/89/78954.html
+N1  - Published reference: ISO 34505:2025. Road vehicles — Test scenarios for automated driving systems — Scenario evaluation and test case generation.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_050
+TI  - OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments.
+AU  - Tianbao Xie et al
+PY  - 2024
+UR  - https://arxiv.org/abs/2404.07972
+N1  - Published reference: Tianbao Xie et al. “OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments.” NeurIPS 2024.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_051
+TI  - Test Case Sampling Optimization for Safety Validation of Automated Driving Systems.
+AU  - Chen Qian, Jingbin Xu, Xin Xing, et al
+PY  - 2026
+UR  - https://www.nature.com/articles/s41467-026-69675-8
+N1  - Published reference: Chen Qian, Jingbin Xu, Xin Xing, et al. “Test Case Sampling Optimization for Safety Validation of Automated Driving Systems.” Nature Communications 17, 3114 (2026).
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_052
+TI  - 真实与虚拟场景下自动驾驶车辆的主动安全性验证与确认综述.
+TT  - Review of Active-Safety Verification and Validation for Autonomous Vehicles in Real and Virtual Scenarios
+AU  - 高镇海
+AU  - 郑程元
+AU  - 赵睿
+PY  - 2025
+DO  - 10.13229/j.cnki.jdxbgxb.20230920
+UR  - https://doi.org/10.13229/j.cnki.jdxbgxb.20230920
+N1  - Published reference: 高镇海; 郑程元; 赵睿. “真实与虚拟场景下自动驾驶车辆的主动安全性验证与确认综述.” 吉林大学学报(工学版) 55(4), 2025, 1142–1162. DOI 10.13229/j.cnki.jdxbgxb.20230920. [Review of Active-Safety Verification and Validation for Autonomous Vehicles in Real and Virtual Scenarios]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_053
+TI  - 분산된 인지와 비확장적 마음.
+TT  - Distributed Cognition and the Non-Extended Mind
+AU  - 천현득
+PY  - 2011
+UR  - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001627261
+N1  - Published reference: 천현득. “분산된 인지와 비확장적 마음.” 과학철학 14(2) (2011): 121–140. [Distributed Cognition and the Non-Extended Mind]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_054
+TI  - La mente estesa ma individuata: una prospettiva simbiotica.
+TT  - The Extended but Individuated Mind: A Symbiotic Perspective
+AU  - Federico Boem
+PY  - 2021
+DO  - 10.4453/rifp.2021.0024
+UR  - https://doi.org/10.4453/rifp.2021.0024
+N1  - Published reference: Federico Boem. “La mente estesa ma individuata: una prospettiva simbiotica.” Rivista Internazionale di Filosofia e Psicologia 12(3) (2021): 254–270. DOI 10.4453/rifp.2021.0024. [The Extended but Individuated Mind: A Symbiotic Perspective]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_055
+TI  - 分布式认知——一种新的认知观点.
+TT  - Distributed Cognition—A New Cognition Perspective
+AU  - 周国梅
+AU  - 傅小兰
+PY  - 2002
+UR  - https://journal.psych.ac.cn/xlkxjz/CN/Y2002/V10/I2/147
+N1  - Published reference: 周国梅; 傅小兰. “分布式认知——一种新的认知观点.” 心理科学进展 10(2), 2002, 147–153. [Distributed Cognition—A New Cognition Perspective]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_056
+TI  - 周境有关的使用控制研究.
+TT  - Context-Aware Usage Control Research
+AU  - 罗霄峰
+AU  - 李琳
+AU  - 罗万伯
+PY  - 2013
+DO  - 10.15961/j.jsuese.2013.04.012
+UR  - https://doi.org/10.15961/j.jsuese.2013.04.012
+N1  - Published reference: 罗霄峰; 李琳; 罗万伯. “周境有关的使用控制研究.” 工程科学与技术 45(4), 2013, 103–110. DOI 10.15961/j.jsuese.2013.04.012. [Context-Aware Usage Control Research]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_057
+TI  - 電子カルテのためのポリシに基づく動的アクセス制御.
+TT  - Policy-Based Dynamic Access Control for Electronic Medical Records
+AU  - 山本由香理
+AU  - 飯島正
+PY  - 2009
+UR  - https://www.jstage.jst.go.jp/article/proceedingsissj/5/0/5_D1-2/_article/-char/ja
+N1  - Published reference: 山本由香理; 飯島正. “電子カルテのためのポリシに基づく動的アクセス制御.” 情報システム学会全国大会論文集 5, 2009, D1-2. [Policy-Based Dynamic Access Control for Electronic Medical Records]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_058
+TI  - Détection et résolution de conflits d'autorité dans un système homme-robot.
+TT  - Detection and Resolution of Authority Conflicts in a Human–Robot System
+AU  - Stéphane Mercier
+AU  - Catherine Tessier
+AU  - Frédéric Dehais
+PY  - 2010
+DO  - 10.3166/ria.24.325-356
+UR  - https://doi.org/10.3166/ria.24.325-356
+N1  - Published reference: Stéphane Mercier; Catherine Tessier; Frédéric Dehais. “Détection et résolution de conflits d'autorité dans un système homme-robot.” Revue d’Intelligence Artificielle 24(3), 2010, 325–356. DOI 10.3166/ria.24.325-356. [Detection and Resolution of Authority Conflicts in a Human–Robot System]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_059
+TI  - 認知の状況依存性と分散認知.
+TT  - Situated and Distributed Cognition
+AU  - 中島秀之
+PY  - 1994
+DO  - 10.11225/jcssadv.701
+UR  - https://doi.org/10.11225/jcssadv.701
+N1  - Published reference: 中島秀之. “認知の状況依存性と分散認知.” 認知科学の発展 7, 1994, 1–4. DOI 10.11225/jcssadv.701. [Situated and Distributed Cognition]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_060
+TI  - 自动驾驶测试场景可信性评价指标体系综述.
+TT  - Review of Evaluation Metrics for the Credibility of Autonomous-Driving Test Scenarios
+AU  - 李纪伟
+AU  - 王润民
+AU  - 朱宇
+AU  - 承靖钧
+AU  - 赵祥模
+PY  - 2026
+DO  - 10.16182/j.issn1004731x.joss.25-1067
+UR  - https://doi.org/10.16182/j.issn1004731x.joss.25-1067
+N1  - Published reference: 李纪伟; 王润民; 朱宇; 承靖钧; 赵祥模. “自动驾驶测试场景可信性评价指标体系综述.” 系统仿真学报 38(9), 2026, 2464–2485. DOI 10.16182/j.issn1004731x.joss.25-1067. [Review of Evaluation Metrics for the Credibility of Autonomous-Driving Test Scenarios]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_061
+TI  - OSWorld-JP：言語を考慮した評価のための日本語版コンピュータユースベンチマーク.
+TT  - OSWorld-JP: Japanese Computer-Use Benchmark for Language-Aware Evaluation
+AU  - 庄司文武
+AU  - 吉田雄紀
+PY  - 2025
+DO  - 10.11517/pjsai.JSAI2025.0_3Win556
+UR  - https://doi.org/10.11517/pjsai.JSAI2025.0_3Win556
+N1  - Published reference: 庄司文武; 吉田雄紀. “OSWorld-JP：言語を考慮した評価のための日本語版コンピュータユースベンチマーク.” 2025年度人工知能学会全国大会. DOI 10.11517/pjsai.JSAI2025.0_3Win556. [OSWorld-JP: Japanese Computer-Use Benchmark for Language-Aware Evaluation]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_062
+TI  - 具身智能长程机器人操作综述：挑战、机制与评价.
+TT  - Long-Horizon Robotic Manipulation in Embodied Intelligence: Challenges, Mechanisms, and Evaluation
+AU  - 张勤俭
+AU  - 刘洋
+AU  - 崔新男
+AU  - 杜健
+AU  - 李金泽
+AU  - 王九龙
+AU  - 郭娜
+AU  - 宋洪庆
+DO  - 10.13374/j.issn2095-9389.2026.06.09.003
+UR  - https://doi.org/10.13374/j.issn2095-9389.2026.06.09.003
+N1  - Published reference: 张勤俭; 刘洋; 崔新男; 杜健; 李金泽; 王九龙; 郭娜; 宋洪庆. “具身智能长程机器人操作综述：挑战、机制与评价.” 工程科学学报, 2026, latest accepted. DOI 10.13374/j.issn2095-9389.2026.06.09.003. [Long-Horizon Robotic Manipulation in Embodied Intelligence: Challenges, Mechanisms, and Evaluation]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_063
+TI  - 기억의 공학적 합리성: 인공지능 에이전트 메모리 설계에 대한 비판적 고찰.
+TT  - The Engineering Rationality of Memory: A Critical Examination of AI-Agent Memory Design
+AU  - 윤하나
+PY  - 2026
+UR  - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003317901
+N1  - Published reference: 윤하나. “기억의 공학적 합리성: 인공지능 에이전트 메모리 설계에 대한 비판적 고찰.” 미디어, 젠더 & 문화 41(1) (2026): 53–92. [The Engineering Rationality of Memory: A Critical Examination of AI-Agent Memory Design]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_064
+TI  - 조건부 자율주행자동차(Level 3)의 제어권 전환 안전성 평가를 위한 기준 시나리오 개발.
+TT  - Reference Scenarios for Safety Evaluation of Control Transition in Level-3 Automated Vehicles
+AU  - 박명옥
+AU  - 손준우
+PY  - 2019
+DO  - 10.7467/KSAE.2019.27.4.309
+UR  - https://doi.org/10.7467/KSAE.2019.27.4.309
+N1  - Published reference: 박명옥; 손준우. “조건부 자율주행자동차(Level 3)의 제어권 전환 안전성 평가를 위한 기준 시나리오 개발.” 한국자동차공학회 논문집 27(4) (2019): 309–317. DOI 10.7467/KSAE.2019.27.4.309. [Reference Scenarios for Safety Evaluation of Control Transition in Level-3 Automated Vehicles]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_065
+TI  - 조건부 자율주행시 주행환경 변화에 따른 제어권 전환 안정화 시간 영향 분석.
+TT  - Effects of Driving-Environment Change on Stabilization Time during Control Transition in Conditional Automated Driving
+AU  - 박성호
+AU  - 이경진
+AU  - 윤정은
+AU  - 김예진
+AU  - 윤일수
+PY  - 2023
+DO  - 10.12815/kits.2023.22.6.246
+UR  - https://doi.org/10.12815/kits.2023.22.6.246
+N1  - Published reference: 박성호; 이경진; 윤정은; 김예진; 윤일수. “조건부 자율주행시 주행환경 변화에 따른 제어권 전환 안정화 시간 영향 분석.” 한국ITS학회 논문지 22(6) (2023): 246–263. DOI 10.12815/kits.2023.22.6.246. [Effects of Driving-Environment Change on Stabilization Time during Control Transition in Conditional Automated Driving]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_066
+TI  - Übernahmeaufforderungen beim hochautomatisierten Fahren mit fahrfremden Tätigkeiten – welche Modalitäten sind geeignet?
+TT  - Takeover Requests in Highly Automated Driving with Non-Driving Tasks
+AU  - Andreas Lars Müller
+AU  - Bettina Abendroth
+PY  - 2022
+UR  - https://doi.org/10.1007/s41449-021-00295-2
+N1  - Published reference: Andreas Lars Müller; Bettina Abendroth. “Übernahmeaufforderungen beim hochautomatisierten Fahren mit fahrfremden Tätigkeiten – welche Modalitäten sind geeignet?” Zeitschrift für Arbeitswissenschaft 76 (2022): 344–354. [Takeover Requests in Highly Automated Driving with Non-Driving Tasks]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_067
+TI  - Formalisierung von Szenario-Klassen zur Absicherung automatisierter Fahrfunktionen.
+TT  - Formalization of Scenario Classes for Assuring Automated Driving Functions
+AU  - Hardi Hungar
+AU  - Frank Köster
+PY  - 2018
+UR  - https://elib.dlr.de/125272/
+N1  - Published reference: Hardi Hungar; Frank Köster. “Formalisierung von Szenario-Klassen zur Absicherung automatisierter Fahrfunktionen.” In AAET 2018: Automatisiertes und vernetztes Fahren, 97–114. [Formalization of Scenario Classes for Assuring Automated Driving Functions]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_068
+TI  - 자율주행자동차 평가를 위한 다중 시나리오 변환과 시뮬레이션 기반 평가 방법.
+TT  - Multi-Scenario Transformation and Simulation-Based Evaluation for Autonomous Vehicles
+AU  - 강동효
+AU  - 김인영
+AU  - 조성우
+AU  - 윤일수
+PY  - 2023
+DO  - 10.12815/kits.2023.22.6.230
+UR  - https://doi.org/10.12815/kits.2023.22.6.230
+N1  - Published reference: 강동효; 김인영; 조성우; 윤일수. “자율주행자동차 평가를 위한 다중 시나리오 변환과 시뮬레이션 기반 평가 방법.” 한국ITS학회 논문지 22(6) (2023): 230–245. DOI 10.12815/kits.2023.22.6.230. [Multi-Scenario Transformation and Simulation-Based Evaluation for Autonomous Vehicles]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_069
+TI  - 자율주행자동차 주행안전성 확보를 위한 딜레마 상황 정의 및 운전 전략 도출.
+TT  - Defining Dilemma Situations and Deriving Driving Strategies for Autonomous-Vehicle Safety
+AU  - 박성호
+AU  - 정하림
+AU  - 김예진
+AU  - 이명수
+AU  - 한음
+PY  - 2021
+DO  - 10.12815/kits.2021.20.6.264
+UR  - https://doi.org/10.12815/kits.2021.20.6.264
+N1  - Published reference: 박성호; 정하림; 김예진; 이명수; 한음. “자율주행자동차 주행안전성 확보를 위한 딜레마 상황 정의 및 운전 전략 도출.” 한국ITS학회 논문지 20(6) (2021): 264–279. DOI 10.12815/kits.2021.20.6.264. [Defining Dilemma Situations and Deriving Driving Strategies for Autonomous-Vehicle Safety]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_070
+TI  - STPA를 활용한 자율주행자동차의 시뮬레이션 기반 오류 주입 시나리오 및 안전조치 시간 연구.
+TT  - STPA-Based Simulation Fault-Injection Scenarios and Safety-Action Timing for Autonomous Vehicles
+AU  - 안대룡
+AU  - 신성근
+AU  - 백윤석
+AU  - 이혁기
+AU  - 박기홍
+AU  - 최인성
+PY  - 2019
+DO  - 10.12815/kits.2019.18.2.129
+UR  - https://doi.org/10.12815/kits.2019.18.2.129
+N1  - Published reference: 안대룡; 신성근; 백윤석; 이혁기; 박기홍; 최인성. “STPA를 활용한 자율주행자동차의 시뮬레이션 기반 오류 주입 시나리오 및 안전조치 시간 연구.” 한국ITS학회 논문지 18(2) (2019): 129–143. DOI 10.12815/kits.2019.18.2.129. [STPA-Based Simulation Fault-Injection Scenarios and Safety-Action Timing for Autonomous Vehicles]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_071
+TI  - 자율주행 차량의 실도로 주행을 위한 안전 시나리오 기반 인간중심 시스템 성능평가.
+TT  - Human-Centered System Performance Evaluation Based on Safety Scenarios for Real-Road Autonomous Driving
+AU  - 국윤영
+AU  - 이경수
+PY  - 2023
+DO  - 10.22680/kasa2023.15.2.006
+UR  - https://doi.org/10.22680/kasa2023.15.2.006
+N1  - Published reference: 국윤영; 이경수. “자율주행 차량의 실도로 주행을 위한 안전 시나리오 기반 인간중심 시스템 성능평가.” 자동차안전학회지 15(2) (2023): 6–12. DOI 10.22680/kasa2023.15.2.006. [Human-Centered System Performance Evaluation Based on Safety Scenarios for Real-Road Autonomous Driving]
+ER  -
+
+TY  - THES
+ID  - f151_ref_072
+TI  - Laufzeitüberwachung neuronaler Netze für die kameragestützte Umgebungswahrnehmung autonomer Drohnen
+TT  - Runtime Monitoring of Neural Networks for Camera-Based Environment Perception of Autonomous Drones
+AU  - Sven Kardatzke
+PY  - 2023
+UR  - https://elib.dlr.de/202952/
+N1  - Published reference: Sven Kardatzke. Laufzeitüberwachung neuronaler Netze für die kameragestützte Umgebungswahrnehmung autonomer Drohnen. Masterarbeit, Hochschule Osnabrück / DLR, 2023. [Runtime Monitoring of Neural Networks for Camera-Based Environment Perception of Autonomous Drones]
+ER  -
+
+TY  - THES
+ID  - f151_ref_073
+TI  - Architettura di sistema basata su VLM per il riconoscimento e la caratterizzazione in tempo reale degli scenari di guida
+TT  - VLM-Based System Architecture for Real-Time Recognition and Characterization of Driving Scenarios
+AU  - Simone Incerti
+PY  - 2026
+UR  - https://unire.unige.it/handle/123456789/16467?locale-attribute=it
+N1  - Published reference: Simone Incerti. Architettura di sistema basata su VLM per il riconoscimento e la caratterizzazione in tempo reale degli scenari di guida. Tesi magistrale, Università di Genova, 17 July 2026. [VLM-Based System Architecture for Real-Time Recognition and Characterization of Driving Scenarios]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_074
+TI  - 자율주행차 안전성 확보를 위한 실도로 데이터 기반 시나리오 평가 접근법.
+TT  - A Real-Road-Data-Based Scenario Evaluation Approach for Autonomous-Vehicle Safety
+AU  - 고우리
+AU  - 남두희
+AU  - 김수희
+AU  - 윤일수
+PY  - 2025
+DO  - 10.12815/kits.2025.24.3.194
+UR  - https://doi.org/10.12815/kits.2025.24.3.194
+N1  - Published reference: 고우리; 남두희; 김수희; 윤일수. “자율주행차 안전성 확보를 위한 실도로 데이터 기반 시나리오 평가 접근법.” 한국ITS학회 논문지 24(3) (2025): 194–211. DOI 10.12815/kits.2025.24.3.194. [A Real-Road-Data-Based Scenario Evaluation Approach for Autonomous-Vehicle Safety]
+ER  -
+
+TY  - THES
+ID  - f151_ref_075
+TI  - ScenWeave: Generazione Retrieval-Augmented di Scenari CARLA Eseguibili
+TT  - ScenWeave: Retrieval-Augmented Generation of Executable CARLA Scenarios
+AU  - Giorgia Baiardo
+PY  - 2026
+UR  - https://unire.unige.it/handle/123456789/16478?locale-attribute=it
+N1  - Published reference: Giorgia Baiardo. ScenWeave: Generazione Retrieval-Augmented di Scenari CARLA Eseguibili. Tesi magistrale, Università di Genova, 17 July 2026. [ScenWeave: Retrieval-Augmented Generation of Executable CARLA Scenarios]
+ER  -
+
+TY  - THES
+ID  - f151_ref_076
+TI  - Methoden zur Ermittlung der Aussagekraft eines Logischen Szenarios im Absicherungs- und Freigabeprozess einer hochautomatisierten Fahrfunktion
+TT  - Methods for Determining the Evidential Power of a Logical Scenario in Assurance and Release
+AU  - Julian Fuchs
+PY  - 2026
+UR  - https://publikationen.bibliothek.kit.edu/1000191589
+N1  - Published reference: Julian Fuchs. Methoden zur Ermittlung der Aussagekraft eines Logischen Szenarios im Absicherungs- und Freigabeprozess einer hochautomatisierten Fahrfunktion. Dissertation, KIT, 2026. [Methods for Determining the Evidential Power of a Logical Scenario in Assurance and Release]
+ER  -
+
+TY  - THES
+ID  - f151_ref_077
+TI  - Freigabeargumentation hochautomatisierter Nutzfahrzeuge im Vergleich zum menschlichen Fahrer
+TT  - Release Argumentation for Highly Automated Commercial Vehicles Compared with the Human Driver
+AU  - Johannes Plaum
+PY  - 2026
+UR  - https://publikationen.bibliothek.kit.edu/1000189719
+N1  - Published reference: Johannes Plaum. Freigabeargumentation hochautomatisierter Nutzfahrzeuge im Vergleich zum menschlichen Fahrer. Dissertation, KIT, 2026. [Release Argumentation for Highly Automated Commercial Vehicles Compared with the Human Driver]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_078
+TI  - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.
+AU  - brian ichter et al
+UR  - https://proceedings.mlr.press/v205/ahn23a.html
+N1  - Published reference: brian ichter et al. “Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.” Proceedings of The 6th Conference on Robot Learning, PMLR 205, 2023, 287–318. Preprint: Michael Ahn et al., arXiv:2204.01691v2, 2022; author order differs by edition.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_079
+TI  - What Is Intrinsic Motivation? A Typology of Computational Approaches.
+AU  - Pierre-Yves Oudeyer
+AU  - Frederic Kaplan
+PY  - 2007
+UR  - https://doi.org/10.3389/neuro.12.006.2007
+N1  - Published reference: Pierre-Yves Oudeyer and Frederic Kaplan. “What Is Intrinsic Motivation? A Typology of Computational Approaches.” Frontiers in Neurorobotics 1:6, 2007.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_080
+TI  - Risky Play and Children’s Safety: Balancing Priorities for Optimal Child Development.
+AU  - Mariana Brussoni et al
+PY  - 2012
+UR  - https://doi.org/10.3390/ijerph9093134
+N1  - Published reference: Mariana Brussoni et al. “Risky Play and Children’s Safety: Balancing Priorities for Optimal Child Development.” International Journal of Environmental Research and Public Health 9(9), 2012, 3134–3148.
+ER  -
+
+TY  - THES
+ID  - f151_ref_081
+TI  - Entwicklung, Integration und simulative Bewertung einer Entscheidungs- und Trajektorienplanung zur Umfahrung von Hindernissen in urbanen Szenarien für automatisierte Fahrzeuge
+TT  - Development, Integration and Simulation-Based Evaluation of Decision and Trajectory Planning for Obstacle Avoidance
+AU  - Erik Wienecke
+PY  - 2026
+UR  - https://elib.dlr.de/227034/
+N1  - Published reference: Erik Wienecke. Entwicklung, Integration und simulative Bewertung einer Entscheidungs- und Trajektorienplanung zur Umfahrung von Hindernissen in urbanen Szenarien für automatisierte Fahrzeuge. Masterarbeit, TU Berlin / DLR, 2026. [Development, Integration and Simulation-Based Evaluation of Decision and Trajectory Planning for Obstacle Avoidance]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_082
+TI  - Governance für KI-Agenten: Ein risikobasierte Perspektive für Transparenz und Nachvollziehbarkeit.
+TT  - Governance for AI Agents: A Risk-Based Perspective on Transparency and Traceability
+AU  - Bennet Santelmann
+PY  - 2026
+UR  - https://doi.org/10.1365/s40702-026-01311-x
+N1  - Published reference: Bennet Santelmann. “Governance für KI-Agenten: Ein risikobasierte Perspektive für Transparenz und Nachvollziehbarkeit.” HMD, published 30 July 2026. [Governance for AI Agents: A Risk-Based Perspective on Transparency and Traceability]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_083
+TI  - Vertrauen ist kein Feature: Fünf Gestaltungsempfehlungen für autonome KI-Agenten.
+TT  - Trust Is Not a Feature: Five Design Recommendations for Autonomous AI Agents
+AU  - Patrick Hiske
+AU  - Varinia Wittholz
+AU  - Susanne Robra-Bissantz
+PY  - 2026
+UR  - https://doi.org/10.1365/s40702-026-01298-5
+N1  - Published reference: Patrick Hiske; Varinia Wittholz; Susanne Robra-Bissantz. “Vertrauen ist kein Feature: Fünf Gestaltungsempfehlungen für autonome KI-Agenten.” HMD, published 29 June 2026. [Trust Is Not a Feature: Five Design Recommendations for Autonomous AI Agents]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_084
+TI  - Bounded Autonomy – Vier Prinzipien für die Governance von KI-Agenten aus der Beratungspraxis.
+TT  - Bounded Autonomy – Four Principles for AI-Agent Governance from Consulting Practice
+AU  - Nico Kling
+AU  - Vivien Bender
+AU  - Hendrik Reese
+PY  - 2026
+UR  - https://doi.org/10.1365/s40702-026-01319-3
+N1  - Published reference: Nico Kling; Vivien Bender; Hendrik Reese. “Bounded Autonomy – Vier Prinzipien für die Governance von KI-Agenten aus der Beratungspraxis.” HMD, published 12 August 2026. [Bounded Autonomy – Four Principles for AI-Agent Governance from Consulting Practice]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_085
+TI  - The Extended Mind.
+AU  - Andy Clark
+AU  - David Chalmers
+PY  - 1998
+UR  - https://doi.org/10.1093/analys/58.1.7
+N1  - Published reference: Andy Clark and David Chalmers. “The Extended Mind.” Analysis 58(1), 1998, 7–19.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_086
+TI  - 확장된 마음 이론의 쟁점들.
+TT  - Issues in the Theory of the Extended Mind
+AU  - 이영의
+PY  - 2012
+DO  - 10.17325/sgjp.2012.31..29
+UR  - https://doi.org/10.17325/sgjp.2012.31..29
+N1  - Published reference: 이영의. “확장된 마음 이론의 쟁점들.” 철학논집 31 (2012): 29–54. DOI 10.17325/sgjp.2012.31..29. [Issues in the Theory of the Extended Mind]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_087
+TI  - 확장된 마음 가설에 대한 변호.
+TT  - A Defense of the Extended-Mind Hypothesis
+AU  - 이영의
+PY  - 2011
+UR  - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001539331
+N1  - Published reference: 이영의. “확장된 마음 가설에 대한 변호.” 범한철학 60(1) (2011): 185–204. [A Defense of the Extended-Mind Hypothesis]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_088
+TI  - Autopoiesis and Cognition: The Realization of the Living
+AU  - Humberto R. Maturana
+AU  - Francisco J. Varela
+PY  - 1980
+UR  - https://monoskop.org/images/3/35/Maturana_Humberto_Varela_Francisco_Autopoiesis_and_Congition_The_Realization_of_the_Living.pdf
+N1  - Published reference: Humberto R. Maturana and Francisco J. Varela. Autopoiesis and Cognition: The Realization of the Living. 1980.
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_089
+TI  - The Embodied Mind: Cognitive Science and Human Experience
+AU  - Francisco J. Varela
+AU  - Evan Thompson
+AU  - Eleanor Rosch
+UR  - https://monoskop.org/images/2/21/Varela_Thompson_Rosch_The_Embodied_Mind_Cognitive_Science_and_Human_Experience_1991.pdf
+N1  - Published reference: Francisco J. Varela, Evan Thompson, and Eleanor Rosch. The Embodied Mind: Cognitive Science and Human Experience. MIT Press, 1991; revised ed. 2017.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_090
+TI  - Toward a Theory of Situation Awareness in Dynamic Systems.
+AU  - Mica R. Endsley
+PY  - 1995
+UR  - https://www.researchgate.net/publication/345054061_Toward_a_Theory_of_Situation_Awareness_in_Dynamic_Systems
+N1  - Published reference: Mica R. Endsley. “Toward a Theory of Situation Awareness in Dynamic Systems.” Human Factors 37(1), 1995, 32–64.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_091
+TI  - External Cognition: How Do Graphical Representations Work?
+AU  - Mike Scaife
+AU  - Yvonne Rogers
+PY  - 1996
+UR  - https://www.sussex.ac.uk/informatics/cogslib/reports/csrp/csrp335.pdf
+N1  - Published reference: Mike Scaife and Yvonne Rogers. “External Cognition: How Do Graphical Representations Work?” International Journal of Human-Computer Studies 45(2), 1996, 185–213.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_092
+TI  - Ситуационное управление: теория и практика
+TT  - Situational Control: Theory and Practice
+AU  - Д. А. Поспелов
+PY  - 1986
+UR  - https://djvu.online/file/zWa7ZfJJQsupX
+N1  - Published reference: Д. А. Поспелов. Ситуационное управление: теория и практика. М.: Наука, 1986. 288 с. [Situational Control: Theory and Practice]
+ER  -
+
+TY  - THES
+ID  - f151_ref_093
+TI  - Verhaltensentscheidung für autonome Fahrzeuge mit Blickrichtungssteuerung
+TT  - Behavior Decision for Autonomous Vehicles with Gaze-Direction Control
+AU  - Martin Pellkofer
+PY  - 2003
+UR  - https://athene-forschung.unibw.de/85311
+N1  - Published reference: Martin Pellkofer. Verhaltensentscheidung für autonome Fahrzeuge mit Blickrichtungssteuerung. Dissertation, Universität der Bundeswehr München, 2003. [Behavior Decision for Autonomous Vehicles with Gaze-Direction Control]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_094
+TI  - Ironies of Automation.
+AU  - Lisanne Bainbridge
+PY  - 1983
+UR  - https://doi.org/10.1016/0005-1098(83)90046-8
+N1  - Published reference: Lisanne Bainbridge. “Ironies of Automation.” Automatica 19(6), 1983, 775–779.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_095
+TI  - AVSC Best Practice for ADS Remote Assistance Training and Human Factors, AVSC-I-07-2026
+AU  - Automated Vehicle Safety Consortium
+PY  - 2026
+UR  - https://avsc.sae-itc.com/publication/avsc-07-2026
+N1  - Published reference: Automated Vehicle Safety Consortium. AVSC Best Practice for ADS Remote Assistance Training and Human Factors, AVSC-I-07-2026. 2026.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_096
+TI  - Shared Control for Autonomous Robotic Navigation: A Review.
+AU  - Haojie Zhang
+AU  - Chuankai Liu
+AU  - Yikang Liu
+AU  - Qing Li
+PY  - 2026
+UR  - https://www.sciencedirect.com/science/article/abs/pii/S0921889026001405
+N1  - Published reference: Haojie Zhang, Chuankai Liu, Yikang Liu, and Qing Li. “Shared Control for Autonomous Robotic Navigation: A Review.” Robotics and Autonomous Systems, 2026, 105467.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_097
+TI  - Towards Adjustable Autonomy for the Real World.
+AU  - Paul Scerri
+AU  - David V. Pynadath
+AU  - Milind Tambe
+PY  - 2002
+UR  - https://doi.org/10.1613/jair.1037
+N1  - Published reference: Paul Scerri, David V. Pynadath, and Milind Tambe. “Towards Adjustable Autonomy for the Real World.” Journal of Artificial Intelligence Research 17, 2002, 171–228.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_098
+TI  - UN Regulation No
+AU  - UNECE
+PY  - 2021
+UR  - https://eur-lex.europa.eu/eli/reg/2021/389/oj
+N1  - Published reference: UNECE. UN Regulation No. 157 — Automated Lane Keeping Systems (ALKS). Original 2021 approval text, reproduced in Commission publication 2021/389; later consolidated amendment currency not asserted.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_099
+TI  - Generative Agents: Interactive Simulacra of Human Behavior.
+AU  - Joon Sung Park et al
+PY  - 2023
+UR  - https://doi.org/10.1145/3586183.3606763
+N1  - Published reference: Joon Sung Park et al. “Generative Agents: Interactive Simulacra of Human Behavior.” UIST 2023.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_100
+TI  - Границы применимости ИИ в государственном управлении: Память LLM-агентов vs память человека.
+TT  - Limits of AI Applicability in Public Administration: Memory of LLM Agents vs Human Memory
+AU  - Е. Н. Вейбер
+AU  - М. А. Грудинин
+AU  - Т. В. Тулупьева
+AU  - А. А. Вяткин
+PY  - 2026
+UR  - https://spb.ranepa.ru/wp-content/uploads/2026/05/ac_26_2.pdf
+N1  - Published reference: Е. Н. Вейбер; М. А. Грудинин; Т. В. Тулупьева; А. А. Вяткин. “Границы применимости ИИ в государственном управлении: Память LLM-агентов vs память человека.” Управленческое консультирование, 2026, № 2, 54–67. EDN XKGYNH. [Limits of AI Applicability in Public Administration: Memory of LLM Agents vs Human Memory]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_101
+TI  - Révision des croyances dans la clôture propositionnelle d'une algèbre qualitative.
+TT  - Belief Revision in the Propositional Closure of a Qualitative Algebra
+AU  - Valmi Dufour-Lussier
+AU  - Alice Hermann
+AU  - Florence Le Ber
+AU  - Jean Lieber
+PY  - 2014
+UR  - https://hal.science/hal-01093977
+N1  - Published reference: Valmi Dufour-Lussier; Alice Hermann; Florence Le Ber; Jean Lieber. “Révision des croyances dans la clôture propositionnelle d'une algèbre qualitative.” JIAF 2014, Angers. [Belief Revision in the Propositional Closure of a Qualitative Algebra]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_102
+TI  - 智能体行动推理中的信念修正.
+TT  - Belief Revision in Intelligent-Agent Action Reasoning
+AU  - 刘一松
+AU  - 桑丘
+AU  - 刘朗宇
+UR  - https://www.joca.cn/EN/Y2010/V30/I07/1892
+N1  - Published reference: 刘一松; 桑丘; 刘朗宇. “智能体行动推理中的信念修正.” 计算机应用 30(7), 2010, 1892–1895. [Belief Revision in Intelligent-Agent Action Reasoning]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_103
+TI  - Skills, Rules, and Knowledge; Signals, Signs, and Symbols, and Other Distinctions in Human Performance Models.
+AU  - Jens Rasmussen
+PY  - 1983
+UR  - https://www.scribd.com/document/398320325/SkillsRulesAndKnowledge-Rasmussen-pdf
+N1  - Published reference: Jens Rasmussen. “Skills, Rules, and Knowledge; Signals, Signs, and Symbols, and Other Distinctions in Human Performance Models.” IEEE Transactions on Systems, Man, and Cybernetics 13(3), 1983, 257–266.
+ER  -
+
+TY  - THES
+ID  - f151_ref_104
+TI  - Fehlertolerante mechatronische Aktorsysteme mit Realisierung einer elektrischen Duplex-Servolenkung
+TT  - Fault-Tolerant Mechatronic Actuator Systems with an Electric Duplex Steering Implementation
+AU  - Philipp Keßler
+PY  - 2022
+UR  - https://doi.org/10.26083/tuprints-00020882
+N1  - Published reference: Philipp Keßler. Fehlertolerante mechatronische Aktorsysteme mit Realisierung einer elektrischen Duplex-Servolenkung. Dissertation, TU Darmstadt, 2022. [Fault-Tolerant Mechatronic Actuator Systems with an Electric Duplex Steering Implementation]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_105
+TI  - Analisi del framework ROS-Plan per pianificare e adattare le azioni di un robot autonomo
+TT  - Analysis of ROSPlan for Planning and Adapting the Actions of an Autonomous Robot
+AU  - Marco Facco
+PY  - 2023
+UR  - https://hdl.handle.net/20.500.12608/68811
+N1  - Published reference: Marco Facco. Analisi del framework ROS-Plan per pianificare e adattare le azioni di un robot autonomo. Tesi, Università di Padova, 2023/24. [Analysis of ROSPlan for Planning and Adapting the Actions of an Autonomous Robot]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_106
+TI  - 자율 로봇 제조를 위한 계층적 작업 인식 프레임워크.
+TT  - Hierarchical Task-Recognition Framework for Autonomous Robotic Manufacturing
+AU  - 강민석
+AU  - 박상현
+AU  - 김무림
+PY  - 2025
+DO  - 10.7746/jkros.2025.20.3.429
+UR  - https://doi.org/10.7746/jkros.2025.20.3.429
+N1  - Published reference: 강민석; 박상현; 김무림. “자율 로봇 제조를 위한 계층적 작업 인식 프레임워크.” 로봇학회 논문지 20(3) (2025): 429–440. DOI 10.7746/jkros.2025.20.3.429. [Hierarchical Task-Recognition Framework for Autonomous Robotic Manufacturing]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_107
+TI  - Методы локального планирования поведения агентов с BDI-архитектурой.
+TT  - Methods of Local Behavior Planning for BDI-Architecture Agents
+AU  - М. А. Ровбо
+AU  - Е. Е. Овсянникова
+PY  - 2019
+DO  - 10.14357/20718594190107
+UR  - https://doi.org/10.14357/20718594190107
+N1  - Published reference: М. А. Ровбо; Е. Е. Овсянникова. “Методы локального планирования поведения агентов с BDI-архитектурой.” Искусственный интеллект и принятие решений, 2019, № 1, 74–86. DOI 10.14357/20718594190107. [Methods of Local Behavior Planning for BDI-Architecture Agents]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_108
+TI  - Gestaltung resilienter Verkehrssysteme: Funktionale Musteranalyse von Mensch–Automation-Interaktionen im Mischverkehr.
+TT  - Designing Resilient Transport Systems: Functional Pattern Analysis of Human–Automation Interaction in Mixed Traffic
+AU  - Niklas Grabbe
+PY  - 2025
+UR  - https://doi.org/10.1007/s41449-025-00495-0
+N1  - Published reference: Niklas Grabbe. “Gestaltung resilienter Verkehrssysteme: Funktionale Musteranalyse von Mensch–Automation-Interaktionen im Mischverkehr.” Zeitschrift für Arbeitswissenschaft 79 (2025): 616–628. [Designing Resilient Transport Systems: Functional Pattern Analysis of Human–Automation Interaction in Mixed Traffic]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_109
+TI  - Szenarien für Entwicklung, Absicherung und Test von automatisierten Fahrzeugen.
+TT  - Scenarios for Development, Assurance and Testing of Automated Vehicles
+AU  - Gerrit Bagschik
+AU  - Till Menzel
+AU  - Andreas Reschka
+AU  - Markus Maurer
+PY  - 2017
+UR  - https://www.researchgate.net/publication/316452171_Szenarien_fur_Entwicklung_Absicherung_und_Test_von_automatisierten_Fahrzeugen
+N1  - Published reference: Gerrit Bagschik; Till Menzel; Andreas Reschka; Markus Maurer. “Szenarien für Entwicklung, Absicherung und Test von automatisierten Fahrzeugen.” 11. Workshop Fahrerassistenzsysteme, 2017, 125–135. [Scenarios for Development, Assurance and Testing of Automated Vehicles]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_110
+TI  - 불확실성 추정을 통한 강화학습 기반 실내 탐색 개선.
+TT  - Improving Reinforcement-Learning-Based Indoor Exploration through Uncertainty Estimation
+AU  - 하준수
+AU  - 이병호
+AU  - 김영훈
+AU  - 심성준
+AU  - 서덕현
+AU  - 박종우
+PY  - 2026
+DO  - 10.7746/jkros.2026.21.1.026
+UR  - https://doi.org/10.7746/jkros.2026.21.1.026
+N1  - Published reference: 하준수; 이병호; 김영훈; 심성준; 서덕현; 박종우. “불확실성 추정을 통한 강화학습 기반 실내 탐색 개선.” 로봇학회 논문지 21(1) (2026): 26–32. DOI 10.7746/jkros.2026.21.1.026. [Improving Reinforcement-Learning-Based Indoor Exploration through Uncertainty Estimation]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_111
+TI  - Approccio Hardware-In-The-Loop per la simulazione di guasti e la validazione di moduli diagnostici in velivoli senza pilota
+TT  - Hardware-in-the-Loop Approach for Fault Simulation and Validation of Diagnostic Modules in Uncrewed Aircraft
+AU  - Lorenzo Cardoni
+UR  - https://hdl.handle.net/20.500.12075/20913
+N1  - Published reference: Lorenzo Cardoni. Approccio Hardware-In-The-Loop per la simulazione di guasti e la validazione di moduli diagnostici in velivoli senza pilota. Tesi, Università Politecnica delle Marche, 2023/24, discussed 14 February 2025. [Hardware-in-the-Loop Approach for Fault Simulation and Validation of Diagnostic Modules in Uncrewed Aircraft]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_112
+TI  - Learning Collision Risk Proactively from Naturalistic Driving Data at Scale.
+AU  - Yiru Jiao, Simeon C. Calvert, Sander van Cranenburgh, et al
+PY  - 2026
+UR  - https://www.nature.com/articles/s42256-026-01189-w
+N1  - Published reference: Yiru Jiao, Simeon C. Calvert, Sander van Cranenburgh, et al. “Learning Collision Risk Proactively from Naturalistic Driving Data at Scale.” Nature Machine Intelligence 8, 2026, 337–350.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_113
+TI  - AVSC Best Practice for Metrics and Methods for Assessing Safety Performance of Automated Driving Systems (ADS), AVSC00006202103
+AU  - Automated Vehicle Safety Consortium
+PY  - 2021
+UR  - https://go.sae.org/rs/525-RCG-129/images/AVSC00006202103.pdf
+N1  - Published reference: Automated Vehicle Safety Consortium. AVSC Best Practice for Metrics and Methods for Assessing Safety Performance of Automated Driving Systems (ADS), AVSC00006202103. 2021.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_114
+TI  - Systematic Review and Meta-analysis of Take-over Time from Automated Driving at SAE Levels 2 and 3 to Manual Control.
+AU  - Marios Sekadakis
+AU  - George Yannis
+PY  - 2025
+UR  - https://www.sciencedirect.com/science/article/pii/S1369847825001238
+N1  - Published reference: Marios Sekadakis and George Yannis. “Systematic Review and Meta-analysis of Take-over Time from Automated Driving at SAE Levels 2 and 3 to Manual Control.” Transportation Research Part F 113, 2025, 263–306.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_115
+TI  - The Ecological Approach to Visual Perception
+AU  - James J. Gibson
+PY  - 1979
+UR  - https://monoskop.org/images/c/c6/Gibson_James_J_1977_1979_The_Theory_of_Affordances.pdf
+N1  - Published reference: James J. Gibson. The Ecological Approach to Visual Perception. 1979.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_116
+TI  - Научная революция в когнитивной науке в контексте развития теории сложности.
+TT  - Scientific Revolution in Cognitive Science in the Context of Complexity Theory
+AU  - Е. Н. Князева
+PY  - 2019
+DO  - 10.18698/2306-8477-2019-1-586
+UR  - https://doi.org/10.18698/2306-8477-2019-1-586
+N1  - Published reference: Е. Н. Князева. “Научная революция в когнитивной науке в контексте развития теории сложности.” Гуманитарный вестник МГТУ им. Н. Э. Баумана, 2019, № 1, 1–13. DOI 10.18698/2306-8477-2019-1-586. [Scientific Revolution in Cognitive Science in the Context of Complexity Theory]
+ER  -
+
+TY  - THES
+ID  - f151_ref_117
+TI  - L’ipotesi della mente estesa: antropologia del cyborg naturale.
+TT  - The Extended-Mind Hypothesis: Anthropology of the Natural Cyborg
+AU  - Giulia Piredda
+PY  - 2016
+DO  - 10.4453/rifp.2016.0008
+UR  - https://doi.org/10.4453/rifp.2016.0008
+N1  - Published reference: Giulia Piredda. “L’ipotesi della mente estesa: antropologia del cyborg naturale.” Rivista Internazionale di Filosofia e Psicologia 7(1) (2016): 83–95. DOI 10.4453/rifp.2016.0008. [The Extended-Mind Hypothesis: Anthropology of the Natural Cyborg]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_118
+TI  - 분산된 인지와 마음.
+TT  - Distributed Cognition and Mind
+AU  - 이영의
+PY  - 2008
+UR  - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001280532
+N1  - Published reference: 이영의. “분산된 인지와 마음.” 철학연구 36 (2008): 3–30. [Distributed Cognition and Mind]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_119
+TI  - Contro la mente estesa.
+TT  - Against the Extended Mind
+AU  - Diego Marconi
+PY  - 2005
+DO  - 10.1422/20952
+UR  - https://doi.org/10.1422/20952
+N1  - Published reference: Diego Marconi. “Contro la mente estesa.” Sistemi Intelligenti 17(3) (2005): 389–398. DOI 10.1422/20952. [Against the Extended Mind]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_120
+TI  - La cognizione delle 4E: riforma, non rivoluzione.
+TT  - 4E Cognition: Reform, Not Revolution
+AU  - Massimo Marraffa
+PY  - 2021
+DO  - 10.1422/100379
+UR  - https://doi.org/10.1422/100379
+N1  - Published reference: Massimo Marraffa. “La cognizione delle 4E: riforma, non rivoluzione.” Sistemi Intelligenti 33(1) (2021): 89–111. DOI 10.1422/100379. [4E Cognition: Reform, Not Revolution]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_121
+TI  - 具身认知: 认知心理学的新取向.
+TT  - Embodied Cognition: A New Approach in Cognitive Psychology
+AU  - 叶浩生
+PY  - 2010
+UR  - https://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract568.shtml
+N1  - Published reference: 叶浩生. “具身认知: 认知心理学的新取向.” 心理科学进展 18(5), 2010, 705–710. [Embodied Cognition: A New Approach in Cognitive Psychology]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_122
+TI  - Cognition incarnée : Une cognition située et projetée
+TT  - Embodied Cognition: A Situated and Projected Cognition
+AU  - Rémy Versace
+AU  - Denis Brouillet
+AU  - Guillaume Vallet
+PY  - 2018
+UR  - https://hal.science/hal-03163580
+N1  - Published reference: Rémy Versace; Denis Brouillet; Guillaume Vallet. Cognition incarnée : Une cognition située et projetée. Mardaga, 2018. ISBN 9782804705930. [Embodied Cognition: A Situated and Projected Cognition]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_123
+TI  - Zukunftsentwürfe des Leibes: Integrative Psychotherapiewissenschaft und kognitive Neurowissenschaften im 21
+TT  - Future Designs of the Lived Body
+AU  - Robert Stefan
+PY  - 2020
+UR  - https://doi.org/10.1007/978-3-658-27924-0
+N1  - Published reference: Robert Stefan. Zukunftsentwürfe des Leibes: Integrative Psychotherapiewissenschaft und kognitive Neurowissenschaften im 21. Jahrhundert. Wiesbaden: Springer, 2020. [Future Designs of the Lived Body]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_124
+TI  - Fenomenologia trascendentale e cognizione incarnata. La relazione tra soggetto, corpo e mondo nel quadro di un’ontologia naturale riformata.
+TT  - Transcendental Phenomenology and Embodied Cognition
+AU  - Edoardo Fugali
+PY  - 2024
+DO  - 10.4453/rifp.2024.0021
+UR  - https://doi.org/10.4453/rifp.2024.0021
+N1  - Published reference: Edoardo Fugali. “Fenomenologia trascendentale e cognizione incarnata. La relazione tra soggetto, corpo e mondo nel quadro di un’ontologia naturale riformata.” Rivista Internazionale di Filosofia e Psicologia 15(3) (2024): 166–181. DOI 10.4453/rifp.2024.0021. [Transcendental Phenomenology and Embodied Cognition]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_125
+TI  - ‘체화된 인지(Embodied Cognition)’ 접근과 학문간 융합 －인지과학 새 패러다임과 철학의 연결이 주는 시사－.
+TT  - The Embodied Cognition Approach and Interdisciplinary Convergence
+AU  - 이정모
+PY  - 2010
+DO  - 10.15750/chss..38.201011.002
+UR  - https://doi.org/10.15750/chss..38.201011.002
+N1  - Published reference: 이정모. “‘체화된 인지(Embodied Cognition)’ 접근과 학문간 융합 －인지과학 새 패러다임과 철학의 연결이 주는 시사－.” 철학사상 38 (2010): 27–66. DOI 10.15750/chss..38.201011.002. [The Embodied Cognition Approach and Interdisciplinary Convergence]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_126
+TI  - Pensiero e azione: l’habit peirceano fra enattivismo e cognizione distribuita.
+TT  - Thought and Action: Peircean Habit between Enactivism and Distributed Cognition
+AU  - Margherita Murgiano
+PY  - 2015
+UR  - https://rifl.unical.it/index.php/rifl/article/view/305
+N1  - Published reference: Margherita Murgiano. “Pensiero e azione: l’habit peirceano fra enattivismo e cognizione distribuita.” In Filosofia del linguaggio, semiotica e filosofia della mente, 2015, 192–202. [Thought and Action: Peircean Habit between Enactivism and Distributed Cognition]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_127
+TI  - La nozione di ‘mente estesa’ tra scienze cognitive, semiotica e pragmatismo. Alcune riflessioni a partire dal tema del linguaggio.
+TT  - The Notion of Extended Mind between Cognitive Science, Semiotics and Pragmatism
+AU  - Marta Caravà
+DO  - 10.4396/01SFL2014
+UR  - https://doi.org/10.4396/01SFL2014
+N1  - Published reference: Marta Caravà. “La nozione di ‘mente estesa’ tra scienze cognitive, semiotica e pragmatismo. Alcune riflessioni a partire dal tema del linguaggio.” Rivista Italiana di Filosofia del Linguaggio, Numero Speciale 2015, 139–151. DOI 10.4396/01SFL2014. [The Notion of Extended Mind between Cognitive Science, Semiotics and Pragmatism]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_128
+TI  - Теории воплощенного познания в задаче формальной репрезентации семантики на основе мультиагентных нейрокогнитивных архитектур.
+TT  - Embodied-Cognition Theories for Formal Semantic Representation Using Multi-Agent Neurocognitive Architectures
+AU  - Д. Г. Макоева
+AU  - К. Ф. Край
+AU  - А. З. Энес
+DO  - 10.35330/1991-6639-2023-6-116-391-399
+UR  - https://doi.org/10.35330/1991-6639-2023-6-116-391-399
+N1  - Published reference: Д. Г. Макоева; К. Ф. Край; А. З. Энес. “Теории воплощенного познания в задаче формальной репрезентации семантики на основе мультиагентных нейрокогнитивных архитектур.” Известия Кабардино-Балкарского научного центра РАН, 2023, № 6(116), 391–399. DOI 10.35330/1991-6639-2023-6-116-391-399. [Embodied-Cognition Theories for Formal Semantic Representation Using Multi-Agent Neurocognitive Architectures]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_129
+TI  - La cognition située. Une nouvelle approche de la rationalité limitée.
+TT  - Situated Cognition: A New Approach to Bounded Rationality
+AU  - Frédéric Laville
+PY  - 2000
+DO  - 10.3406/reco.2000.410587
+UR  - https://doi.org/10.3406/reco.2000.410587
+N1  - Published reference: Frédéric Laville. “La cognition située. Une nouvelle approche de la rationalité limitée.” Revue économique 51(6), 2000, 1301–1331. DOI 10.3406/reco.2000.410587. [Situated Cognition: A New Approach to Bounded Rationality]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_130
+TI  - От распределенного познания к распределенному решению задач: социологическая перспектива в развитии когнитивной науки.
+TT  - From Distributed Cognition to Distributed Problem Solving: A Sociological Perspective in Cognitive Science
+AU  - А. В. Шкурко
+DO  - 10.17323/1813-8918-2010-3-3-22
+UR  - https://doi.org/10.17323/1813-8918-2010-3-3-22
+N1  - Published reference: А. В. Шкурко. “От распределенного познания к распределенному решению задач: социологическая перспектива в развитии когнитивной науки.” Психология. Журнал Высшей школы экономики 7(3), 2010, 3–22. DOI 10.17323/1813-8918-2010-3-3-22. [From Distributed Cognition to Distributed Problem Solving: A Sociological Perspective in Cognitive Science]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_131
+TI  - Der Anteil der Dinge an der Gesellschaft: Sozialität – Kognition – Netzwerke
+TT  - The Share of Things in Society: Sociality – Cognition – Networks
+AU  - Gustav Roßler
+PY  - 2015
+UR  - https://doi.org/10.1515/9783839432976
+N1  - Published reference: Gustav Roßler. Der Anteil der Dinge an der Gesellschaft: Sozialität – Kognition – Netzwerke. Bielefeld: transcript, 2015. [The Share of Things in Society: Sociality – Cognition – Networks]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_132
+TI  - Le réel, c’est la cognition distribuée construite au travers de l’écriture. L’écriture universitaire : une activité sociale et pédagogique qui participe à la construction du réel disciplinaire.
+TT  - Reality Is Distributed Cognition Constructed Through Writing
+AU  - Dacia Dressen-Hammouda
+PY  - 2021
+UR  - https://hal.science/hal-04836625
+N1  - Published reference: Dacia Dressen-Hammouda. “Le réel, c’est la cognition distribuée construite au travers de l’écriture. L’écriture universitaire : une activité sociale et pédagogique qui participe à la construction du réel disciplinaire.” In La pluralité du réel en éducation, 2021, 121–142. [Reality Is Distributed Cognition Constructed Through Writing]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_133
+TI  - The Dynamical Hypothesis in Cognitive Science.
+AU  - Tim van Gelder
+PY  - 1998
+UR  - https://doi.org/10.1017/S0140525X98001733
+N1  - Published reference: Tim van Gelder. “The Dynamical Hypothesis in Cognitive Science.” Behavioral and Brain Sciences 21(5), 1998, 615–628 (target article).
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_134
+TI  - Understanding Intelligence
+AU  - Rolf Pfeifer
+AU  - Christian Scheier
+PY  - 1999
+UR  - https://www.scribd.com/document/996514910/Understanding-Intelligence-Rolf-Pfeifer-and-Christian-Scheier-1999
+N1  - Published reference: Rolf Pfeifer and Christian Scheier. Understanding Intelligence. MIT Press, 1999.
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_135
+TI  - Intelligence as Adaptive Behavior: An Experiment in Computational Neuroethology
+AU  - Randall D. Beer
+PY  - 1990
+UR  - https://api.pageplace.de/preview/DT0400.9781483288123_A23884734/preview-9781483288123_A23884734.pdf
+N1  - Published reference: Randall D. Beer. Intelligence as Adaptive Behavior: An Experiment in Computational Neuroethology. Academic Press, 1990.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_136
+TI  - Elephants Don’t Play Chess.
+AU  - Rodney A. Brooks
+PY  - 1990
+UR  - https://doi.org/10.1016/S0921-8890(05)80025-9
+N1  - Published reference: Rodney A. Brooks. “Elephants Don’t Play Chess.” Robotics and Autonomous Systems 6, 1990, 3–15.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_137
+TI  - 체화된 인지와 반표상주의.
+TT  - Embodied Cognition and Anti-Representationalism
+AU  - 배문정
+PY  - 2015
+UR  - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002052189
+N1  - Published reference: 배문정. “체화된 인지와 반표상주의.” 과학철학 18(3) (2015): 57–87. [Embodied Cognition and Anti-Representationalism]
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_138
+TI  - Being There: Putting Brain, Body, and World Together Again
+AU  - Andy Clark
+PY  - 1997
+UR  - https://www.scribd.com/document/6300633/Andy-Clark-Being-There-Putting-Brain-Body-and-World-Together
+N1  - Published reference: Andy Clark. Being There: Putting Brain, Body, and World Together Again. MIT Press, 1997.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_139
+TI  - Passive Dynamic Walking.
+AU  - Tad McGeer
+PY  - 1990
+UR  - https://doi.org/10.1177/027836499000900206
+N1  - Published reference: Tad McGeer. “Passive Dynamic Walking.” International Journal of Robotics Research 9(2), 1990, 62–82.
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_140
+TI  - How the Body Shapes the Way We Think: A New View of Intelligence
+AU  - Rolf Pfeifer
+AU  - Josh Bongard
+PY  - 2006
+UR  - https://www.ncheney.com/teaching/robotics_readings/HowTheBodyShapesTheWayWeThink_Chap1(PfeiferBongard2006).pdf
+N1  - Published reference: Rolf Pfeifer and Josh Bongard. How the Body Shapes the Way We Think: A New View of Intelligence. MIT Press, 2006.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_141
+TI  - The Condition for Dynamic Stability.
+AU  - A. L. Hof
+AU  - M. G. J. Gazendam
+AU  - W. E. Sinke
+PY  - 2005
+UR  - https://doi.org/10.1016/j.jbiomech.2004.03.025
+N1  - Published reference: A. L. Hof, M. G. J. Gazendam, and W. E. Sinke. “The Condition for Dynamic Stability.” Journal of Biomechanics 38(1), 2005, 1–8.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_142
+TI  - The Six Determinants of Gait and the Inverted Pendulum Analogy: A Dynamic Walking Perspective.
+AU  - Arthur D. Kuo
+PY  - 2007
+UR  - https://doi.org/10.1016/j.humov.2007.04.003
+N1  - Published reference: Arthur D. Kuo. “The Six Determinants of Gait and the Inverted Pendulum Analogy: A Dynamic Walking Perspective.” Human Movement Science 26(4), 2007, 617–656.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_143
+TI  - Representations in Distributed Cognitive Tasks.
+AU  - Jiajie Zhang
+AU  - Donald A. Norman
+PY  - 1994
+UR  - https://doi.org/10.1207/s15516709cog1801_3
+N1  - Published reference: Jiajie Zhang and Donald A. Norman. “Representations in Distributed Cognitive Tasks.” Cognitive Science 18(1), 1994, 87–122.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_144
+TI  - The Intelligent Use of Space.
+AU  - David Kirsh
+PY  - 1995
+UR  - https://doi.org/10.1016/0004-3702(94)00017-U
+N1  - Published reference: David Kirsh. “The Intelligent Use of Space.” Artificial Intelligence 73(1–2), 1995, 31–68.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_145
+TI  - Cognitive Offloading.
+AU  - Evan F. Risko
+AU  - Sam J. Gilbert
+PY  - 2016
+UR  - https://doi.org/10.1016/j.tics.2016.07.002
+N1  - Published reference: Evan F. Risko and Sam J. Gilbert. “Cognitive Offloading.” Trends in Cognitive Sciences 20(9), 2016, 676–688.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_146
+TI  - コトバを超えた知を生み出す：身体性認知科学から見たコミュニケーションと熟達.
+TT  - Creating Knowledge Beyond Words: Communication and Expertise from Embodied Cognitive Science
+AU  - 鈴木宏昭
+AU  - 横山拓
+PY  - 2016
+DO  - 10.11207/soshikikagaku.49.4_4
+UR  - https://doi.org/10.11207/soshikikagaku.49.4_4
+N1  - Published reference: 鈴木宏昭; 横山拓. “コトバを超えた知を生み出す：身体性認知科学から見たコミュニケーションと熟達.” 組織科学 49(4), 2016, 4–15. DOI 10.11207/soshikikagaku.49.4_4. [Creating Knowledge Beyond Words: Communication and Expertise from Embodied Cognitive Science]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_147
+TI  - 具身记忆及其内在机制.
+TT  - Embodied Memory and Its Intrinsic Mechanism
+AU  - 金雨薇
+AU  - 孙潇
+AU  - 宋耀武
+PY  - 2022
+DO  - 10.3724/SP.J.1042.2022.02497
+UR  - https://doi.org/10.3724/SP.J.1042.2022.02497
+N1  - Published reference: 金雨薇; 孙潇; 宋耀武. “具身记忆及其内在机制.” 心理科学进展 30(11), 2022, 2497–2506. DOI 10.3724/SP.J.1042.2022.02497. [Embodied Memory and Its Intrinsic Mechanism]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_148
+TI  - Intelligence without Representation.
+AU  - Rodney A. Brooks
+PY  - 1991
+UR  - https://doi.org/10.1016/0004-3702(91)90053-M
+N1  - Published reference: Rodney A. Brooks. “Intelligence without Representation.” Artificial Intelligence 47, 1991, 139–159.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_149
+TI  - The Simplex Architecture for Safe On-Line Control System Upgrades.
+AU  - D. Seto
+AU  - B. Krogh
+AU  - L. Sha
+AU  - A. Chutinan
+PY  - 1998
+DO  - 10.1109/ACC.1998.703255
+UR  - https://doi.org/10.1109/ACC.1998.703255
+N1  - Published reference: D. Seto; B. Krogh; L. Sha; A. Chutinan. “The Simplex Architecture for Safe On-Line Control System Upgrades.” Proceedings of the 1998 American Control Conference, Vol. 6, 3504–3508. DOI 10.1109/ACC.1998.703255.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_150
+TI  - 大模型时代的具身智能机器人：感知－决策－执行技术体系研究综述.
+TT  - Embodied Intelligent Robots in the Era of Large Models: Review of the Perception–Decision–Execution Technical System
+AU  - 马龙轩
+AU  - 陈浩辉
+AU  - 万松
+AU  - 黄于欣
+AU  - 高盛祥
+AU  - 余正涛
+PY  - 2026
+UR  - https://kmlg.cbpt.cnki.net/portal/journal/portal/client/shoufa_list
+N1  - Published reference: 马龙轩; 陈浩辉; 万松; 黄于欣; 高盛祥; 余正涛. “大模型时代的具身智能机器人：感知－决策－执行技术体系研究综述.” 昆明理工大学学报(自然科学版), 2026, network first. [Embodied Intelligent Robots in the Era of Large Models: Review of the Perception–Decision–Execution Technical System]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_151
+TI  - Active Inference and Learning.
+AU  - Karl Friston et al
+PY  - 2016
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC5167251/
+N1  - Published reference: Karl Friston et al. “Active Inference and Learning.” Neuroscience & Biobehavioral Reviews 68, 2016, 862–879.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_152
+TI  - Active Inference: A Process Theory.
+AU  - Karl Friston et al
+PY  - 2017
+UR  - https://doi.org/10.1162/NECO_a_00912
+N1  - Published reference: Karl Friston et al. “Active Inference: A Process Theory.” Neural Computation 29(1), 2017, 1–49.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_153
+TI  - 自由エネルギー原理の解説：知覚・行動・他者の思考の推論.
+TT  - Tutorial on the Free-Energy Principle: Inference of Perception, Action, and Others’ Thoughts
+AU  - 磯村拓哉
+PY  - 2018
+DO  - 10.3902/jnns.25.71
+UR  - https://doi.org/10.3902/jnns.25.71
+N1  - Published reference: 磯村拓哉. “自由エネルギー原理の解説：知覚・行動・他者の思考の推論.” 日本神経回路学会誌 25(3), 2018, 71–85. DOI 10.3902/jnns.25.71. [Tutorial on the Free-Energy Principle: Inference of Perception, Action, and Others’ Thoughts]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_154
+TI  - 自由エネルギー原理―環境との相即不離の主観理論―.
+TT  - Free-Energy Principle: A Theory of Subjectivity Inseparable from the Environment
+AU  - 乾敏郎
+PY  - 2019
+DO  - 10.11225/jcss.26.366
+UR  - https://doi.org/10.11225/jcss.26.366
+N1  - Published reference: 乾敏郎. “自由エネルギー原理―環境との相即不離の主観理論―.” 認知科学 26(3), 2019, 366–386. DOI 10.11225/jcss.26.366. [Free-Energy Principle: A Theory of Subjectivity Inseparable from the Environment]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_155
+TI  - 知覚・認知・運動・感情・意思決定をつなぐ自由エネルギー原理.
+TT  - Free-Energy Principle Linking Perception, Cognition, Action, Emotion, and Decision Making
+AU  - 乾敏郎
+PY  - 2018
+DO  - 10.3902/jnns.25.123
+UR  - https://doi.org/10.3902/jnns.25.123
+N1  - Published reference: 乾敏郎. “知覚・認知・運動・感情・意思決定をつなぐ自由エネルギー原理.” 日本神経回路学会誌 25(3), 2018, 123–134. DOI 10.3902/jnns.25.123. [Free-Energy Principle Linking Perception, Cognition, Action, Emotion, and Decision Making]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_156
+TI  - 自由エネルギー原理に基づく認知脳型ロボット研究.
+TT  - Studies of Cognitive Neurorobotics Based on the Free Energy Principle
+AU  - 谷淳
+PY  - 2023
+DO  - 10.7210/jrsj.41.609
+UR  - https://doi.org/10.7210/jrsj.41.609
+N1  - Published reference: 谷淳. “自由エネルギー原理に基づく認知脳型ロボット研究.” 日本ロボット学会誌 41(7), 2023, 609–615. DOI 10.7210/jrsj.41.609. [Studies of Cognitive Neurorobotics Based on the Free Energy Principle]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_157
+TI  - 移動ロボットの探索とナビゲーションのための深層能動的推論フレームワーク.
+TT  - Deep Active-Inference Framework for Mobile-Robot Exploration and Navigation
+AU  - 横澤理子
+AU  - 藤井健太朗
+AU  - 野村優太
+AU  - 村田真悟
+PY  - 2025
+DO  - 10.11517/pjsai.JSAI2025.0_1B4OS41b03
+UR  - https://doi.org/10.11517/pjsai.JSAI2025.0_1B4OS41b03
+N1  - Published reference: 横澤理子; 藤井健太朗; 野村優太; 村田真悟. “移動ロボットの探索とナビゲーションのための深層能動的推論フレームワーク.” 2025年度人工知能学会全国大会. DOI 10.11517/pjsai.JSAI2025.0_1B4OS41b03. [Deep Active-Inference Framework for Mobile-Robot Exploration and Navigation]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_158
+TI  - Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming.
+AU  - Richard S. Sutton
+PY  - 1990
+UR  - https://doi.org/10.1016/B978-1-55860-141-3.50030-4
+N1  - Published reference: Richard S. Sutton. “Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming.” Proceedings of ICML 1990.
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_159
+TI  - Reinforcement Learning: An Introduction
+AU  - Richard S. Sutton
+AU  - Andrew G. Barto
+UR  - https://mitpress.mit.edu/9780262039246/reinforcement-learning/
+N1  - Published reference: Richard S. Sutton and Andrew G. Barto. Reinforcement Learning: An Introduction. MIT Press, 1998; 2nd ed. 2018.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_160
+TI  - エージェント-環境間相互作用～強化学習の立場からの再考～.
+TT  - Agent–Environment Interaction Reconsidered from the Perspective of Reinforcement Learning
+AU  - 宮崎和光
+AU  - 山口智浩
+DO  - 10.11499/sicejl1962.44.859
+UR  - https://doi.org/10.11499/sicejl1962.44.859
+N1  - Published reference: 宮崎和光; 山口智浩. “エージェント-環境間相互作用～強化学習の立場からの再考～.” 計測と制御 44(12), 2005, 859–864. DOI 10.11499/sicejl1962.44.859. [Agent–Environment Interaction Reconsidered from the Perspective of Reinforcement Learning]
+ER  -
+
+TY  - THES
+ID  - f151_ref_161
+TI  - Apprendimento per rinforzo: la convergenza del Q-learning
+TT  - Reinforcement Learning: Convergence of Q-Learning
+AU  - Giorgia Rensi
+PY  - 2021
+UR  - https://amslaurea.unibo.it/id/eprint/24910/
+N1  - Published reference: Giorgia Rensi. Apprendimento per rinforzo: la convergenza del Q-learning. Tesi di laurea, Università di Bologna, 2021. [Reinforcement Learning: Convergence of Q-Learning]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_162
+TI  - Curiosity-driven Exploration by Self-supervised Prediction.
+AU  - Deepak Pathak
+AU  - Pulkit Agrawal
+AU  - Alexei A. Efros
+AU  - Trevor Darrell
+PY  - 2017
+UR  - https://proceedings.mlr.press/v70/pathak17a.html
+N1  - Published reference: Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. “Curiosity-driven Exploration by Self-supervised Prediction.” ICML 2017, PMLR 70:2778–2787.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_163
+TI  - Методы внутренней мотивации в задачах обучения с подкреплением на основе модели.
+TT  - Intrinsic-Motivation Methods in Model-Based Reinforcement Learning
+AU  - А. К. Латышев
+AU  - А. И. Панов
+PY  - 2023
+DO  - 10.14357/20718594230309
+UR  - https://doi.org/10.14357/20718594230309
+N1  - Published reference: А. К. Латышев; А. И. Панов. “Методы внутренней мотивации в задачах обучения с подкреплением на основе модели.” Искусственный интеллект и принятие решений, 2023, № 3, 84–97. DOI 10.14357/20718594230309. [Intrinsic-Motivation Methods in Model-Based Reinforcement Learning]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_164
+TI  - Étude de la motivation intrinsèque en apprentissage par renforcement.
+TT  - Study of Intrinsic Motivation in Reinforcement Learning
+AU  - Arthur Aubret
+AU  - Laëtitia Matignon
+AU  - Salima Hassas
+PY  - 2019
+UR  - https://hal.science/hal-02272091
+N1  - Published reference: Arthur Aubret; Laëtitia Matignon; Salima Hassas. “Étude de la motivation intrinsèque en apprentissage par renforcement.” Journées Francophones Planification, Décision et Apprentissage, 2019. [Study of Intrinsic Motivation in Reinforcement Learning]
+ER  -
+
+TY  - THES
+ID  - f151_ref_165
+TI  - Neugier und epistemisches Handeln
+TT  - Curiosity and Epistemic Action
+AU  - Sebastian Schmid
+PY  - 2008
+UR  - https://madoc.bib.uni-mannheim.de/2029/
+N1  - Published reference: Sebastian Schmid. Neugier und epistemisches Handeln. Dissertation, Universität Mannheim, 2008. [Curiosity and Epistemic Action]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_166
+TI  - Рациональная ревизия убеждений: когнитивный подход.
+TT  - Rational Belief Revision: A Cognitive Approach
+AU  - Д. В. Хизанишвили
+PY  - 2025
+DO  - 10.17323/2587-8719-2025-3-67-88
+UR  - https://doi.org/10.17323/2587-8719-2025-3-67-88
+N1  - Published reference: Д. В. Хизанишвили. “Рациональная ревизия убеждений: когнитивный подход.” Philosophy Journal of the Higher School of Economics 9(3), 2025, 67–88. DOI 10.17323/2587-8719-2025-3-67-88. [Rational Belief Revision: A Cognitive Approach]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_167
+TI  - Partially Observable Markov Decision Processes and Robotics.
+AU  - Hanna Kurniawati
+PY  - 2022
+UR  - https://www.annualreviews.org/content/journals/10.1146/annurev-control-042920-092451
+N1  - Published reference: Hanna Kurniawati. “Partially Observable Markov Decision Processes and Robotics.” Annual Review of Control, Robotics, and Autonomous Systems 5, 2022, 253–277.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_168
+TI  - Automated Planning for Robotics.
+AU  - Erez Karpas
+AU  - Daniele Magazzeni
+PY  - 2020
+UR  - https://www.annualreviews.org/content/journals/10.1146/annurev-control-082619-100135
+N1  - Published reference: Erez Karpas and Daniele Magazzeni. “Automated Planning for Robotics.” Annual Review of Control, Robotics, and Autonomous Systems 3, 2020, 417–439.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_169
+TI  - Адаптивное управление по выходу: проблематика, прикладные задачи и решения.
+TT  - Adaptive Output Control: Problems, Applications, and Solutions
+AU  - А. А. Бобцов
+AU  - В. О. Никифоров
+PY  - 2013
+UR  - https://ntv.ifmo.ru/ru/article/4042/adaptivnoe_upravlenie_po_vyhodu%3A_problematika%2C_prikladnye_zadachi_i_resheniya.htm
+N1  - Published reference: А. А. Бобцов; В. О. Никифоров. “Адаптивное управление по выходу: проблематика, прикладные задачи и решения.” Научно-технический вестник информационных технологий, механики и оптики 13(1), 2013, 1–14. [Adaptive Output Control: Problems, Applications, and Solutions]
+ER  -
+
+TY  - RPRT
+ID  - f151_ref_170
+TI  - Human and Computer Control of Undersea Teleoperators
+AU  - Thomas B. Sheridan
+AU  - William L. Verplank
+PY  - 1978
+UR  - https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA057655.xhtml
+N1  - Published reference: Thomas B. Sheridan and William L. Verplank. Human and Computer Control of Undersea Teleoperators. MIT Man-Machine Systems Laboratory report, 1978.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_171
+TI  - Toward a Framework for Levels of Robot Autonomy in Human-Robot Interaction.
+AU  - Jenay M. Beer
+AU  - Arthur D. Fisk
+AU  - Wendy A. Rogers
+PY  - 2014
+UR  - https://doi.org/10.5898/JHRI.3.2.Beer
+N1  - Published reference: Jenay M. Beer, Arthur D. Fisk, and Wendy A. Rogers. “Toward a Framework for Levels of Robot Autonomy in Human-Robot Interaction.” Journal of Human-Robot Interaction 3(2), 2014, 74–99.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_172
+TI  - J3016_202609, Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles
+AU  - SAE International
+PY  - 2026
+UR  - https://saemobilus.sae.org/standards/j3016_202609-taxonomy-definitions-terms-related-driving-automation-systems-road-motor-vehicles
+N1  - Published reference: SAE International. J3016_202609, Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles. Current revision issued September 20, 2026.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_173
+TI  - Autonomie ajustable et résilience pour une coopération Homme–Robot.
+TT  - Adjustable Autonomy and Resilience for Human–Robot Cooperation
+AU  - Stéphane Zieba
+AU  - Philippe Polet
+AU  - Frédéric Vanderhaegen
+AU  - Simon Enjalbert
+PY  - 2008
+UR  - https://hal.science/hal-03644426
+N1  - Published reference: Stéphane Zieba; Philippe Polet; Frédéric Vanderhaegen; Simon Enjalbert. “Autonomie ajustable et résilience pour une coopération Homme–Robot.” CIFA 2008. [Adjustable Autonomy and Resilience for Human–Robot Cooperation]
+ER  -
+
+TY  - THES
+ID  - f151_ref_174
+TI  - Allocazione Adattiva di Autorità nel Controllo Condiviso di Robot Mediante Filtri Bayesiani
+TT  - Adaptive Allocation of Authority in Shared Robot Control Using Bayesian Filters
+AU  - Matteo Cappelli
+PY  - 2020
+UR  - https://morethesis.unimore.it/theses/available/etd-01142020-100843/
+N1  - Published reference: Matteo Cappelli. Allocazione Adattiva di Autorità nel Controllo Condiviso di Robot Mediante Filtri Bayesiani. Tesi magistrale, Università di Modena e Reggio Emilia, 2020. [Adaptive Allocation of Authority in Shared Robot Control Using Bayesian Filters]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_175
+TI  - Совместное управление объектом в эргатической системе: модели и реализации.
+TT  - Shared Control of an Object in an Ergatic System: Models and Implementations
+AU  - О. Макарова
+PY  - 2018
+DO  - 10.21821/2309-5180-2018-10-2-430-443
+UR  - https://doi.org/10.21821/2309-5180-2018-10-2-430-443
+N1  - Published reference: О. Макарова. “Совместное управление объектом в эргатической системе: модели и реализации.” Вестник Государственного университета морского и речного флота имени адмирала С. О. Макарова, 2018, № 2(48), 430–443. DOI 10.21821/2309-5180-2018-10-2-430-443. [Shared Control of an Object in an Ergatic System: Models and Implementations]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_176
+TI  - Autonomy in Rehabilitation Robotics: An Intersection.
+AU  - Brenna D. Argall
+PY  - 2018
+UR  - https://www.annualreviews.org/content/journals/10.1146/annurev-control-061417-041727
+N1  - Published reference: Brenna D. Argall. “Autonomy in Rehabilitation Robotics: An Intersection.” Annual Review of Control, Robotics, and Autonomous Systems 1, 2018, 441–463.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_177
+TI  - Safely Interruptible Agents.
+AU  - Laurent Orseau
+AU  - Stuart Armstrong
+PY  - 2016
+UR  - https://auai.org/~w-auai/uai2016/proceedings/papers/68.pdf
+N1  - Published reference: Laurent Orseau and Stuart Armstrong. “Safely Interruptible Agents.” Proceedings of UAI 2016.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_178
+TI  - The Off-Switch Game.
+AU  - Dylan Hadfield-Menell
+AU  - Anca Dragan
+AU  - Pieter Abbeel
+AU  - Stuart Russell
+PY  - 2017
+UR  - https://doi.org/10.24963/ijcai.2017/32
+N1  - Published reference: Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, and Stuart Russell. “The Off-Switch Game.” IJCAI 2017, 220–227.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_179
+TI  - UCONonA模型的安全研究.
+TT  - Security Research on the UCONonA Model
+AU  - 翟志刚
+AU  - 毛宇光
+AU  - 王建东
+UR  - https://jsuese.scu.edu.cn/zh/article/43954125/
+N1  - Published reference: 翟志刚; 毛宇光; 王建东. “UCONonA模型的安全研究.” 工程科学与技术 42(1), 168–172. Journal page displays conflicting 2009 and 2010 dates. [Security Research on the UCONonA Model]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_180
+TI  - 基于跟踪的角色访问控制.
+TT  - Tracking-Based Role Access Control
+AU  - 黄娟
+AU  - 许峰
+AU  - 黄海
+PY  - 2010
+UR  - https://ngzk.cbpt.cnki.net/portal/journal/portal/client/paper/ea7e4302b1341cac30b492b287d24153
+N1  - Published reference: 黄娟; 许峰; 黄海. “基于跟踪的角色访问控制.” 南通大学学报（自然科学版） 9(3), 2010, 31–35. [Tracking-Based Role Access Control]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_181
+TI  - ReCoVac : Décision autonome de reprise de la conduite d’un véhicule autonome et connecté.
+TT  - ReCoVac: Autonomous Decision to Resume Driving of an Autonomous and Connected Vehicle
+AU  - Kristell Aguilar Alarcon; Marie-Pierre Gleizes; Loïc Caroux; Elsy Kaddoum; Valérie Camps et al
+PY  - 2020
+UR  - https://hal.science/hal-03101615
+N1  - Published reference: Kristell Aguilar Alarcon; Marie-Pierre Gleizes; Loïc Caroux; Elsy Kaddoum; Valérie Camps et al. “ReCoVac : Décision autonome de reprise de la conduite d’un véhicule autonome et connecté.” JFSMA 2020. [ReCoVac: Autonomous Decision to Resume Driving of an Autonomous and Connected Vehicle]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_182
+TI  - Devrons-nous réapprendre à conduire les véhicules de demain ?
+TT  - Will We Have to Relearn How to Drive Tomorrow’s Vehicles?
+AU  - Observatoire national interministériel de la sécurité routière
+PY  - 2024
+UR  - https://www.onisr.securite-routiere.gouv.fr/etudes-recherches/vehicules/automatisation-et-equipements/devrons-nous-reapprendre-conduire-les-vehicules-de-demain
+N1  - Published reference: Observatoire national interministériel de la sécurité routière. “Devrons-nous réapprendre à conduire les véhicules de demain ?” Étude, 2024. [Will We Have to Relearn How to Drive Tomorrow’s Vehicles?]
+ER  -
+
+TY  - THES
+ID  - f151_ref_183
+TI  - Sviluppo di un sistema di visione per il monitoraggio dell'operatore in un applicazione di robotica collaborativa
+TT  - Vision System for Operator Monitoring in Collaborative Robotics
+AU  - Giacomo Tomaselli
+PY  - 2024
+UR  - https://amslaurea.unibo.it/id/eprint/32346/
+N1  - Published reference: Giacomo Tomaselli. Sviluppo di un sistema di visione per il monitoraggio dell'operatore in un applicazione di robotica collaborativa. Tesi magistrale, Università di Bologna, discussed 24 July 2024. [Vision System for Operator Monitoring in Collaborative Robotics]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_184
+TI  - 확장된 마음과 융합 전문성: 인공지능 시대의 전문가 인식론 재고찰.
+TT  - Extended Mind and Convergent Expertise: Reconsidering Expert Epistemology in the Age of AI
+AU  - 임상락
+PY  - 2025
+DO  - 10.23908/JSPS.2025.12.151.155
+UR  - https://doi.org/10.23908/JSPS.2025.12.151.155
+N1  - Published reference: 임상락. “확장된 마음과 융합 전문성: 인공지능 시대의 전문가 인식론 재고찰.” 철학연구 151 (2025): 155–179. DOI 10.23908/JSPS.2025.12.151.155. [Extended Mind and Convergent Expertise: Reconsidering Expert Epistemology in the Age of AI]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_185
+TI  - Agents conversationnels : enjeux d’éthique
+TT  - Conversational Agents: Ethical Issues
+AU  - Comité National Pilote d’Éthique du Numérique et al
+PY  - 2021
+UR  - https://www.lisn.upsaclay.fr/publications/agents-conversationnels-enjeux-dethique/
+N1  - Published reference: Comité National Pilote d’Éthique du Numérique et al. Agents conversationnels : enjeux d’éthique. Rapport de recherche, CNPEN/CCNE, 2021, cea-03432785. [Conversational Agents: Ethical Issues]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_186
+TI  - Systèmes d'intelligence artificielle générative : enjeux d'éthique
+TT  - Generative Artificial-Intelligence Systems: Ethical Issues
+AU  - Comité National Pilote d’Éthique du Numérique
+AU  - Alexei Grinbaum
+AU  - Raja Chatila
+AU  - Laurence Devillers
+AU  - Caroline Martin
+AU  - Claude Kirchner
+AU  - Jérôme Perrin
+AU  - Catherine Tessier
+PY  - 2023
+UR  - https://hal.science/cea-04153216
+N1  - Published reference: Comité National Pilote d’Éthique du Numérique; Alexei Grinbaum; Raja Chatila; Laurence Devillers; Caroline Martin; Claude Kirchner; Jérôme Perrin; Catherine Tessier. Systèmes d'intelligence artificielle générative : enjeux d'éthique. Avis 7 du CNPEN, 2023, cea-04153216. [Generative Artificial-Intelligence Systems: Ethical Issues]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_187
+TI  - 인지 아키텍처 기반의 군사 AI 에이전트 시스템 설계에 관한 연구.
+TT  - Design of a Military AI-Agent System Based on Cognitive Architecture
+AU  - 채지훈
+AU  - 황승현
+PY  - 2026
+DO  - 10.52798/KADIS.2026.33.1.3
+UR  - https://doi.org/10.52798/KADIS.2026.33.1.3
+N1  - Published reference: 채지훈; 황승현. “인지 아키텍처 기반의 군사 AI 에이전트 시스템 설계에 관한 연구.” 한국방위산업학회지 33(1) (2026): 27–41. DOI 10.52798/KADIS.2026.33.1.3. [Design of a Military AI-Agent System Based on Cognitive Architecture]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_188
+TI  - 基于主动推理的人机交互信任建构.
+TT  - Constructing Human–Machine Interaction Trust Based on Active Inference
+AU  - 王姝彦
+AU  - 柴新
+PY  - 2024
+DO  - 10.14167/j.zjss.2024.03.003
+UR  - https://doi.org/10.14167/j.zjss.2024.03.003
+N1  - Published reference: 王姝彦; 柴新. “基于主动推理的人机交互信任建构.” 浙江社会科学, 2024(3), 100–109, 158–159. DOI 10.14167/j.zjss.2024.03.003. [Constructing Human–Machine Interaction Trust Based on Active Inference]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_189
+TI  - Survey on Teleoperation Concepts for Automated Vehicles.
+AU  - Domagoj Majstorovic et al
+PY  - 2022
+UR  - https://arxiv.org/abs/2208.08876
+N1  - Published reference: Domagoj Majstorovic et al. “Survey on Teleoperation Concepts for Automated Vehicles.” arXiv:2208.08876, 2022.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_190
+TI  - 智能汽车人机共享控制研究综述.
+TT  - Review of Human–Machine Shared Control of Intelligent Vehicles
+AU  - 杨俊儒
+AU  - 褚端峰
+AU  - 陆丽萍
+AU  - 王金湘
+AU  - 吴超仲
+AU  - 殷国栋
+PY  - 2022
+DO  - 10.3901/JME.2022.18.031
+UR  - https://doi.org/10.3901/JME.2022.18.031
+N1  - Published reference: 杨俊儒; 褚端峰; 陆丽萍; 王金湘; 吴超仲; 殷国栋. “智能汽车人机共享控制研究综述.” 机械工程学报 58(18), 2022, 31–55. DOI 10.3901/JME.2022.18.031. [Review of Human–Machine Shared Control of Intelligent Vehicles]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_191
+TI  - ReAct: Synergizing Reasoning and Acting in Language Models.
+AU  - Shunyu Yao et al
+PY  - 2023
+UR  - https://arxiv.org/abs/2210.03629
+N1  - Published reference: Shunyu Yao et al. “ReAct: Synergizing Reasoning and Acting in Language Models.” ICLR 2023.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_192
+TI  - Reflexion: Language Agents with Verbal Reinforcement Learning.
+AU  - Noah Shinn et al
+PY  - 2023
+UR  - https://arxiv.org/abs/2303.11366
+N1  - Published reference: Noah Shinn et al. “Reflexion: Language Agents with Verbal Reinforcement Learning.” NeurIPS 2023.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_193
+TI  - Voyager: An Open-Ended Embodied Agent with Large Language Models.
+AU  - Guanzhi Wang et al
+UR  - https://arxiv.org/abs/2305.16291
+N1  - Published reference: Guanzhi Wang et al. “Voyager: An Open-Ended Embodied Agent with Large Language Models.” arXiv:2305.16291; later TMLR.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_194
+TI  - Rollback the World, Keep the Reflection: Rollback-Induced Reflection for Long-Horizon LLM Agents.
+AU  - Zhuoran Yu et al
+PY  - 2026
+UR  - https://arxiv.org/abs/2609.18304
+N1  - Published reference: Zhuoran Yu et al. “Rollback the World, Keep the Reflection: Rollback-Induced Reflection for Long-Horizon LLM Agents.” arXiv:2609.18304, 2026.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_195
+TI  - Measuring AI Ability to Complete Long Software Tasks.
+AU  - Hjalmar Wijk et al
+PY  - 2025
+UR  - https://arxiv.org/abs/2503.14499
+N1  - Published reference: Hjalmar Wijk et al. “Measuring AI Ability to Complete Long Software Tasks.” arXiv:2503.14499, 2025.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_196
+TI  - Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives.
+AU  - Satoshi Ma et al
+PY  - 2026
+UR  - https://arxiv.org/abs/2608.08160
+N1  - Published reference: Satoshi Ma et al. “Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives.” ICML 2026.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_197
+TI  - The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents.
+AU  - Mingguang Chen
+AU  - Licheng Wang
+AU  - Bo Qu
+PY  - 2026
+UR  - https://arxiv.org/abs/2608.06663
+N1  - Published reference: Mingguang Chen; Licheng Wang; Bo Qu. “The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents.” arXiv:2608.06663v1, 2026.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_198
+TI  - τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains.
+AU  - Shunyu Yao
+AU  - Noah Shinn
+AU  - Pedram Razavi
+AU  - Karthik Narasimhan
+PY  - 2024
+UR  - https://arxiv.org/abs/2406.12045
+N1  - Published reference: Shunyu Yao; Noah Shinn; Pedram Razavi; Karthik Narasimhan. “τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains.” arXiv:2406.12045, 2024.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_199
+TI  - WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?
+AU  - Alexandre Drouin et al
+PY  - 2024
+UR  - https://proceedings.mlr.press/v235/drouin24a.html
+N1  - Published reference: Alexandre Drouin et al. “WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?” ICML 2024, PMLR 235.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_200
+TI  - AgentBench: Evaluating LLMs as Agents.
+AU  - Xiao Liu et al
+PY  - 2023
+UR  - https://arxiv.org/abs/2308.03688
+N1  - Published reference: Xiao Liu et al. “AgentBench: Evaluating LLMs as Agents.” arXiv:2308.03688, 2023.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_201
+TI  - GAIA: a benchmark for General AI Assistants.
+AU  - Grégoire Mialon
+AU  - Clémentine Fourrier
+AU  - Craig Swift
+AU  - Thomas Wolf
+AU  - Yann LeCun
+AU  - Thomas Scialom
+PY  - 2023
+UR  - https://arxiv.org/abs/2311.12983
+N1  - Published reference: Grégoire Mialon; Clémentine Fourrier; Craig Swift; Thomas Wolf; Yann LeCun; Thomas Scialom. “GAIA: a benchmark for General AI Assistants.” arXiv:2311.12983, 2023.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_202
+TI  - SWE-bench: Can Language Models Resolve Real-World GitHub Issues?
+AU  - Carlos E. Jimenez et al
+PY  - 2024
+UR  - https://arxiv.org/abs/2310.06770
+N1  - Published reference: Carlos E. Jimenez et al. “SWE-bench: Can Language Models Resolve Real-World GitHub Issues?” ICLR 2024.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_203
+TI  - TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks.
+AU  - Frank F. Xu et al
+UR  - https://arxiv.org/abs/2412.14161
+N1  - Published reference: Frank F. Xu et al. “TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks.” arXiv:2412.14161, 2024; NeurIPS 2025.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_204
+TI  - The BrowserGym Ecosystem for Web Agent Research.
+AU  - Thibault Le Sellier De Chezelles et al
+PY  - 2025
+UR  - https://openreview.net/forum?id=5298fKGmv3
+N1  - Published reference: Thibault Le Sellier De Chezelles et al. “The BrowserGym Ecosystem for Web Agent Research.” Transactions on Machine Learning Research, 2025. arXiv:2412.05467v4.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_205
+TI  - 대규모 언어 모델 기반 도구 호출 방식의 정량적 비교 연구: Tool-Calling, MCP, RAG-MCP.
+TT  - Quantitative Comparison of LLM-Based Tool-Calling Methods: Tool-Calling, MCP, and RAG-MCP
+AU  - 홍승혁
+AU  - 이호웅
+PY  - 2026
+DO  - 10.23019/kingpc.22.1.202602.008
+UR  - https://doi.org/10.23019/kingpc.22.1.202602.008
+N1  - Published reference: 홍승혁; 이호웅. “대규모 언어 모델 기반 도구 호출 방식의 정량적 비교 연구: Tool-Calling, MCP, RAG-MCP.” 한국차세대컴퓨팅학회 논문지 22(1) (2026): 97–103. DOI 10.23019/kingpc.22.1.202602.008. [Quantitative Comparison of LLM-Based Tool-Calling Methods: Tool-Calling, MCP, and RAG-MCP]
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_206
+TI  - タスク指向対話の対話状態追跡における言語モデルのHallucinationの抑制.
+TT  - Suppressing Language-Model Hallucination in Dialogue-State Tracking for Task-Oriented Dialogue
+AU  - 佐藤明智
+AU  - 南泰浩
+PY  - 2023
+DO  - 10.11517/jsaislud.99.0_60
+UR  - https://doi.org/10.11517/jsaislud.99.0_60
+N1  - Published reference: 佐藤明智; 南泰浩. “タスク指向対話の対話状態追跡における言語モデルのHallucinationの抑制.” 人工知能学会研究会資料 SIG-SLUD 99, 2023, 60–64. DOI 10.11517/jsaislud.99.0_60. [Suppressing Language-Model Hallucination in Dialogue-State Tracking for Task-Oriented Dialogue]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_207
+TI  - 大语言模型的工具使用综述.
+TT  - Survey of Tool Use in Large Language Models
+AU  - 郑逸宁
+AU  - 余镇
+AU  - 李不凡
+AU  - 杨捷
+AU  - 殷林琪
+AU  - 印张悦
+AU  - 袁枫烨
+AU  - 魏海洋
+AU  - 陆嘉昊
+AU  - 方世成
+AU  - 陈爽
+AU  - 邱锡鹏
+PY  - 2025
+DO  - 10.16383/j.aas.c240793
+UR  - https://doi.org/10.16383/j.aas.c240793
+N1  - Published reference: 郑逸宁; 余镇; 李不凡; 杨捷; 殷林琪; 印张悦; 袁枫烨; 魏海洋; 陆嘉昊; 方世成; 陈爽; 邱锡鹏. “大语言模型的工具使用综述.” 自动化学报 51(11), 2025, 2371–2386. DOI 10.16383/j.aas.c240793. [Survey of Tool Use in Large Language Models]
+ER  -
+
+TY  - THES
+ID  - f151_ref_208
+TI  - Kollektives Verkehrsgedächtnis zur Unterstützung vernetzter automatisierter Verkehrsteilnehmer
+TT  - Collective Traffic Memory for Supporting Connected Automated Road Users
+AU  - Timo Woopen
+PY  - 2025
+UR  - https://doi.org/10.18154/RWTH-2025-06480
+N1  - Published reference: Timo Woopen. Kollektives Verkehrsgedächtnis zur Unterstützung vernetzter automatisierter Verkehrsteilnehmer. Dissertation, RWTH Aachen, 2025. [Collective Traffic Memory for Supporting Connected Automated Road Users]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_209
+TI  - Методы атак и защиты в агентных системах на основе больших языковых моделей.
+TT  - Attack and Defense Methods in Agentic Systems Based on Large Language Models
+AU  - В. А. Евграфов
+AU  - Б. М. Нутфуллин
+AU  - Д. Е. Намиот
+PY  - 2026
+UR  - https://injoit.ru/index.php/j1/article/viewFile/2539/2106
+N1  - Published reference: В. А. Евграфов; Б. М. Нутфуллин; Д. Е. Намиот. “Методы атак и защиты в агентных системах на основе больших языковых моделей.” International Journal of Open Information Technologies 14(5), 2026, 1–8. [Attack and Defense Methods in Agentic Systems Based on Large Language Models]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_210
+TI  - Calcul des intentions d'agent à partir de ses désirs.
+TT  - Computing an Agent’s Intentions from Its Desires
+AU  - Leila Amgoud
+AU  - Andréas Herzig
+AU  - David Mercier
+PY  - 2003
+UR  - https://hal.science/hal-03534098
+N1  - Published reference: Leila Amgoud; Andréas Herzig; David Mercier. “Calcul des intentions d'agent à partir de ses désirs.” Secondes Journées Francophones sur les Modèles Formels de l’Interaction, 2003, 3–9. [Computing an Agent’s Intentions from Its Desires]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_211
+TI  - Целеполагание и синтез плана поведения когнитивным агентом.
+TT  - Goal Setting and Behavior-Plan Synthesis by a Cognitive Agent
+AU  - А. И. Панов
+PY  - 2018
+DO  - 10.14357/20718594180202
+UR  - https://doi.org/10.14357/20718594180202
+N1  - Published reference: А. И. Панов. “Целеполагание и синтез плана поведения когнитивным агентом.” Искусственный интеллект и принятие решений, 2018, № 2, 21–35. DOI 10.14357/20718594180202. [Goal Setting and Behavior-Plan Synthesis by a Cognitive Agent]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_212
+TI  - マルチコンテキストシステムに基づく他者の意図を考慮したBDIエージェントの構築.
+TT  - Constructing a BDI Agent that Considers Others’ Intentions Using a Multi-Context System
+AU  - 権藤拓
+AU  - 坂地泰紀
+AU  - 野田五十樹
+PY  - 2026
+DO  - 10.11517/pjsai.JSAI2026.0_2YinB40
+UR  - https://doi.org/10.11517/pjsai.JSAI2026.0_2YinB40
+N1  - Published reference: 権藤拓; 坂地泰紀; 野田五十樹. “マルチコンテキストシステムに基づく他者の意図を考慮したBDIエージェントの構築.” 2026年度人工知能学会全国大会. DOI 10.11517/pjsai.JSAI2026.0_2YinB40. [Constructing a BDI Agent that Considers Others’ Intentions Using a Multi-Context System]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_213
+TI  - ロボットの物体操作計画と人に合わせた再計画.
+TT  - Robot Object-Manipulation Planning and Replanning Adapted to People
+AU  - 林久志
+AU  - 足立勝
+AU  - 横山和彦
+AU  - 小川秀樹
+AU  - 松日楽信人
+PY  - 2013
+DO  - 10.1527/tjsai.28.122
+UR  - https://doi.org/10.1527/tjsai.28.122
+N1  - Published reference: 林久志; 足立勝; 横山和彦; 小川秀樹; 松日楽信人. “ロボットの物体操作計画と人に合わせた再計画.” 人工知能学会論文誌 28(2), 2013, 122–130. DOI 10.1527/tjsai.28.122. [Robot Object-Manipulation Planning and Replanning Adapted to People]
+ER  -
+
+TY  - THES
+ID  - f151_ref_214
+TI  - Programmazione ad Agenti e Pianificazione: AgentSpeak(PL) come caso di studio
+TT  - Agent Programming and Planning: AgentSpeak(PL) as a Case Study
+AU  - Sacha Muratori
+PY  - 2016
+UR  - https://amslaurea.unibo.it/id/eprint/11533/
+N1  - Published reference: Sacha Muratori. Programmazione ad Agenti e Pianificazione: AgentSpeak(PL) come caso di studio. Tesi di laurea, Università di Bologna, 2016. [Agent Programming and Planning: AgentSpeak(PL) as a Case Study]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_215
+TI  - Risolvere problemi di pianificazione automatica per robot di servizio utilizzando ROS-Plan
+TT  - Solving Automated-Planning Problems for Service Robots Using ROSPlan
+AU  - Davide Ferrari
+PY  - 2022
+UR  - https://hdl.handle.net/20.500.12608/53323
+N1  - Published reference: Davide Ferrari. Risolvere problemi di pianificazione automatica per robot di servizio utilizzando ROS-Plan. Tesi, Università di Padova, 2022/23. [Solving Automated-Planning Problems for Service Robots Using ROSPlan]
+ER  -
+
+TY  - THES
+ID  - f151_ref_216
+TI  - Tecniche di pianificazione automatica in giochi con regole dinamiche: sviluppo di un agente intelligente per la Keke Competition
+TT  - Automated Planning Techniques in Games with Dynamic Rules: Development of an Intelligent Agent for the Keke Competition
+AU  - Riccardo Varotto
+PY  - 2022
+UR  - https://amslaurea.unibo.it/id/eprint/27444/
+N1  - Published reference: Riccardo Varotto. Tecniche di pianificazione automatica in giochi con regole dinamiche: sviluppo di un agente intelligente per la Keke Competition. Tesi magistrale, Università di Bologna, 2022. [Automated Planning Techniques in Games with Dynamic Rules: Development of an Intelligent Agent for the Keke Competition]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_217
+TI  - Pianificare azioni intelligenti per robot assistivi via ROS-Plan
+TT  - Planning Intelligent Actions for Assistive Robots via ROSPlan
+AU  - Danny Tomasi
+PY  - 2022
+UR  - https://hdl.handle.net/20.500.12608/53356
+N1  - Published reference: Danny Tomasi. Pianificare azioni intelligenti per robot assistivi via ROS-Plan. Tesi, Università di Padova, 2022/23. [Planning Intelligent Actions for Assistive Robots via ROSPlan]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_218
+TI  - 多智能体协同规划综述：问题分类与前沿进展.
+TT  - Multi-Agent Cooperative Planning: Problem Classification and Frontier Progress
+AU  - 熊璐
+AU  - 黄军鹏
+AU  - 张培志
+AU  - 张心睿
+DO  - 10.13976/j.cnki.xk.2025.1911
+UR  - https://doi.org/10.13976/j.cnki.xk.2025.1911
+N1  - Published reference: 熊璐; 黄军鹏; 张培志; 张心睿. “多智能体协同规划综述：问题分类与前沿进展.” 信息与控制, latest accepted. DOI 10.13976/j.cnki.xk.2025.1911. [Multi-Agent Cooperative Planning: Problem Classification and Frontier Progress]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_219
+TI  - 集群协同任务规划的形式逻辑方法: 综述与展望.
+TT  - Formal-Logic Methods for Cooperative Swarm Task Planning: Review and Outlook
+AU  - 李忠奎
+AU  - 王俊杰
+AU  - 张云奕
+AU  - 张硕
+AU  - 国萌
+AU  - 孙志勇
+PY  - 2025
+DO  - 10.16383/j.aas.c250223
+UR  - https://doi.org/10.16383/j.aas.c250223
+N1  - Published reference: 李忠奎; 王俊杰; 张云奕; 张硕; 国萌; 孙志勇. “集群协同任务规划的形式逻辑方法: 综述与展望.” 自动化学报 51(10), 2025, 2211–2231. DOI 10.16383/j.aas.c250223. [Formal-Logic Methods for Cooperative Swarm Task Planning: Review and Outlook]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_220
+TI  - 多智能体协同研究进展综述: 博弈和控制交叉视角.
+TT  - Recent Advances in Multi-Agent Collaboration: A Cross-Perspective of Game and Control Theory
+AU  - 秦家虎
+AU  - 马麒超
+AU  - 李曼
+AU  - 张聪
+AU  - 付维明
+AU  - 刘轻尘
+AU  - 郑卫新
+PY  - 2025
+DO  - 10.16383/j.aas.c240508
+UR  - https://doi.org/10.16383/j.aas.c240508
+N1  - Published reference: 秦家虎; 马麒超; 李曼; 张聪; 付维明; 刘轻尘; 郑卫新. “多智能体协同研究进展综述: 博弈和控制交叉视角.” 自动化学报 51(3), 2025, 489–509. DOI 10.16383/j.aas.c240508. [Recent Advances in Multi-Agent Collaboration: A Cross-Perspective of Game and Control Theory]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_221
+TI  - 多智能体系统有限时间协同控制综述.
+TT  - Review of Finite-Time Cooperative Control for Multi-Agent Systems
+AU  - 王喜辉
+AU  - 吴琼
+AU  - 徐艳红
+AU  - 喻大华
+AU  - 杜胜利
+DO  - 10.13976/j.cnki.xk.2025.1062
+UR  - https://doi.org/10.13976/j.cnki.xk.2025.1062
+N1  - Published reference: 王喜辉; 吴琼; 徐艳红; 喻大华; 杜胜利. “多智能体系统有限时间协同控制综述.” 信息与控制 55(3), 2026, 407–426. DOI 10.13976/j.cnki.xk.2025.1062. [Review of Finite-Time Cooperative Control for Multi-Agent Systems]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_222
+TI  - Принцип построения процедур планирования поведения автономных интеллектуальных роботов на основе полипеременных условно-зависимых предикатов.
+TT  - Planning Procedures for Autonomous Intelligent Robots Using Polyvariable Conditionally Dependent Predicates
+AU  - В. Б. Мелехин
+AU  - М. В. Хачумов
+PY  - 2022
+DO  - 10.31857/S0005231022040080
+UR  - https://doi.org/10.31857/S0005231022040080
+N1  - Published reference: В. Б. Мелехин; М. В. Хачумов. “Принцип построения процедур планирования поведения автономных интеллектуальных роботов на основе полипеременных условно-зависимых предикатов.” Автоматика и телемеханика, 2022, № 4, 140–154. DOI 10.31857/S0005231022040080. [Planning Procedures for Autonomous Intelligent Robots Using Polyvariable Conditionally Dependent Predicates]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_223
+TI  - Agents BDI et simulations sociales, Unis pour le meilleur et pour le pire.
+TT  - BDI Agents and Social Simulations: United for Better and Worse
+AU  - Carole Adam
+AU  - Benoit Gaudou
+AU  - Sarah Hickmott
+AU  - Dave Scerri
+PY  - 2011
+DO  - 10.3166/ria.25.11-42
+UR  - https://doi.org/10.3166/ria.25.11-42
+N1  - Published reference: Carole Adam; Benoit Gaudou; Sarah Hickmott; Dave Scerri. “Agents BDI et simulations sociales, Unis pour le meilleur et pour le pire.” Revue d’Intelligence Artificielle 25(1), 2011, 11–42. DOI 10.3166/ria.25.11-42. [BDI Agents and Social Simulations: United for Better and Worse]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_224
+TI  - Système multi-agents et agents autonomes génératifs : état de l'art des connaissances et des ressources.
+TT  - Multi-Agent Systems and Generative Autonomous Agents: State of the Art in Knowledge and Resources
+AU  - Maxime Morge
+PY  - 2025
+UR  - https://hal.science/hal-05146426
+N1  - Published reference: Maxime Morge. “Système multi-agents et agents autonomes génératifs : état de l'art des connaissances et des ressources.” JFSMA 2025, Dijon, 79–88. [Multi-Agent Systems and Generative Autonomous Agents: State of the Art in Knowledge and Resources]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_225
+TI  - Теория, модели, инфраструктуры и языки спецификации командного поведения автономных агентов. Обзор (Часть 1).
+TT  - Theory, Models, Infrastructures, and Languages for Specifying Team Behavior of Autonomous Agents: Review, Part 1
+AU  - В. И. Городецкий
+PY  - 2011
+UR  - https://www.mathnet.ru/iipr460
+N1  - Published reference: В. И. Городецкий. “Теория, модели, инфраструктуры и языки спецификации командного поведения автономных агентов. Обзор (Часть 1).” Искусственный интеллект и принятие решений, 2011, № 2, 19–30. [Theory, Models, Infrastructures, and Languages for Specifying Team Behavior of Autonomous Agents: Review, Part 1]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_226
+TI  - 55类重要领域韧性概念的综述.
+TT  - Review of Resilience Concepts in 55 Important Domains
+AU  - 吴超
+PY  - 2026
+DO  - 10.19737/j.cnki.issn1002-3631.2026.05.013
+UR  - https://doi.org/10.19737/j.cnki.issn1002-3631.2026.05.013
+N1  - Published reference: 吴超. “55类重要领域韧性概念的综述.” 安全 47(5), 2026, 84–91. DOI 10.19737/j.cnki.issn1002-3631.2026.05.013. [Review of Resilience Concepts in 55 Important Domains]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_227
+TI  - レジリエンスエンジニアリングが目指す安全Safety-IIとその実現法.
+TT  - Safety-II Pursued by Resilience Engineering and How to Realize It
+AU  - 北村正晴
+PY  - 2014
+DO  - 10.1587/essfr.8.84
+UR  - https://doi.org/10.1587/essfr.8.84
+N1  - Published reference: 北村正晴. “レジリエンスエンジニアリングが目指す安全Safety-IIとその実現法.” 電子情報通信学会 基礎・境界ソサイエティ Fundamentals Review 8(2), 2014, 84–95. DOI 10.1587/essfr.8.84. [Safety-II Pursued by Resilience Engineering and How to Realize It]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_228
+TI  - 人間のレジリエンスに着目した安全戦略‘Safety-II’を実務に活かすための工学的な課題と展望.
+TT  - Engineering Challenges and Prospects for Applying Safety-II with Attention to Human Resilience
+AU  - 中西美和
+PY  - 2019
+DO  - 10.11348/reajshinrai.41.6_356
+UR  - https://doi.org/10.11348/reajshinrai.41.6_356
+N1  - Published reference: 中西美和. “人間のレジリエンスに着目した安全戦略‘Safety-II’を実務に活かすための工学的な課題と展望.” 信頼性 41(6), 2019, 356–362. DOI 10.11348/reajshinrai.41.6_356. [Engineering Challenges and Prospects for Applying Safety-II with Attention to Human Resilience]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_229
+TI  - Resilienz.
+TT  - Resilience
+AU  - Mario Trapp
+UR  - https://doi.org/10.1007/978-3-662-71567-3_9
+N1  - Published reference: Mario Trapp. “Resilienz.” In Künstliche Intelligenz und Wir, 173–189. Springer, first online 2025; volume ©2026. [Resilience]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_230
+TI  - Проблемы повышения живучести робототехнических систем космического назначения на основе многоагентных технологий.
+TT  - Increasing the Survivability of Space Robotic Systems Using Multi-Agent Technologies
+AU  - А. В. Калюжный
+AU  - В. А. Гончаренко
+AU  - А. Н. Соколовский
+PY  - 2020
+DO  - 10.25586/RNU.V9187.20.01.P.168
+UR  - https://doi.org/10.25586/RNU.V9187.20.01.P.168
+N1  - Published reference: А. В. Калюжный; В. А. Гончаренко; А. Н. Соколовский. “Проблемы повышения живучести робототехнических систем космического назначения на основе многоагентных технологий.” Вестник Российского нового университета. Серия: Сложные системы: модели, анализ и управление, 2020, № 1, 168–173. DOI 10.25586/RNU.V9187.20.01.P.168. [Increasing the Survivability of Space Robotic Systems Using Multi-Agent Technologies]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_231
+TI  - Ситуационное управление: от общей схемы решения задачи управления сложными объектами до создания современных интеллектуальных систем различной архитектурной типологии.
+TT  - Situational Control: From a General Scheme for Controlling Complex Objects to Modern Intelligent Systems of Different Architectural Types
+AU  - Г. В. Рыбина
+PY  - 2026
+DO  - 10.18127/j19998554-202602-05
+UR  - https://doi.org/10.18127/j19998554-202602-05
+N1  - Published reference: Г. В. Рыбина. “Ситуационное управление: от общей схемы решения задачи управления сложными объектами до создания современных интеллектуальных систем различной архитектурной типологии.” Нейрокомпьютеры: разработка, применение 28(2), 2026, 51–69. DOI 10.18127/j19998554-202602-05. [Situational Control: From a General Scheme for Controlling Complex Objects to Modern Intelligent Systems of Different Architectural Types]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_232
+TI  - Конструирование логико-трансформационных правил ситуационного управления сложными объектами в недоопределенных условиях функционирования.
+TT  - Constructing Logic-Transformation Rules for Situational Control of Complex Objects under Underdetermined Operating Conditions
+AU  - В. Б. Мелехин
+AU  - М. В. Хачумов
+PY  - 2025
+DO  - 10.14357/20718594250309
+UR  - https://doi.org/10.14357/20718594250309
+N1  - Published reference: В. Б. Мелехин; М. В. Хачумов. “Конструирование логико-трансформационных правил ситуационного управления сложными объектами в недоопределенных условиях функционирования.” Искусственный интеллект и принятие решений, 2025, № 3, 120–129. DOI 10.14357/20718594250309. [Constructing Logic-Transformation Rules for Situational Control of Complex Objects under Underdetermined Operating Conditions]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_233
+TI  - Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning.
+AU  - Lukas Brunke et al
+PY  - 2021
+UR  - https://arxiv.org/abs/2108.06266
+N1  - Published reference: Lukas Brunke et al. “Safe Learning in Robotics: From Learning-Based Control to Safe Reinforcement Learning.” arXiv:2108.06266, 2021.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_234
+TI  - Learning Safe Control for Multi-Robot Systems: Methods, Verification, and Open Challenges.
+AU  - Kunal Garg
+AU  - Songyuan Zhang
+AU  - Oswin So
+AU  - Charles Dawson
+AU  - Chuchu Fan
+PY  - 2023
+UR  - https://arxiv.org/abs/2311.13714
+N1  - Published reference: Kunal Garg, Songyuan Zhang, Oswin So, Charles Dawson, and Chuchu Fan. “Learning Safe Control for Multi-Robot Systems: Methods, Verification, and Open Challenges.” arXiv:2311.13714, 2023.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_235
+TI  - The Black-Box Simplex Architecture for Runtime Assurance of Multi-Agent CPS.
+AU  - Sanaz Sheikhi
+AU  - Usama Mehmood
+AU  - Stanley Bak
+AU  - Scott A. Smolka
+AU  - Scott D. Stoller
+PY  - 2025
+UR  - https://arxiv.org/abs/2102.12981
+N1  - Published reference: Sanaz Sheikhi, Usama Mehmood, Stanley Bak, Scott A. Smolka, and Scott D. Stoller. “The Black-Box Simplex Architecture for Runtime Assurance of Multi-Agent CPS.” Innovations in Systems and Software Engineering 21(2), 2025, 619–634.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_236
+TI  - Concrete Problems in AI Safety.
+AU  - Dario Amodei et al
+PY  - 2016
+UR  - https://arxiv.org/abs/1606.06565
+N1  - Published reference: Dario Amodei et al. “Concrete Problems in AI Safety.” arXiv:1606.06565, 2016.
+ER  -
+
+TY  - THES
+ID  - f151_ref_237
+TI  - Fertigkeiten- und Fähigkeitengraphen als Grundlage des sicheren Betriebs von automatisierten Fahrzeugen im öffentlichen Straßenverkehr in städtischer Umgebung
+TT  - Skill and Capability Graphs as a Basis for Safe Operation of Automated Vehicles in Urban Public Traffic
+AU  - Andreas Reschka
+PY  - 2017
+UR  - https://www.researchgate.net/publication/318850505_Fertigkeiten-_und_Fahigkeitengraphen_als_Grundlage_des_sicheren_Betriebs_von_automatisierten_Fahrzeugen_im_offentlichen_Strassenverkehr_in_stadtischer_Umgebung
+N1  - Published reference: Andreas Reschka. Fertigkeiten- und Fähigkeitengraphen als Grundlage des sicheren Betriebs von automatisierten Fahrzeugen im öffentlichen Straßenverkehr in städtischer Umgebung. Dissertation, TU Braunschweig, 2017. [Skill and Capability Graphs as a Basis for Safe Operation of Automated Vehicles in Urban Public Traffic]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_238
+TI  - 耐故障群ロボットシステムにおける最適保全戦略の有効性.
+TT  - Effectiveness of an Optimal Maintenance Strategy in Fault-Tolerant Multi-Robot Systems
+AU  - 星野智史
+AU  - 関宏也
+AU  - 太田順
+PY  - 2011
+DO  - 10.1299/kikaic.77.3312
+UR  - https://doi.org/10.1299/kikaic.77.3312
+N1  - Published reference: 星野智史; 関宏也; 太田順. “耐故障群ロボットシステムにおける最適保全戦略の有効性.” 日本機械学会論文集C編 77(781), 2011, 3312–3324. DOI 10.1299/kikaic.77.3312. [Effectiveness of an Optimal Maintenance Strategy in Fault-Tolerant Multi-Robot Systems]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_239
+TI  - 커넥터 조립을 위한 강화학습 기반의 탐색 궤적 생성 및 로봇의 임피던스 강성 조절 방법.
+TT  - RL-Based Search-Trajectory Generation and Robot Impedance-Stiffness Control for Connector Assembly
+AU  - 김용건
+AU  - 나민우
+AU  - 송재복
+PY  - 2022
+DO  - 10.7746/jkros.2022.17.4.455
+UR  - https://doi.org/10.7746/jkros.2022.17.4.455
+N1  - Published reference: 김용건; 나민우; 송재복. “커넥터 조립을 위한 강화학습 기반의 탐색 궤적 생성 및 로봇의 임피던스 강성 조절 방법.” 로봇학회 논문지 17(4) (2022): 455–462. DOI 10.7746/jkros.2022.17.4.455. [RL-Based Search-Trajectory Generation and Robot Impedance-Stiffness Control for Connector Assembly]
+ER  -
+
+TY  - THES
+ID  - f151_ref_240
+TI  - Risoluzione del Wire Loop Game attraverso un controllore di forza basato su apprendimento per rinforzo
+TT  - Solving the Wire Loop Game through an RL-Based Force Controller
+AU  - Lorenzo Mazzotti
+PY  - 2024
+UR  - https://amslaurea.unibo.it/id/eprint/31551/
+N1  - Published reference: Lorenzo Mazzotti. Risoluzione del Wire Loop Game attraverso un controllore di forza basato su apprendimento per rinforzo. Tesi magistrale, Università di Bologna, discussed 20 March 2024. [Solving the Wire Loop Game through an RL-Based Force Controller]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_241
+TI  - 노이즈 환경에서 효과적인 로봇 강화 학습의 정책 탐색 방법.
+TT  - Policy Exploration for Effective Robot Reinforcement Learning in Noisy Environments
+AU  - 양영하
+AU  - 이철수
+PY  - 2022
+UR  - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002813684
+N1  - Published reference: 양영하; 이철수. “노이즈 환경에서 효과적인 로봇 강화 학습의 정책 탐색 방법.” 로봇학회 논문지 17(1) (2022): 1–7. [Policy Exploration for Effective Robot Reinforcement Learning in Noisy Environments]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_242
+TI  - 산업용 자율 주행 로봇에서의 격자 지도를 사용한 강화학습 기반 회피 경로 생성기 개발.
+TT  - RL-Based Avoidance Path Generation Using Grid Maps for Industrial Autonomous Mobile Robots
+AU  - 양정연
+PY  - 2019
+DO  - 10.5392/JKCA.2019.19.03.072
+UR  - https://doi.org/10.5392/JKCA.2019.19.03.072
+N1  - Published reference: 양정연. “산업용 자율 주행 로봇에서의 격자 지도를 사용한 강화학습 기반 회피 경로 생성기 개발.” 한국콘텐츠학회 논문지 19(3) (2019): 72–79. DOI 10.5392/JKCA.2019.19.03.072. [RL-Based Avoidance Path Generation Using Grid Maps for Industrial Autonomous Mobile Robots]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_243
+TI  - Proposta per una architettura robusta Data-Flow Like.
+TT  - Proposal for a Robust Data-Flow-Like Architecture
+AU  - Alessandro Bondavalli
+AU  - L. Simoncini
+PY  - 1986
+UR  - https://hdl.handle.net/20.500.14243/364041
+N1  - Published reference: Alessandro Bondavalli; L. Simoncini. “Proposta per una architettura robusta Data-Flow Like.” CNR/ISTI, 1986. [Proposal for a Robust Data-Flow-Like Architecture]
+ER  -
+
+TY  - STAND
+ID  - f151_ref_244
+TI  - Robotics — Safety requirements — Part 1: Industrial robots.
+AU  - ISO 10218-1:2025
+PY  - 2025
+UR  - https://www.iso.org/standard/73933.html
+N1  - Published reference: ISO 10218-1:2025. Robotics — Safety requirements — Part 1: Industrial robots.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_245
+TI  - Robots and robotic devices — Collaborative robots.
+AU  - ISO/TS 15066:2016
+PY  - 2016
+UR  - https://www.iso.org/standard/62996.html
+N1  - Published reference: ISO/TS 15066:2016. Robots and robotic devices — Collaborative robots.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_246
+TI  - Industrial trucks — Safety requirements and verification — Part 4: Driverless industrial trucks and their systems.
+AU  - ISO 3691-4:2023
+PY  - 2023
+UR  - https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/08/35/83545.html?browse=tc
+N1  - Published reference: ISO 3691-4:2023. Industrial trucks — Safety requirements and verification — Part 4: Driverless industrial trucks and their systems.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_247
+TI  - Robotics — Safety requirements for service robots.
+AU  - ISO/FDIS 13482 (Edition 2 draft, 2026)
+PY  - 2026
+UR  - https://www.iso.org/standard/83498.html
+N1  - Published reference: ISO/FDIS 13482 (Edition 2 draft, 2026). Robotics — Safety requirements for service robots.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_248
+TI  - Road vehicles — Safety for automated driving systems — Design, verification and validation.
+AU  - ISO/WD TS 5083, Edition 2 working draft, 2026
+PY  - 2026
+UR  - https://www.iso.org/standard/93508.html?browse=tc
+N1  - Published reference: ISO/WD TS 5083, Edition 2 working draft, 2026. Road vehicles — Safety for automated driving systems — Design, verification and validation.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_249
+TI  - Road vehicles — Functional safety.
+AU  - ISO 26262:2018 series
+PY  - 2018
+UR  - https://www.iso.org/publication/PUB200262.html
+N1  - Published reference: ISO 26262:2018 series. Road vehicles — Functional safety.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_250
+TI  - Road vehicles — Safety of the intended functionality (SOTIF).
+AU  - ISO 21448:2022
+PY  - 2022
+UR  - https://www.iso.org/standard/77490.html
+N1  - Published reference: ISO 21448:2022. Road vehicles — Safety of the intended functionality (SOTIF).
+ER  -
+
+TY  - STAND
+ID  - f151_ref_251
+TI  - J3206_202107, Taxonomy and Definition of Safety Principles for Automated Driving System (ADS)
+AU  - SAE International
+PY  - 2021
+UR  - https://saemobilus.sae.org/standards/j3206_202107-taxonomy-definition-safety-principles-automated-driving-system-ads
+N1  - Published reference: SAE International. J3206_202107, Taxonomy and Definition of Safety Principles for Automated Driving System (ADS). 2021.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_252
+TI  - Road vehicles — Test scenarios for automated driving systems — Scenario based safety evaluation framework.
+AU  - ISO 34502:2022
+PY  - 2022
+UR  - https://www.iso.org/standard/78951.html
+N1  - Published reference: ISO 34502:2022. Road vehicles — Test scenarios for automated driving systems — Scenario based safety evaluation framework.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_253
+TI  - Road vehicles — Test scenarios for automated driving systems — Scenario categorization.
+AU  - ISO 34504:2024
+PY  - 2024
+UR  - https://www.iso.org/standard/78953.html
+N1  - Published reference: ISO 34504:2024. Road vehicles — Test scenarios for automated driving systems — Scenario categorization.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_254
+TI  - Dynamic scenario description standard, released March 19, 2026.
+AU  - ASAM OpenSCENARIO DSL 2.2.0
+PY  - 2026
+UR  - https://www.asam.net/standards/detail/openscenario-dsl/
+N1  - Published reference: ASAM OpenSCENARIO DSL 2.2.0. Dynamic scenario description standard, released March 19, 2026.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_255
+TI  - Road vehicles — Test scenarios for automated driving systems — Qualification of virtual test environments.
+AU  - ISO/PAS 34506, Edition 1, 2026
+PY  - 2026
+UR  - https://www.iso.org/standard/89865.html?browse=tc
+N1  - Published reference: ISO/PAS 34506, Edition 1, 2026. Road vehicles — Test scenarios for automated driving systems — Qualification of virtual test environments.
+ER  -
+
+TY  - THES
+ID  - f151_ref_256
+TI  - Systematischer Einsatz von Szenarien für die Absicherung automatisierter Fahrzeuge am Beispiel deutscher Autobahnen
+TT  - Systematic Use of Scenarios for Assuring Automated Vehicles on German Highways
+AU  - Gerrit Bagschik
+PY  - 2022
+UR  - https://leopard.tu-braunschweig.de/servlets/MCRFileNodeServlet/dbbs_derivate_00049327/Diss_Bagschik_Gerrit.pdf
+N1  - Published reference: Gerrit Bagschik. Systematischer Einsatz von Szenarien für die Absicherung automatisierter Fahrzeuge am Beispiel deutscher Autobahnen. Dissertation, TU Braunschweig, 2022. [Systematic Use of Scenarios for Assuring Automated Vehicles on German Highways]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_257
+TI  - Wissensbasierte Szenariengenerierung für Betriebsszenarien auf deutschen Autobahnen.
+TT  - Knowledge-Based Scenario Generation for Operating Scenarios on German Highways
+AU  - Gerrit Bagschik
+AU  - Till Menzel
+AU  - Cornelius Körner
+AU  - Markus Maurer
+PY  - 2018
+UR  - https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Institute_Fakultaet_5/IFR/Dateien_EFS/Publikationen/WissensbasierteSzenariengenerierungFuerBetriebsszenarien.pdf
+N1  - Published reference: Gerrit Bagschik; Till Menzel; Cornelius Körner; Markus Maurer. “Wissensbasierte Szenariengenerierung für Betriebsszenarien auf deutschen Autobahnen.” 12. Workshop Fahrerassistenzsysteme, 2018. [Knowledge-Based Scenario Generation for Operating Scenarios on German Highways]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_258
+TI  - Systematische Auswertung von Testfällen für Fahrfunktionen im modularen virtuellen Testbaukasten.
+TT  - Systematic Evaluation of Test Cases for Driving Functions in a Modular Virtual Test Kit
+AU  - Fabian Schuldt
+AU  - Bernd Lichte
+AU  - Markus Maurer
+AU  - Stephan Scholz
+PY  - 2014
+UR  - https://www.researchgate.net/publication/275769024_Systematische_Auswertung_von_Testfallen_fur_Fahrfunktionen_im_modularen_virtuellen_Testbaukasten
+N1  - Published reference: Fabian Schuldt; Bernd Lichte; Markus Maurer; Stephan Scholz. “Systematische Auswertung von Testfällen für Fahrfunktionen im modularen virtuellen Testbaukasten.” 9. Workshop Fahrerassistenzsysteme (FAS2014), 2014, 169–179. [Systematic Evaluation of Test Cases for Driving Functions in a Modular Virtual Test Kit]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_259
+TI  - Модель процесса формирования каталога сценариев для анализа и оценки функциональной безопасности автоматизированных систем вождения автомобилей.
+TT  - A Process Model for Building Scenario Catalogs to Analyze and Assess Functional Safety of Automated Driving Systems
+AU  - И. Н. Фомин
+DO  - 10.24143/2072-9502-2024-3-41-47
+UR  - https://doi.org/10.24143/2072-9502-2024-3-41-47
+N1  - Published reference: И. Н. Фомин. “Модель процесса формирования каталога сценариев для анализа и оценки функциональной безопасности автоматизированных систем вождения автомобилей.” Вестник Астраханского государственного технического университета. Серия: Управление, вычислительная техника и информатика, 2024, № 3, 41–47. DOI 10.24143/2072-9502-2024-3-41-47. [A Process Model for Building Scenario Catalogs to Analyze and Assess Functional Safety of Automated Driving Systems]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_260
+TI  - 自動運転車の安全性評価のためのシナリオ構築──SAKURAプロジェクトの紹介.
+TT  - Scenario Construction for Safety Evaluation of Automated Vehicles: The SAKURA Project
+AU  - 内田信行
+PY  - 2022
+DO  - 10.5363/tits.27.2_82
+UR  - https://doi.org/10.5363/tits.27.2_82
+N1  - Published reference: 内田信行. “自動運転車の安全性評価のためのシナリオ構築──SAKURAプロジェクトの紹介.” 学術の動向 27(2), 2022, 82–86. DOI 10.5363/tits.27.2_82. [Scenario Construction for Safety Evaluation of Automated Vehicles: The SAKURA Project]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_261
+TI  - 自动驾驶汽车场景测试与评估体系：研究现状、挑战及趋势.
+TT  - Scenario Testing and Evaluation Systems for Autonomous Vehicles: Status, Challenges, and Trends
+AU  - 范博
+AU  - 周重位
+AU  - 张思楠
+AU  - 杨军
+AU  - 陈艳艳
+AU  - 李同飞
+UR  - https://cjournal.hep.com.cn/1674-4861/CN/1276164900435538802
+N1  - Published reference: 范博; 周重位; 张思楠; 杨军; 陈艳艳; 李同飞. “自动驾驶汽车场景测试与评估体系：研究现状、挑战及趋势.” 交通信息与安全 43(6), 2025, 11–20; online issue date displayed as 2026-06-23. [Scenario Testing and Evaluation Systems for Autonomous Vehicles: Status, Challenges, and Trends]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_262
+TI  - Интегрированная среда моделирования для верификации и валидации программ управления подключенными и высокоавтоматизированными транспортными средствами.
+TT  - Integrated Simulation Environment for Verification and Validation of Connected and Highly Automated Vehicle Control Software
+AU  - В. Г. Степанянц
+AU  - Г. С. Хорошилов
+AU  - И. М. Долгов
+AU  - Е. А. Нархов
+AU  - А. В. Карпухин
+PY  - 2026
+DO  - 10.15514/ISPRAS-2026-38(3)-23
+UR  - https://doi.org/10.15514/ISPRAS-2026-38(3)-23
+N1  - Published reference: В. Г. Степанянц; Г. С. Хорошилов; И. М. Долгов; Е. А. Нархов; А. В. Карпухин. “Интегрированная среда моделирования для верификации и валидации программ управления подключенными и высокоавтоматизированными транспортными средствами.” Труды Института системного программирования РАН 38(3), ч. 2, 2026, 95–110. DOI 10.15514/ISPRAS-2026-38(3)-23. [Integrated Simulation Environment for Verification and Validation of Connected and Highly Automated Vehicle Control Software]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_263
+TI  - Progettazione di sistemi di controllo per la guida autonoma e definizione e creazione di scenari 3D per il testing
+TT  - Design of Control Systems for Autonomous Driving and Definition/Creation of 3D Test Scenarios
+AU  - Federico Catalini
+UR  - https://hdl.handle.net/20.500.12075/16571
+N1  - Published reference: Federico Catalini. Progettazione di sistemi di controllo per la guida autonoma e definizione e creazione di scenari 3D per il testing. Tesi, Università Politecnica delle Marche, 2022/23, discussed 16 February 2024. [Design of Control Systems for Autonomous Driving and Definition/Creation of 3D Test Scenarios]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_264
+TI  - Беспилотный автомобиль: подходы к реализации, проблемы.
+TT  - Driverless Vehicle: Implementation Approaches and Problems
+AU  - О. П. Бобровская
+AU  - Т. В. Гавриленко
+PY  - 2022
+DO  - 10.51790/2712-9942-2022-3-2-10
+UR  - https://doi.org/10.51790/2712-9942-2022-3-2-10
+N1  - Published reference: О. П. Бобровская; Т. В. Гавриленко. “Беспилотный автомобиль: подходы к реализации, проблемы.” Успехи кибернетики 3(2), 2022, 86–96. DOI 10.51790/2712-9942-2022-3-2-10. [Driverless Vehicle: Implementation Approaches and Problems]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_265
+TI  - A Survey on Scenario-Based Testing for Automated Driving Systems in High-Fidelity Simulation.
+AU  - Ziyuan Zhong et al
+PY  - 2021
+UR  - https://arxiv.org/abs/2112.00964
+N1  - Published reference: Ziyuan Zhong et al. “A Survey on Scenario-Based Testing for Automated Driving Systems in High-Fidelity Simulation.” arXiv:2112.00964, 2021.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_266
+TI  - Finding Critical Scenarios for Automated Driving Systems: A Systematic Literature Review.
+AU  - Xinhai Zhang et al
+PY  - 2021
+UR  - https://arxiv.org/abs/2110.08664
+N1  - Published reference: Xinhai Zhang et al. “Finding Critical Scenarios for Automated Driving Systems: A Systematic Literature Review.” arXiv:2110.08664, 2021.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_267
+TI  - Learning Naturalistic Driving Environment with Statistical Realism.
+AU  - Xintao Yan
+AU  - Zhengxia Zou
+AU  - Shuo Feng
+AU  - Haojie Zhu
+AU  - Haowei Sun
+AU  - Henry X. Liu
+UR  - https://www.nature.com/articles/s41467-023-37677-5
+N1  - Published reference: Xintao Yan, Zhengxia Zou, Shuo Feng, Haojie Zhu, Haowei Sun, and Henry X. Liu. “Learning Naturalistic Driving Environment with Statistical Realism.” Nature Communications 14, 2037 (2023).
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_268
+TI  - 面向整车系统的自动驾驶安全测试研究综述.
+TT  - Survey of Vehicle-System Safety Testing Research for Autonomous Driving
+AU  - 任睿晗
+AU  - 杨超
+AU  - 杨凯
+AU  - 张柏迪
+AU  - 张晓东
+AU  - 王利娟
+AU  - 马建峰
+PY  - 2026
+DO  - 10.13328/j.cnki.jos.007486
+UR  - https://doi.org/10.13328/j.cnki.jos.007486
+N1  - Published reference: 任睿晗; 杨超; 杨凯; 张柏迪; 张晓东; 王利娟; 马建峰. “面向整车系统的自动驾驶安全测试研究综述.” 软件学报 37(1), 2026, 157–179. DOI 10.13328/j.cnki.jos.007486. [Survey of Vehicle-System Safety Testing Research for Autonomous Driving]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_269
+TI  - Методология комплексных испытаний высокоавтоматизированных транспортных средств.
+TT  - Methodology for Comprehensive Testing of Highly Automated Vehicles
+AU  - С. А. Гараган
+PY  - 2023
+UR  - https://niiat.ru/vestnikyanmart2023/
+N1  - Published reference: С. А. Гараган. “Методология комплексных испытаний высокоавтоматизированных транспортных средств.” Научный вестник автомобильного транспорта, январь–март 2023. [Methodology for Comprehensive Testing of Highly Automated Vehicles]
+ER  -
+
+TY  - STAND
+ID  - f151_ref_270
+TI  - Challenges in Autonomous Vehicle Testing and Validation.
+AU  - Philip Koopman
+AU  - Michael Wagner
+PY  - 2016
+UR  - https://saemobilus.sae.org/articles/challenges-autonomous-vehicle-testing-validation-2016-01-0128
+N1  - Published reference: Philip Koopman and Michael Wagner. “Challenges in Autonomous Vehicle Testing and Validation.” SAE International Journal of Transportation Safety 4(1), 2016, 15–24.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_271
+TI  - PEGASUS Method for scenario-based safety validation of highly automated driving.
+AU  - PEGASUS Project
+UR  - https://www.pegasusprojekt.de/en/pegasus-method
+N1  - Published reference: PEGASUS Project. PEGASUS Method for scenario-based safety validation of highly automated driving.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_272
+TI  - 自動運転車の安全性評価～シナリオベースの論証体系および国際標準化の動向～.
+TT  - Safety Evaluation of Automated Vehicles: Scenario-Based Argumentation and International Standardization
+AU  - 北島創
+AU  - 中村弘毅
+PY  - 2023
+DO  - 10.11499/sicejl.62.289
+UR  - https://doi.org/10.11499/sicejl.62.289
+N1  - Published reference: 北島創; 中村弘毅. “自動運転車の安全性評価～シナリオベースの論証体系および国際標準化の動向～.” 計測と制御 62(5), 2023, 289–292. DOI 10.11499/sicejl.62.289. [Safety Evaluation of Automated Vehicles: Scenario-Based Argumentation and International Standardization]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_273
+TI  - Criticality Metrics for Automated Driving: A Review and Suitability Analysis of the State of the Art.
+AU  - Lukas Westhofen et al
+UR  - https://arxiv.org/abs/2108.02403
+N1  - Published reference: Lukas Westhofen et al. “Criticality Metrics for Automated Driving: A Review and Suitability Analysis of the State of the Art.” arXiv:2108.02403 / Archives of Computational Methods in Engineering, 2021–2023.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_274
+TI  - Waymo Public Road Safety Performance Data.
+AU  - Matthew Schwall
+AU  - Tom Daniel
+AU  - Trent Victor
+AU  - Francesca Favaro
+AU  - Henning Hohnhold
+UR  - https://waymo.com/research/waymo-public-road-safety-performance-data/
+N1  - Published reference: Matthew Schwall, Tom Daniel, Trent Victor, Francesca Favaro, and Henning Hohnhold. “Waymo Public Road Safety Performance Data.” arXiv:2011.00038, 2020.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_275
+TI  - Do Autonomous Vehicles Outperform Latest-Generation Human-Driven Vehicles? A Comparison to Waymo’s Auto Liability Insurance Claims at 25 Million Miles.
+AU  - Luigi Di Lillo
+AU  - Tilia Gode
+AU  - Xilin Zhou
+AU  - John M. Scanlon
+AU  - Ruoshu Chen
+AU  - Trent Victor
+PY  - 2024
+UR  - https://waymo.com/research/do-autonomous-vehicles-outperform-latest-generation-human-driven-vehicles-25-million-miles/
+N1  - Published reference: Luigi Di Lillo, Tilia Gode, Xilin Zhou, John M. Scanlon, Ruoshu Chen, and Trent Victor. “Do Autonomous Vehicles Outperform Latest-Generation Human-Driven Vehicles? A Comparison to Waymo’s Auto Liability Insurance Claims at 25 Million Miles.” 2024.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_276
+TI  - Building a Credible Case for Safety: Waymo’s Approach for the Determination of Absence of Unreasonable Risk.
+AU  - Francesca Favarò et al
+PY  - 2026
+UR  - https://waymo.com/research/building-a-credible-case-for-safety-waymos-appro/
+N1  - Published reference: Francesca Favarò et al. “Building a Credible Case for Safety: Waymo’s Approach for the Determination of Absence of Unreasonable Risk.” Journal of Safety Research 96, 2026, 181–196.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_277
+TI  - AVSC Best Practice for Assessment of ADS-DV Safety Case Claims Supported by Evidence, AVSC-D-04-2025
+AU  - Automated Vehicle Safety Consortium
+PY  - 2025
+UR  - https://saemobilus.sae.org/reports/avsc-best-practice-assessment-automated-driving-system-dedicated-vehicles-ads-dvs-safety-case-claims-supported-evidence-cse-avsc-d-04-2025
+N1  - Published reference: Automated Vehicle Safety Consortium. AVSC Best Practice for Assessment of ADS-DV Safety Case Claims Supported by Evidence, AVSC-D-04-2025. 2025.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_278
+TI  - AVSC Best Practice for Continuous Monitoring and Improvement after Deployment, AVSC00011202307
+AU  - Automated Vehicle Safety Consortium
+PY  - 2023
+UR  - https://saemobilus.sae.org/reports/avsc-best-practice-continuous-monitoring-improvement-deployment-avsc00011202307
+N1  - Published reference: Automated Vehicle Safety Consortium. AVSC Best Practice for Continuous Monitoring and Improvement after Deployment, AVSC00011202307. 2023.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_279
+TI  - Applications of Dynamic Systems Theory to Cognition and Development: New Frontiers.
+AU  - Sammy Perone
+AU  - Vanessa R. Simmering
+DO  - 10.1016/bs.acdb.2016.10.002
+UR  - https://doi.org/10.1016/bs.acdb.2016.10.002
+N1  - Published reference: Sammy Perone and Vanessa R. Simmering. “Applications of Dynamic Systems Theory to Cognition and Development: New Frontiers.” Advances in Child Development and Behavior 52, 2017, 43–80. DOI 10.1016/bs.acdb.2016.10.002.
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_280
+TI  - Author-published contents and concluding outline for Situated Cognition: On Human Knowledge and Computer Representations (Cambridge University Press, 1997).
+AU  - William J. Clancey
+PY  - 1997
+UR  - https://billclancey.name/SituatedCognition.html
+N1  - Published reference: William J. Clancey. Author-published contents and concluding outline for Situated Cognition: On Human Knowledge and Computer Representations (Cambridge University Press, 1997).
+ER  -
+
+TY  - BOOK
+ID  - f151_ref_281
+TI  - Verkörperlichung und situative Einbettung.
+TT  - Embodiment and Situated Embedding
+AU  - Holger Lyre
+PY  - 2013
+UR  - https://philarchive.org/rec/LYRVUS
+N1  - Published reference: Holger Lyre. “Verkörperlichung und situative Einbettung.” In Achim Stephan and Sven Walter (eds.), Handbuch Kognitionswissenschaft. Metzler, 2013, 186–192. [Embodiment and Situated Embedding]
+ER  -
+
+TY  - RPRT
+ID  - f151_ref_282
+TI  - Méthode de réplication basée sur les plans pour la tolérance aux pannes des systèmes multi-agents.
+TT  - Plan-Based Replication Method for Fault Tolerance in Multi-Agent Systems
+AU  - Alessandro de Luna Almeida, Samir Aknine, Jean-Pierre Briot
+AU  - Jacques Malenfant
+PY  - 2005
+UR  - https://www-ftp.lip6.fr/lip6/reports/2005/lip6-2005-010.pdf
+N1  - Published reference: Alessandro de Luna Almeida, Samir Aknine, Jean-Pierre Briot and Jacques Malenfant. “Méthode de réplication basée sur les plans pour la tolérance aux pannes des systèmes multi-agents.” LIP6 report 2005-010, 2005, 13 pp. [Plan-Based Replication Method for Fault Tolerance in Multi-Agent Systems]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_283
+TI  - Situated Cognition: A Field Guide to Some Open Conceptual and Ontological Issues.
+AU  - Sven Walter
+PY  - 2014
+DO  - 10.1007/s13164-013-0167-y
+UR  - https://doi.org/10.1007/s13164-013-0167-y
+N1  - Published reference: Sven Walter. “Situated Cognition: A Field Guide to Some Open Conceptual and Ontological Issues.” Review of Philosophy and Psychology 5, 2014, 241–263. DOI 10.1007/s13164-013-0167-y.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_284
+TI  - From Wide Cognition to Mechanisms: A Silent Revolution.
+AU  - Marcin Miłkowski et al
+PY  - 2018
+DO  - 10.3389/fpsyg.2018.02393
+UR  - https://doi.org/10.3389/fpsyg.2018.02393
+N1  - Published reference: Marcin Miłkowski et al. “From Wide Cognition to Mechanisms: A Silent Revolution.” Frontiers in Psychology 9, 2018, 2393. DOI 10.3389/fpsyg.2018.02393.
+ER  -
+
+TY  - THES
+ID  - f151_ref_285
+TI  - Situatedness in Personality, Attitude & Rationality Research: From Case Studies towards Criteria of Situated Models in Cognitive Psychology
+AU  - Richard Wundrack
+PY  - 2017
+DO  - 10.13140/RG.2.2.19604.55682
+UR  - https://doi.org/10.13140/RG.2.2.19604.55682
+N1  - Published reference: Richard Wundrack. Situatedness in Personality, Attitude & Rationality Research: From Case Studies towards Criteria of Situated Models in Cognitive Psychology. Master's thesis, Humboldt-Universität zu Berlin, 2017. DOI 10.13140/RG.2.2.19604.55682.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_286
+TI  - Time, Clocks, and the Ordering of Events in a Distributed System.
+AU  - Leslie Lamport
+PY  - 1978
+DO  - 10.1145/359545.359563
+UR  - https://doi.org/10.1145/359545.359563
+N1  - Published reference: Leslie Lamport. “Time, Clocks, and the Ordering of Events in a Distributed System.” Communications of the ACM 21(7), 1978, 558–565. DOI 10.1145/359545.359563.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_287
+TI  - AI Agents Need Data Integrity.
+AU  - Bruce Schneier
+AU  - Davi Ottenheimer
+PY  - 2025
+UR  - https://www.schneier.com/blog/archives/2025/08/ai-agents-need-data-integrity.html
+N1  - Published reference: Bruce Schneier and Davi Ottenheimer. “AI Agents Need Data Integrity.” Schneier on Security, 2025.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_288
+TI  - Delegation and satisfiability in workflow systems.
+AU  - Jason Crampton
+AU  - Hemanth Khambhammettu
+PY  - 2008
+DO  - 10.1145/1377836.1377842
+UR  - https://doi.org/10.1145/1377836.1377842
+N1  - Published reference: Jason Crampton and Hemanth Khambhammettu. “Delegation and satisfiability in workflow systems.” Proceedings of the 13th ACM Symposium on Access Control Models and Technologies, 2008, 31–40. DOI 10.1145/1377836.1377842.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_289
+TI  - Vom Handrad zum Bildschirm: Eine Untersuchung zur sinnlichen Erfahrung im Arbeitsprozeß
+TT  - From the Handwheel to the Screen: A Study of Sensory Experience in the Work Process
+AU  - Fritz Böhle
+AU  - Brigitte Milkau
+PY  - 1988
+UR  - https://www.isf-muenchen.de/pdf/isf-archiv/1988-boehle-milkau-handrad.pdf
+N1  - Published reference: Fritz Böhle and Brigitte Milkau. Vom Handrad zum Bildschirm: Eine Untersuchung zur sinnlichen Erfahrung im Arbeitsprozeß. Campus, 1988. [From the Handwheel to the Screen: A Study of Sensory Experience in the Work Process]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_290
+TI  - The Remote Perception Problem.
+AU  - James S. Tittle, Axel Roesler
+AU  - David D. Woods
+PY  - 2002
+DO  - 10.1177/154193120204600309
+UR  - https://doi.org/10.1177/154193120204600309
+N1  - Published reference: James S. Tittle, Axel Roesler and David D. Woods. “The Remote Perception Problem.” Proceedings of the Human Factors and Ergonomics Society Annual Meeting 46(3), 2002, 260–264. DOI 10.1177/154193120204600309.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_291
+TI  - Prevenção de agravos à saúde do trabalhador: replanejando o trabalho através das negociações cotidianas.
+TT  - Preventing Harm to Workers’ Health: Replanning Work through Everyday Negotiations
+AU  - Leny Sato
+PY  - 2002
+DO  - 10.1590/S0102-311X2002000500002
+UR  - https://doi.org/10.1590/S0102-311X2002000500002
+N1  - Published reference: Leny Sato. “Prevenção de agravos à saúde do trabalhador: replanejando o trabalho através das negociações cotidianas.” Cadernos de Saúde Pública 18(5), 2002, 1147–1157. DOI 10.1590/S0102-311X2002000500002. [Preventing Harm to Workers’ Health: Replanning Work through Everyday Negotiations]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_292
+TI  - Dos limites e das possibilidades das micronegociações para o replanejamento do trabalho.
+TT  - On the Limits and Possibilities of Micronegotiations for Replanning Work
+AU  - Carlos Machado de Freitas
+PY  - 2002
+DO  - 10.1590/S0102-311X2002000500006
+UR  - https://doi.org/10.1590/S0102-311X2002000500006
+N1  - Published reference: Carlos Machado de Freitas. “Dos limites e das possibilidades das micronegociações para o replanejamento do trabalho.” Cadernos de Saúde Pública 18(5), 2002. DOI 10.1590/S0102-311X2002000500006. [On the Limits and Possibilities of Micronegotiations for Replanning Work]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_293
+TI  - Принципы построения иерархических систем дистанционного управления для строительно-дорожных машин
+TT  - Principles for Designing Hierarchical Remote-Control Systems for Construction and Road-Building Machinery
+AU  - Кабаков А.В., Степанов М.А., Агарков А.М., Шихов Н.С. (2026)
+DO  - 10.24412/2071-6168-2026-7-319-320
+UR  - https://doi.org/10.24412/2071-6168-2026-7-319-320
+N1  - Published reference: Кабаков А.В., Степанов М.А., Агарков А.М., Шихов Н.С. (2026). Принципы построения иерархических систем дистанционного управления для строительно-дорожных машин. Известия Тульского государственного университета. Технические науки. DOI 10.24412/2071-6168-2026-7-319-320. [Principles for Designing Hierarchical Remote-Control Systems for Construction and Road-Building Machinery]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_294
+TI  - Menschengerechte Gestaltung KI-gestützter Arbeitssysteme
+TT  - Human-Centered Design of AI-Supported Work Systems
+AU  - Braun, Martin (2022)
+PY  - 2022
+DO  - 10.37307/j.2365-7634.2022.05.04
+UR  - https://doi.org/10.37307/j.2365-7634.2022.05.04
+N1  - Published reference: Braun, Martin (2022). Menschengerechte Gestaltung KI-gestützter Arbeitssysteme. Betriebliche Prävention 134(5). DOI 10.37307/j.2365-7634.2022.05.04. [Human-Centered Design of AI-Supported Work Systems]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_295
+TI  - Receive Stripe events in your webhook endpoint.
+AU  - Stripe
+UR  - https://docs.stripe.com/webhooks
+N1  - Published reference: Stripe. Receive Stripe events in your webhook endpoint.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_296
+TI  - Cadernos de Saúde Pública 18(5)
+TT  - The Author Responds
+AU  - Sato (2002), A autora responde
+PY  - 2002
+DO  - 10.1590/S0102-311X2002000500008
+UR  - https://doi.org/10.1590/S0102-311X2002000500008
+N1  - Published reference: Sato (2002), A autora responde. Cadernos de Saúde Pública 18(5). DOI 10.1590/S0102-311X2002000500008. [The Author Responds]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_297
+TI  - The UCONABC Usage Control Model
+AU  - Park
+AU  - Jaehong
+AU  - Ravi Sandhu (2004)
+PY  - 2004
+UR  - https://www.profsandhu.com/cs6393_s20/UCON-2004.pdf
+N1  - Published reference: Park, Jaehong, and Ravi Sandhu (2004). The UCONABC Usage Control Model. ACM TISSEC 7(1), 128–174.
+ER  -
+
+TY  - THES
+ID  - f151_ref_298
+TI  - Une Approche Sécurisée pour la Délégation Dynamique de Tâches dans les Systèmes de Gestion de Workflow
+TT  - A Secure Approach to Dynamic Task Delegation in Workflow Management Systems
+AU  - Gaaloul, Khaled (2010)
+PY  - 2010
+UR  - https://docnum.univ-lorraine.fr/public/SCD_T_2010_0058_GAALOUL.pdf
+N1  - Published reference: Gaaloul, Khaled (2010). Une Approche Sécurisée pour la Délégation Dynamique de Tâches dans les Systèmes de Gestion de Workflow. Doctoral thesis, Université Henri Poincaré–Nancy 1. [A Secure Approach to Dynamic Task Delegation in Workflow Management Systems]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_299
+TI  - (2019)
+AU  - Pang, Ruoming, et al
+PY  - 2019
+UR  - https://www.usenix.org/system/files/atc19-pang.pdf
+N1  - Published reference: Pang, Ruoming, et al. (2019). Zanzibar: Google’s Consistent, Global Authorization System. USENIX ATC.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_300
+TI  - Idempotent requests.
+AU  - Stripe
+UR  - https://docs.stripe.com/api/idempotent_requests
+N1  - Published reference: Stripe. Idempotent requests.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_301
+TI  - Produção 14(3), 27–34
+TT  - Subjectivity, Work and Action
+AU  - Dejours (2004), Subjetividade, trabalho e ação
+PY  - 2004
+DO  - 10.1590/S0103-65132004000300004
+UR  - https://doi.org/10.1590/S0103-65132004000300004
+N1  - Published reference: Dejours (2004), Subjetividade, trabalho e ação. Produção 14(3), 27–34. DOI 10.1590/S0103-65132004000300004. [Subjectivity, Work and Action]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_302
+TI  - (2020)
+TT  - Human Factors Issues in Takeover during Conditional Automated Driving Based on Cognitive Mechanisms
+AU  - 马舒、章薇、史金磊、杨振 / Ma Shu et al
+PY  - 2020
+DO  - 10.3724/SP.J.1042.2020.00150
+UR  - https://doi.org/10.3724/SP.J.1042.2020.00150
+N1  - Published reference: 马舒、章薇、史金磊、杨振 / Ma Shu et al. (2020). 基于认知机制的有条件自动驾驶接管中的人因问题. 心理科学进展 28(1), 150–160. DOI 10.3724/SP.J.1042.2020.00150. [Human Factors Issues in Takeover during Conditional Automated Driving Based on Cognitive Mechanisms]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_303
+TI  - Human-Centered Design and Evaluation of a Workplace for the Remote Assistance of Highly Automated Vehicles
+AU  - Andreas Schrank, Fabian Walocha, Stefan Brandenburg
+AU  - Michael Oehl (2023 author manuscript)
+PY  - 2023
+UR  - https://arxiv.org/pdf/2308.02330
+N1  - Published reference: Andreas Schrank, Fabian Walocha, Stefan Brandenburg and Michael Oehl (2023 author manuscript). Human-Centered Design and Evaluation of a Workplace for the Remote Assistance of Highly Automated Vehicles. arXiv:2308.02330.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_304
+TI  - How much time do drivers need to obtain situation awareness? A laboratory-based study of automated driving
+AU  - Zhenji Lu, Xander Coster
+AU  - Joost de Winter (2017)
+DO  - 10.1016/j.apergo.2016.12.003
+UR  - https://doi.org/10.1016/j.apergo.2016.12.003
+N1  - Published reference: Zhenji Lu, Xander Coster and Joost de Winter (2017). How much time do drivers need to obtain situation awareness? A laboratory-based study of automated driving. Applied Ergonomics 60, 293–304. DOI 10.1016/j.apergo.2016.12.003.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_305
+TI  - 高度自動運転における権限委譲方法の基礎的検討（第5報）
+TT  - A Basic Study of Methods for Transferring Control Authority in Highly Automated Driving (Fifth Report)
+AU  - 本間亮平・若杉貴志・小高賢二 / Homma, Wakasugi
+AU  - Kodaka (2019)
+PY  - 2019
+UR  - https://www.jstage.jst.go.jp/article/jsaeronbun/50/2/50_20194256/_pdf/-char/ja
+N1  - Published reference: 本間亮平・若杉貴志・小高賢二 / Homma, Wakasugi and Kodaka (2019). 高度自動運転における権限委譲方法の基礎的検討（第5報）. 自動車技術会論文集 50(2). [A Basic Study of Methods for Transferring Control Authority in Highly Automated Driving (Fifth Report)]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_306
+TI  - Effects of Takeover Request Lead Time to Driver Workload in Autonomous Driving
+AU  - Yun
+AU  - Yong Deok
+AU  - Rohae Myung (2019)
+PY  - 2019
+DO  - 10.5143/JESK.2019.38.2.61
+UR  - https://doi.org/10.5143/JESK.2019.38.2.61
+N1  - Published reference: Yun, Yong Deok, and Rohae Myung (2019). Effects of Takeover Request Lead Time to Driver Workload in Autonomous Driving. JESK 38(2). DOI 10.5143/JESK.2019.38.2.61.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_307
+TI  - 7th International HUMANIST Conference.
+AU  - Schrank & Kettwich (2021), Roles in the Teleoperation of Highly Automated Vehicles in Public Transport
+PY  - 2021
+UR  - https://www.researchgate.net/publication/356944935_Roles_in_the_Teleoperation_of_Highly_Automated_Vehicles_in_Public_Transport
+N1  - Published reference: Schrank & Kettwich (2021), Roles in the Teleoperation of Highly Automated Vehicles in Public Transport. 7th International HUMANIST Conference.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_308
+TI  - Saúde mental e automação: a propósito de um estudo de caso no setor ferroviário
+TT  - Mental Health and Automation: On a Case Study in the Railway Sector
+AU  - Seligmann-Silva, Edith (1997)
+PY  - 1997
+UR  - https://www.scielo.br/j/csp/a/ym6BfDHyYK7ncn3nd9hSn9f/?format=pdf&lang=pt
+N1  - Published reference: Seligmann-Silva, Edith (1997). Saúde mental e automação: a propósito de um estudo de caso no setor ferroviário. Cadernos de Saúde Pública 13(Suppl.2), 95–109. [Mental Health and Automation: On a Case Study in the Railway Sector]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_309
+UR  - https://iloencyclopaedia.org/ar/part-v-77965/psychosocial-and-organizational-factors/factors-intrinsic-to-the-job/item/20-electronic-work-monitoring
+N1  - Published reference: ILO Encyclopaedia of Occupational Health and Safety: مراقبة العمل الإلكتروني (Electronic Work Monitoring).
+ER  -
+
+TY  - GEN
+ID  - f151_ref_310
+TI  - Avoiding fallback in distributed systems.
+AU  - Amazon Web Services Builders' Library
+UR  - https://d1.awsstatic.com/builderslibrary/pdfs/avoiding-fallback-in-distributed-systems.pdf
+N1  - Published reference: Amazon Web Services Builders' Library. Avoiding fallback in distributed systems.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_311
+TI  - Obbligazione di sicurezza e nuove tecnologie: una lettura giuslavoristica del Decreto Smart Roads
+TT  - Safety Obligations and New Technologies: A Labor-Law Reading of the Smart Roads Decree
+AU  - Piglialarmi, Giovanni (2022)
+PY  - 2022
+UR  - https://journals.uniurb.it/index.php/dsl/article/download/3647/3151/14408
+N1  - Published reference: Piglialarmi, Giovanni (2022). Obbligazione di sicurezza e nuove tecnologie: una lettura giuslavoristica del Decreto Smart Roads. Diritto della Sicurezza sul Lavoro 2/2022, 74–95. [Safety Obligations and New Technologies: A Labor-Law Reading of the Smart Roads Decree]
+ER  -
+
+TY  - GEN
+ID  - f151_ref_312
+TI  - Monitoring machine learning-based risk prediction algorithms in the presence of performativity.
+AU  - Jean Feng
+AU  - Alexej Gossmann
+AU  - Gene A. Pennello
+AU  - Nicholas Petrick
+AU  - Berkman Sahiner
+AU  - Romain Pirracchio
+PY  - 2024
+UR  - https://proceedings.mlr.press/v238/feng24b.html
+N1  - Published reference: Jean Feng, Alexej Gossmann, Gene A. Pennello, Nicholas Petrick, Berkman Sahiner, and Romain Pirracchio. “Monitoring machine learning-based risk prediction algorithms in the presence of performativity.” PMLR 238, 2024, 919–927.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_313
+TI  - Performative Prediction.
+AU  - Juan Perdomo
+AU  - Tijana Zrnic
+AU  - Celestine Mendler-Dünner
+AU  - Moritz Hardt
+PY  - 2020
+UR  - https://proceedings.mlr.press/v119/perdomo20a.html
+N1  - Published reference: Juan Perdomo, Tijana Zrnic, Celestine Mendler-Dünner, and Moritz Hardt. “Performative Prediction.” PMLR 119, 2020, 7599–7609.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_314
+TI  - The Theory of Graceful Extensibility: Basic Rules that Govern Adaptive Systems.
+AU  - David D. Woods
+PY  - 2018
+DO  - 10.1007/s10669-018-9708-3
+UR  - https://doi.org/10.1007/s10669-018-9708-3
+N1  - Published reference: David D. Woods. “The Theory of Graceful Extensibility: Basic Rules that Govern Adaptive Systems.” Environment Systems and Decisions 38(4), 2018, 433–457. DOI 10.1007/s10669-018-9708-3.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_315
+TI  - Collaborative Plans for Complex Group Action.
+AU  - Barbara J. Grosz
+AU  - Sarit Kraus
+PY  - 1996
+DO  - 10.1016/0004-3702(95)00103-4
+UR  - https://doi.org/10.1016/0004-3702(95)00103-4
+N1  - Published reference: Barbara J. Grosz and Sarit Kraus. “Collaborative Plans for Complex Group Action.” Artificial Intelligence 86(2), 1996, 269–357. DOI 10.1016/0004-3702(95)00103-4.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_316
+TI  - Grounding in Communication.
+AU  - Herbert H. Clark
+AU  - Susan E. Brennan
+PY  - 1991
+DO  - 10.1037/10096-006
+UR  - https://doi.org/10.1037/10096-006
+N1  - Published reference: Herbert H. Clark and Susan E. Brennan. “Grounding in Communication.” In L. B. Resnick, J. M. Levine, and S. D. Teasley (eds.), Perspectives on Socially Shared Cognition, APA, 1991, 127–149. DOI 10.1037/10096-006.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_317
+TI  - Defining Liveness.
+AU  - Bowen Alpern
+AU  - Fred B. Schneider
+PY  - 1985
+DO  - 10.1016/0020-0190(85)90056-0
+UR  - https://doi.org/10.1016/0020-0190(85)90056-0
+N1  - Published reference: Bowen Alpern and Fred B. Schneider. “Defining Liveness.” Information Processing Letters 21(4), 1985, 181–185. DOI 10.1016/0020-0190(85)90056-0.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_318
+TI  - The Transaction Concept: Virtues and Limitations.
+AU  - Jim Gray
+PY  - 1981
+UR  - https://www.cs.utexas.edu/~dahlin/Classes/GradOS/papers/Gray81.pdf
+N1  - Published reference: Jim Gray. “The Transaction Concept: Virtues and Limitations.” Proceedings of the 7th International Conference on Very Large Data Bases, 1981, 144–154.
+ER  -
+
+TY  - RPRT
+ID  - f151_ref_319
+TI  - Transactional Outbox Pattern.
+AU  - Amazon Web Services
+PY  - 2026
+UR  - https://docs.aws.amazon.com/en_en/prescriptive-guidance/latest/cloud-design-patterns/transactional-outbox.html
+N1  - Published reference: Amazon Web Services. “Transactional Outbox Pattern.” AWS Prescriptive Guidance, consulted 10 October 2026.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_320
+TI  - Predicting Controller Capacity in Supervisory Control of Multiple UAVs.
+AU  - Mary L. Cummings
+AU  - P. J. Mitchell
+DO  - 10.1109/TSMCA.2007.914757
+UR  - https://doi.org/10.1109/TSMCA.2007.914757
+N1  - Published reference: Mary L. Cummings and P. J. Mitchell. “Predicting Controller Capacity in Supervisory Control of Multiple UAVs.” IEEE Transactions on Systems, Man, and Cybernetics—Part A 38(2), 2008, 451–460. DOI 10.1109/TSMCA.2007.914757.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_321
+TI  - Intention Is Choice with Commitment.
+AU  - Philip R. Cohen
+AU  - Hector J. Levesque
+PY  - 1990
+DO  - 10.1016/0004-3702(90)90055-5
+UR  - https://doi.org/10.1016/0004-3702(90)90055-5
+N1  - Published reference: Philip R. Cohen and Hector J. Levesque. “Intention Is Choice with Commitment.” Artificial Intelligence 42(2–3), 1990, 213–261. DOI 10.1016/0004-3702(90)90055-5.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_322
+TI  - Analysing and Assessing Accountability: A Conceptual Framework.
+AU  - Mark Bovens
+PY  - 2007
+DO  - 10.1111/j.1468-0386.2007.00378.x
+UR  - https://doi.org/10.1111/j.1468-0386.2007.00378.x
+N1  - Published reference: Mark Bovens. “Analysing and Assessing Accountability: A Conceptual Framework.” European Law Journal 13(4), 2007, 447–468. DOI 10.1111/j.1468-0386.2007.00378.x.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_323
+TI  - Taking CSCW Seriously: Supporting Articulation Work.
+AU  - Kjeld Schmidt
+AU  - Liam Bannon
+PY  - 1992
+DO  - 10.1007/BF00752449
+UR  - https://doi.org/10.1007/BF00752449
+N1  - Published reference: Kjeld Schmidt and Liam Bannon. “Taking CSCW Seriously: Supporting Articulation Work.” Computer Supported Cooperative Work 1(1), 1992, 7–40. DOI 10.1007/BF00752449.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_324
+TI  - An Approach to Maintaining Safety Case Evidence After a System Change.
+AU  - Omar Jaradat
+AU  - Patrick Graydon
+AU  - Iain Bate
+PY  - 2014
+UR  - https://arxiv.org/abs/1404.6846
+N1  - Published reference: Omar Jaradat, Patrick Graydon, and Iain Bate. “An Approach to Maintaining Safety Case Evidence After a System Change.” arXiv:1404.6846, 2014, 2 pp.
+ER  -
+
+TY  - GEN
+ID  - f151_ref_325
+TI  - Rainbow: Architecture-Based Self-Adaptation with Reusable Infrastructure.
+AU  - Shang-Wen Cheng
+AU  - An-Cheng Huang
+AU  - David Garlan
+AU  - Bradley Schmerl
+AU  - Peter Steenkiste
+PY  - 2004
+UR  - https://www.cs.cmu.edu/afs/cs/project/able/ftp/icac/autonomic-web.pdf
+N1  - Published reference: Shang-Wen Cheng, An-Cheng Huang, David Garlan, Bradley Schmerl, and Peter Steenkiste. “Rainbow: Architecture-Based Self-Adaptation with Reusable Infrastructure.” Carnegie Mellon author manuscript, submitted 19 January 2004.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_326
+TI  - The Oracle Problem in Software Testing: A Survey.
+AU  - Earl T. Barr
+AU  - Mark Harman
+AU  - Phil McMinn
+AU  - Muzammil Shahbaz
+AU  - Shin Yoo
+DO  - 10.1109/TSE.2014.2372785
+UR  - https://doi.org/10.1109/TSE.2014.2372785
+N1  - Published reference: Earl T. Barr, Mark Harman, Phil McMinn, Muzammil Shahbaz, and Shin Yoo. “The Oracle Problem in Software Testing: A Survey.” IEEE Transactions on Software Engineering 41(5), 2015, 507–525. DOI 10.1109/TSE.2014.2372785.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_327
+TI  - An Experimental Evaluation of the Assumption of Independence in Multiversion Programming.
+AU  - John C. Knight
+AU  - Nancy G. Leveson
+PY  - 1986
+DO  - 10.1109/TSE.1986.6312924
+UR  - https://doi.org/10.1109/TSE.1986.6312924
+N1  - Published reference: John C. Knight and Nancy G. Leveson. “An Experimental Evaluation of the Assumption of Independence in Multiversion Programming.” IEEE Transactions on Software Engineering SE-12(1), 1986, 96–109. DOI 10.1109/TSE.1986.6312924.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_328
+TI  - Digital Signature Standard (DSS), FIPS 186-5, 3 February 2023
+AU  - National Institute of Standards and Technology
+PY  - 2023
+DO  - 10.6028/NIST.FIPS.186-5
+UR  - https://doi.org/10.6028/NIST.FIPS.186-5
+N1  - Published reference: National Institute of Standards and Technology. Digital Signature Standard (DSS), FIPS 186-5, 3 February 2023. DOI 10.6028/NIST.FIPS.186-5.
+ER  -
+
+TY  - STAND
+ID  - f151_ref_329
+TI  - Exact Binomial.
+AU  - National Institute of Standards and Technology
+UR  - https://itl.nist.gov/div898/software/dataplot/refman2/auxillar/exacbino.htm
+N1  - Published reference: National Institute of Standards and Technology. “Exact Binomial.” Dataplot Reference Manual, created 5 October 2010, last updated 16 November 2015; consulted 10 October 2026.
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_330
+TI  - 自动化信任和依赖对航空安全的危害及其改进
+TT  - The Detriments and Improvement of Automation Trust and Dependence to Aviation Safety
+AU  - 王新野
+AU  - 李苑
+AU  - 常明
+AU  - 游旭群
+PY  - 2017
+DO  - 10.3724/SP.J.1042.2017.01614
+UR  - https://doi.org/10.3724/SP.J.1042.2017.01614
+N1  - Published reference: 王新野、李苑、常明、游旭群. “自动化信任和依赖对航空安全的危害及其改进” [The Detriments and Improvement of Automation Trust and Dependence to Aviation Safety]. 心理科学进展 / Advances in Psychological Science 25(9), 2017, 1614–1622. DOI 10.3724/SP.J.1042.2017.01614.
+ER  -
+
+TY  - RPRT
+ID  - f151_ref_331
+TI  - Redundanz, Flexibilität, Koordinierte Dezentralität.
+TT  - Redundancy, Flexibility, Coordinated Decentralization
+AU  - Nathalie Behnke
+PY  - 2023
+UR  - https://www.politikwissenschaft.tu-darmstadt.de/media/politikwissenschaft/ifp_news/dokumente_zu_den_artikeln/Behnke_Stellungnahme_23_01_10-1.pdf
+N1  - Published reference: Nathalie Behnke. “Redundanz, Flexibilität, Koordinierte Dezentralität.” Written statement for the Baden-Württemberg Landtag Enquête Commission “Krisenfeste Gesellschaft,” public hearing 3 February 2023. [Redundancy, Flexibility, Coordinated Decentralization]
+ER  -
+
+TY  - JOUR
+ID  - f151_ref_332
+TI  - Overadjustment Bias and Unnecessary Adjustment in Epidemiologic Studies.
+AU  - Enrique F. Schisterman
+AU  - Stephen R. Cole
+AU  - Robert W. Platt
+PY  - 2009
+DO  - 10.1097/EDE.0b013e3181a819a1
+UR  - https://doi.org/10.1097/EDE.0b013e3181a819a1
+N1  - Published reference: Enrique F. Schisterman, Stephen R. Cole, and Robert W. Platt. “Overadjustment Bias and Unnecessary Adjustment in Epidemiologic Studies.” Epidemiology 20(4), 2009, 488–495. DOI 10.1097/EDE.0b013e3181a819a1.
+ER  -

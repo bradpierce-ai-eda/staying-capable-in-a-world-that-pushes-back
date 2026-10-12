@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradpierce-ai-eda.github.io/staying-capable-in-a-world-that-pushes-back/sitemap.xml
