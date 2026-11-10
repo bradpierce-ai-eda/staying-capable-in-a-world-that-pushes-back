@@ -25,6 +25,8 @@ OLD_MARKERS = ["10.5281/zenodo." + "23256253", "when-design-exploration-" + "get
 PRIVATE_MARKERS = ["/Users/" + "brad/", "/workspace/" + "scratch/", ".chatgpt-" + "projects/"]
 
 
+from build_derivative import HTML_DISCLOSURE, HTML_PUBLISHED_DISCLOSURE, validate_html_disclosure
+
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
     with path.open("rb") as stream:
@@ -67,6 +69,7 @@ def main() -> None:
     require(not (root / "staying-capable-html-style.pdf").exists(), "Internal production filename leaked into repository root")
 
     index_source = (root / "index.html").read_text(encoding="utf-8")
+    validate_html_disclosure(index_source)
     doc = html.fromstring(index_source.encode("utf-8"))
     main_nodes = doc.xpath('//main[@id="canonical-paper"]')
     relevance = doc.xpath('//*[@id="relevance-and-citation-scope"]')
@@ -201,11 +204,13 @@ def main() -> None:
         require(checksum_map[name] == sha256(path), f"Checksum mismatch: {name}")
 
     provenance = json.loads((root / "provenance.json").read_text(encoding="utf-8"))
+    restored_text = " ".join(" ".join(main_node.itertext()).split()).replace(HTML_DISCLOSURE, HTML_PUBLISHED_DISCLOSURE)
+    require(hashlib.sha256(restored_text.encode("utf-8")).hexdigest() == provenance["canonical_paper_text"]["source_sha256"], "HTML content changed beyond the approved disclosure")
     require(provenance["identity_rule"]["release_filename"] == PUBLIC_PDF, "Release filename rule mismatch")
     require(provenance["identity_rule"]["production_output_path"].endswith("staying-capable-html-style.pdf"), "Production provenance missing")
     require(
         provenance["canonical_paper_text"]["source_sha256"]
-        == provenance["canonical_paper_text"]["published_index_sha256"],
+        == provenance["canonical_paper_text"]["html_before_disclosure_override_sha256"],
         "Canonical HTML text drift",
     )
     require(

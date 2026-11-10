@@ -66,6 +66,23 @@ LIMIT_BOUNDARY = (
 )
 
 
+
+# Author-approved HTML disclosure update, 2026-11-09.
+# The original publication sources remain unchanged.
+HTML_PUBLISHED_DISCLOSURE = 'Brad Pierce developed the central formulation and retains final editorial responsibility. AI assisted in preparing the paper. This collaboration doesn’t imply endorsement by any organization.'
+HTML_DISCLOSURE = 'This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication.'
+HTML_DISCLOSURE_OVERRIDE = {'authorized_on': '2026-11-09', 'scope': 'HTML contribution statement only; the deposited PDF and canonical Markdown remain unchanged.', 'statement': 'This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication.'}
+
+def update_html_disclosure(value):
+    if value.count(HTML_PUBLISHED_DISCLOSURE) != 1 or HTML_DISCLOSURE in value:
+        raise ValueError("Expected exactly one original HTML contribution statement")
+    return value.replace(HTML_PUBLISHED_DISCLOSURE, HTML_DISCLOSURE, 1)
+
+def validate_html_disclosure(value):
+    if value.count(HTML_DISCLOSURE) != 1 or HTML_PUBLISHED_DISCLOSURE in value:
+        raise ValueError("Expected exactly one current HTML contribution statement")
+
+
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
     with path.open("rb") as stream:
@@ -465,7 +482,7 @@ def build_index(source_html: Path, repo: Path, abstract: str, keywords: list[str
     output_main = html.fromstring(rendered.encode("utf-8")).xpath('//main[@id="canonical-paper"]')[0]
     if text_hash(output_main) != source_signature:
         raise ValueError("Canonical paper text changed during HTML augmentation")
-    write_text(repo / "index.html", rendered)
+    write_text(repo / "index.html", update_html_disclosure(rendered))
     return source_signature, text_hash(output_main)
 
 
@@ -693,6 +710,7 @@ Bibliography: [published numbered references](references.md) · [lossless normal
     write_text(repo / "metadata.json", json.dumps(metadata, ensure_ascii=False, indent=2) + "\n")
 
     provenance = {
+        "html_disclosure_override": HTML_DISCLOSURE_OVERRIDE,
         "derivative_purpose": "AI discovery, comprehension, relevance matching, bibliographic reuse, and citation of the canonical DOI",
         "canonical_publication": {"doi": DOI, "url": DOI_URL, "zenodo_record": ZENODO_URL},
         "sources": {
@@ -715,7 +733,7 @@ Bibliography: [published numbered references](references.md) · [lossless normal
         },
         "canonical_paper_text": {
             "source_sha256": source_signature,
-            "published_index_sha256": output_signature,
+            "html_before_disclosure_override_sha256": output_signature,
             "paper_markdown_sha256": markdown_signature,
         },
         "authority": "The Zenodo record and DOI are canonical. Repository files are discovery derivatives.",
